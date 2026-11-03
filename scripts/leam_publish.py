@@ -23,8 +23,16 @@ with zipfile.ZipFile(archives[0]) as z:
     profile=(obj.get('character_info') or {}).get('profile') or {}
     if profile.get('characterName') != 'Darkleam':
         raise SystemExit('Expected Darkleam character, received '+repr(profile.get('characterName')))
-    if int((obj.get('metadata') or {}).get('server_id') or 0) != 2317:
-        raise SystemExit('Unexpected server id')
+    meta=obj.get('metadata') or {}
+    if int(meta.get('server_id') or 0) <= 0 or not meta.get('character_id'):
+        raise SystemExit('Invalid character identity')
+    identity=meta.get('identity_verification') or {}
+    if identity.get('method') not in ('same_character_id','equipment_fingerprint','previous_id_search_unavailable','previous_id_search_lag'):
+        raise SystemExit('Character identity not verified')
+    if int(profile.get('serverId') or 0) != int(meta['server_id']):
+        raise SystemExit('Profile and snapshot server mismatch')
+    if profile.get('characterId') and profile.get('characterId') != meta['character_id']:
+        raise SystemExit('Profile and snapshot character ID mismatch')
     equipped=((obj.get('equipment') or {}).get('equipment') or {}).get('equipmentList') or []
     details=obj.get('equipped_items') or []
     if not equipped or len(equipped)!=len(details) or any(not v.get('data') for v in details):
