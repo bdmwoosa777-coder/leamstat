@@ -93,17 +93,7 @@ jobs:
           leam/leam_game_stats.csv
           *.tmp
           """, encoding='utf-8')
-          (root/'README.md').write_text("""# leam
-
-          Публичные данные персонажа **Darkleam** (Aion 2, EU Quai).
-
-          Обновление: каждый час на 17-й минуте UTC через **Actions → leam**.
-
-          Актуальный профиль: `data/leam.json`; сводка: `data/leam_stats.csv`; Даэванион: `data/leam_boards.html`.
-          При ошибке API старая успешная выгрузка сохраняется. Git хранит историю изменений.
-
-          Имя **Darkleam** в API — это имя персонажа, а **leam** — название проекта.
-          """, encoding='utf-8')
+          (root/'README.md').write_text("# leam\n\nАвтоматическое обновление данных.\n",encoding='utf-8')
           print('Leam naming migration OK')
           PY
       - name: Ensure leam publisher
