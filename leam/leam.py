@@ -14,8 +14,8 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import zipfile
-from stats_summary import produce, true_stats_template
-from snapshot_compare import latest_previous, compare
+from leam_stats import produce, true_stats_template
+from leam_compare import latest_previous, compare
 
 CHAR_NAME = 'Darkleam'
 REGION = 'eu'
@@ -318,23 +318,23 @@ def perform(client):
 
 def save(archive,directory):
     path=Path(directory)
-    name='Darkleam_FULL_'+dt.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')+'.zip'
+    name='leam_full_'+dt.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')+'.zip'
     dest=path/name
     previous,prevname=latest_previous(path)
-    template=path/'GAME_STATS.csv'
+    template=path/'leam_game_stats.csv'
     if not template.exists():
         template.write_text(true_stats_template(),encoding='utf-8-sig')
     stats=produce(archive,template)
     with zipfile.ZipFile(dest,'w',zipfile.ZIP_DEFLATED,compresslevel=8) as z:
-        z.writestr('Darkleam_ALL.json',json.dumps(archive,ensure_ascii=False,indent=2))
-        z.writestr('Darkleam_REPORT.txt',report_text(archive))
-        z.writestr('Darkleam_STATS_SUMMARY.csv',stats['summary_csv'])
-        z.writestr('Darkleam_STATS_DETAILS.csv',stats['details_csv'])
-        z.writestr('Darkleam_STATS_SUMMARY.html',stats['html'])
-        z.writestr('GAME_STATS.csv',template.read_bytes())
+        z.writestr('leam_all.json',json.dumps(archive,ensure_ascii=False,indent=2))
+        z.writestr('leam_report.txt',report_text(archive))
+        z.writestr('leam_stats.csv',stats['summary_csv'])
+        z.writestr('leam_stat_details.csv',stats['details_csv'])
+        z.writestr('leam_stats.html',stats['html'])
+        z.writestr('leam_game_stats.csv',template.read_bytes())
         if previous is not None:
-            z.writestr('Darkleam_CHANGES.txt',compare(previous,archive,prevname))
-        z.writestr('Darkleam_DAEVANION_AND_GEAR.html',report_html(archive))
+            z.writestr('leam_changes.txt',compare(previous,archive,prevname))
+        z.writestr('leam_boards.html',report_html(archive))
         z.writestr('README.txt','Открой HTML двойным щелчком. Передай весь ZIP в ChatGPT.\n'
                    'JSON содержит сырые ответы публичного API NCSOFT на момент экспорта.\n'
                    'Это НЕ данные текущего игрового клиента и не авторизация в аккаунте.\n'
@@ -354,13 +354,13 @@ def main():
         print('Подробно прочитано таблиц:',boards,'/',len(data['daevanion_boards']))
         print('Предупреждений:',len(data['errors']))
         print('Сводка известных бонусов и подробная CSV/HTML таблица добавлены в архив.')
-        print('Точные итоговые боевые статы, если известны, впиши в GAME_STATS.csv.')
+        print('Точные итоговые боевые статы, если известны, впиши в leam_game_stats.csv.')
         print('Отправь этот ZIP сюда. Если есть предупреждения, данные частичные.')
         return 0
     except Exception as exc:
         message=type(exc).__name__+': '+str(exc)
         print('\nНЕ ПОЛУЧИЛОСЬ:',message)
-        log=Path(__file__).resolve().parent/'Darkleam_ERROR.txt'
+        log=Path(__file__).resolve().parent/'leam_error.txt'
         log.write_text(timestamp()+'\n'+message+'\n', encoding='utf-8')
         print('Лог сохранён:',log)
         return 1

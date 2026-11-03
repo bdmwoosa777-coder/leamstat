@@ -133,7 +133,7 @@ def render_html(snapshot,rows, sums, real_stats):
         for rec in real_stats:out.append('<tr><td>'+esc(rec['Название'])+'</td><td>'+esc(rec['Значение'])+esc(rec.get('Единица',''))+'</td><td>'+esc(rec.get('Комментарий',''))+'</td></tr>')
         out.append('</table>')
     else:
-        out.append('<p>Пока нет точных итоговых боевых статов. Впиши их в <code>GAME_STATS.csv</code> из окна персонажа — следующая выгрузка подхватит эти значения без изменения сырых данных API.</p>')
+        out.append('<p>Пока нет точных итоговых боевых статов. Впиши их в <code>leam_game_stats.csv</code> из окна персонажа — следующая выгрузка подхватит эти значения без изменения сырых данных API.</p>')
     out.append('</div><div class="box"><h2>Основные и божественные атрибуты — точные данные API</h2><table><tr><th>Атрибут</th><th>Число</th><th>Производные эффекты</th></tr>')
     for s in info.get('stat',{}).get('statList') or []:
         if s.get('type')=='ItemLevel':continue

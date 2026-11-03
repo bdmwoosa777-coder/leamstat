@@ -1,0 +1,1824 @@
+AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
+Время запроса: 2026-11-03T02:38:27+00:00
+Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
+Проверка имени: Darkleam
+Уровень: 45
+Боевая мощь: 154577
+Сервер: Quai
+ID сервера: 2317
+
+=== ХАРАКТЕРИСТИКИ ПЕРСОНАЖА ===
+Might: 80 | Attack increase +8%
+Dexterity: 51 | Evasion increase +5.1%, Block increase +5.1%, Critical Hit Resist increase +5.1%
+Intelligence: 0
+Constitution: 45 | HP increase +4.5%
+Precision: 37 | Accuracy increase +3.7%, Critical Hit increase +3.7%
+Willpower: 11 | Status Effect Resist +1.1%
+Justice [Nezekan]: 51 | Defense increase +5.1%, Perfect Chance +5.1%
+Freedom [Vaizel]: 46 | Accuracy increase +4.6%, Evasion increase +4.6%
+Illusion [Kaisinel]: 25 | Cooldown -2.5%, Endurance Penetration +2.5%
+Life [Yustiel]: 15 | HP increase +1.5%, Regeneration +1.5%
+Time [Siel]: 73 | Combat Speed +7.3%, Double Resist +7.3%
+Destruction [Zikel]: 67 | Attack increase +6.7%, Perfect Resist +6.7%
+Death [Triniel]: 42 | Critical Hit increase +4.2%, Regeneration Penetration +4.2%
+Wisdom [Lumiel]: 47 | MP Cost -4.7%, Double Chance +4.7%
+Destiny [Marchutan]: 50 | MP increase +5%, Endurance +5%
+Space [Israphel]: 24 | Move Speed +2.4%, Block increase +2.4%
+아이템레벨: 2571
+
+=== ВЕЩИ: ПОЛНЫЕ СЛУЧАЙНЫЕ ХАРАКТЕРИСТИКИ И КАМНИ ===
+
+[MainHand] Enraged Kromede Jewel +15 (Прорыв 2)
+  Привязка души: 31.3%
+  Основные:
+    Attack: 265–530 (+146 усиление)
+    Accuracy: 50
+    Critical Hit: 150
+  Случайные:
+    Damage Boost: 6.1%
+    Might: 28
+    Combat Speed: 10.6%
+  Манастоуны:
+    Evasion Bonus +10
+    Block +15
+    MP +30
+    Attack +10
+  Теостоны:
+    Theostone: Zikel's Vestige: Has a 1% chance to deal 5000 Fire damage to a single target on attack
+Effect Activation Cooldown: 1s
+Only one Theostone's effect applies when identical Theostones are engraved.
+
+[SubHand] Spiritforged Guard +10 (Прорыв 0)
+  Привязка души: 100%
+  Основные:
+    Attack: 92 (+50 усиление)
+    Accuracy: 50
+    Critical Hit: 50
+  Случайные:
+    Might: 10–10
+    Accuracy: 30–30
+    HP: 120–120
+    Block: 15–15
+  Манастоуны:
+    MP +30
+    Evasion Bonus +7
+    Block +7
+    Critical Hit +7
+  Теостоны:
+
+[Torso] Nuakum Breastplate +10 (Прорыв 0)
+  Привязка души: 77.2%
+  Основные:
+    Defense: 637 (+250 усиление)
+    HP: 344 (+200 усиление)
+  Случайные:
+    Attack: 22
+  Манастоуны:
+    Critical Hit +7
+    Critical Hit Resist +7
+    Evasion Bonus +5
+    Attack +3
+  Теостоны:
+  Дополнительный навык: Element Unification 1
+  Дополнительный навык: Mental Focus 1
+  Дополнительный навык: Spirit Revitalization 1
+
+[Pants] Nuakum Greaves +10 (Прорыв 0)
+  Привязка души: 6.5%
+  Основные:
+    Defense: 531 (+250 усиление)
+    HP: 258 (+200 усиление)
+  Случайные:
+    Damage Tolerance: 9.5%
+    Accuracy: 41
+    Evasion: 24
+    Willpower: 11
+  Манастоуны:
+    Attack +1
+    Critical Hit +7
+    Attack +1
+    Critical Hit +5
+  Теостоны:
+
+[Helmet] Nuakum Helm +10 (Прорыв 0)
+  Привязка души: 85.5%
+  Основные:
+    Defense: 477 (+250 усиление)
+    HP: 215 (+200 усиление)
+  Случайные:
+    Incoming Heal: 16.8%
+  Манастоуны:
+    Critical Hit +5
+    Attack +1
+    Attack +3
+    MP +30
+  Теостоны:
+  Дополнительный навык: Revitalization Contract 1
+  Дополнительный навык: Mental Focus 1
+  Дополнительный навык: Spirit Revitalization 1
+
+[Shoulder] Nuakum Pauldrons +10 (Прорыв 0)
+  Привязка души: 33.7%
+  Основные:
+    Defense: 477 (+250 усиление)
+    HP: 215 (+200 усиление)
+  Случайные:
+    HP: 162
+    Critical Damage Boost: 10.8%
+    Defense: 175
+    Constitution: 9
+  Манастоуны:
+    Critical Hit Resist +5
+    Attack +3
+    Attack +1
+    HP +30
+  Теостоны:
+
+[Gloves] Vakron Gloves +10 (Прорыв 0)
+  Привязка души: 45.1%
+  Основные:
+    Defense: 345 (+200 усиление)
+    HP: 140 (+162 усиление)
+  Случайные:
+    Critical Damage Defense: 162
+    MP: 67
+    Combat Speed: 5.5%
+    Multi-hit Resist: 2.5%
+  Манастоуны:
+    Accuracy Bonus +7
+    MP +30
+    Critical Hit +5
+    HP +60
+  Теостоны:
+
+[Boots] Nuakum Boots +10 (Прорыв 0)
+  Привязка души: 75.4%
+  Основные:
+    Defense: 424 (+250 усиление)
+    HP: 172 (+200 усиление)
+  Случайные:
+    Perfect Chance: 3.5%
+  Манастоуны:
+    Attack +1
+    Attack +1
+    Evasion Bonus +7
+    Critical Hit +7
+  Теостоны:
+  Дополнительный навык: Spirit's Descent 1
+  Дополнительный навык: Spirit Communion 1
+  Дополнительный навык: Spirit Protection 1
+
+[Cape] Vakron Cloak +10 (Прорыв 0)
+  Привязка души: 44.6%
+  Основные:
+    Defense: 345 (+200 усиление)
+    HP: 140 (+162 усиление)
+  Случайные:
+    Block: 18
+    Accuracy: 30
+    HP: 126
+  Манастоуны:
+    HP +60
+    HP +30
+    Block +7
+    Critical Hit +7
+  Теостоны:
+  Дополнительный навык: Spirit Protection 1
+
+[Belt] Noble Belt +10 (Прорыв 0)
+  Привязка души: 100%
+  Основные:
+    Defense: 500 (+300 усиление)
+    HP: 1100 (+500 усиление)
+    HP Potion Recovery increase: 30% (+0% усиление)
+    Regeneration: 5% (+0% усиление)
+  Случайные:
+  Манастоуны:
+  Теостоны:
+
+[Necklace] Aulamus Necklace +10 (Прорыв 0)
+  Привязка души: 57.7%
+  Основные:
+    Attack: 108 (+39 усиление)
+    Defense: 259 (+99 усиление)
+  Случайные:
+    Accuracy: 51
+    Attack: 25
+    Critical Hit: 44
+  Манастоуны:
+    Defense +30
+    Attack +3
+    Block +7
+    Critical Hit +7
+  Теостоны:
+  Дополнительный навык: Corrode 1
+
+[Earring2] Enraged Kromede Earrings +10 (Прорыв 0)
+  Привязка души: 30.9%
+  Основные:
+    Attack: 111 (+47 усиление)
+    Defense: 265 (+120 усиление)
+  Случайные:
+    Natural HP Regen: 48
+    Might: 12
+    HP: 219
+    Critical Hit: 33
+  Манастоуны:
+    MP +30
+    Attack +3
+    Accuracy Bonus +5
+    Critical Hit +7
+  Теостоны:
+
+[Earring1] Enraged Kromede Earrings +10 (Прорыв 0)
+  Привязка души: 40.4%
+  Основные:
+    Attack: 111 (+47 усиление)
+    Defense: 265 (+120 усиление)
+  Случайные:
+    Accuracy: 49
+    Block: 27
+    Natural HP Regen: 49
+  Манастоуны:
+    Critical Hit Resist +5
+    Critical Hit +7
+    Attack +3
+    Critical Hit +5
+  Теостоны:
+  Дополнительный навык: Spirit Strike 1
+
+[Ring1] Enraged Kromede Ring +13 (Прорыв 0)
+  Привязка души: 60.7%
+  Основные:
+    Attack: 88 (+62 усиление)
+    Defense: 212 (+158 усиление)
+  Случайные:
+    Defense: 226
+    HP: 174
+  Манастоуны:
+    MP +30
+    Block +7
+    Attack +1
+    Attack +3
+  Теостоны:
+  Дополнительный навык: Summon: Water Spirit 1
+  Дополнительный навык: Jointstrike: Curse 1
+
+[Ring2] Enraged Kromede Ring +10 (Прорыв 0)
+  Привязка души: 20.5%
+  Основные:
+    Attack: 88 (+47 усиление)
+    Defense: 212 (+120 усиление)
+  Случайные:
+    HP: 171
+    Accuracy: 44
+    Critical Hit: 28
+    MP: 84
+  Манастоуны:
+    Defense +30
+    HP +30
+    Evasion Bonus +7
+    Accuracy Bonus +7
+  Теостоны:
+
+[Bracelet1] Ascension Bracelet +10 (Прорыв 0)
+  Привязка души: 100%
+  Основные:
+    Attack: 65 (+28 усиление)
+    Defense: 156 (+70 усиление)
+  Случайные:
+    Evasion: 12–12
+    Critical Hit: 9–9
+    MP: 26–26
+    Natural MP Regen: 9–9
+  Манастоуны:
+    Defense +30
+    Attack +1
+    Defense +30
+    Evasion Bonus +5
+  Теостоны:
+
+[Bracelet2] Liberator Bracelet +10 (Прорыв 0)
+  Привязка души: 100%
+  Основные:
+    Attack: 55 (+24 усиление)
+    Defense: 131 (+61 усиление)
+  Случайные:
+    Critical Hit: 8–8
+    MP: 22–22
+    Natural MP Regen: 8–8
+  Манастоуны:
+    Attack +3
+    MP +15
+    Accuracy Bonus +5
+  Теостоны:
+
+[Rune2] Clash Rune +4 (Прорыв 0)
+  Привязка души: 100%
+  Основные:
+    Combat Speed: 1% (+0% усиление)
+    Penetration: 100
+    Multi-hit Chance: 1% (+0% усиление)
+    PvE Damage Boost: 0.5% (+1% усиление)
+    PvE Damage Tolerance: 0.5% (+2% усиление)
+  Случайные:
+  Манастоуны:
+  Теостоны:
+
+[Rune1] Clash Rune +4 (Прорыв 0)
+  Привязка души: 100%
+  Основные:
+    Combat Speed: 1% (+0% усиление)
+    Penetration: 100
+    Multi-hit Chance: 1% (+0% усиление)
+    PvE Damage Boost: 0.5% (+1% усиление)
+    PvE Damage Tolerance: 0.5% (+2% усиление)
+  Случайные:
+  Манастоуны:
+  Теостоны:
+
+[Amulet] Revelation Amulet +10 (Прорыв 0)
+  Привязка души: 100%
+  Основные:
+    Penetration: 700 (+300 усиление)
+    Power Shard Damage Bonus: 40 (+30 усиление)
+    Weapon Damage Boost: 10% (+0% усиление)
+    Perfect Chance: 5% (+0% усиление)
+  Случайные:
+  Манастоуны:
+  Теостоны:
+
+[Arcana1] Chalice of Vigor +2 (Прорыв 0)
+  Привязка души: 100%
+  Основные:
+    Time [Siel]: 20 (+2 усиление)
+  Случайные:
+  Манастоуны:
+  Теостоны:
+  Дополнительный навык: Elemental Fusion 1
+  Дополнительный навык: Cold Shock 1
+  Дополнительный навык: Revitalization Contract 3
+  Дополнительный навык: Mental Focus 1
+
+[Arcana2] Parchment of Magic +2 (Прорыв 0)
+  Привязка души: 100%
+  Основные:
+    Destiny [Marchutan]: 20 (+2 усиление)
+  Случайные:
+  Манастоуны:
+  Теостоны:
+  Дополнительный навык: Elemental Fusion 2
+  Дополнительный навык: Summon: Earth Spirit 1
+  Дополнительный навык: Summon: Fire Spirit 2
+  Дополнительный навык: Jointstrike: Curse 1
+
+[Arcana3] Compass of Vigor +2 (Прорыв 0)
+  Привязка души: 100%
+  Основные:
+    Freedom [Vaizel]: 20 (+2 усиление)
+  Случайные:
+  Манастоуны:
+  Теостоны:
+  Дополнительный навык: Soul's Cry 1
+  Дополнительный навык: Combustion 2
+  Дополнительный навык: Defiance 2
+  Дополнительный навык: Summon: Water Spirit 1
+
+[Arcana4] Bell of Magic +0 (Прорыв 0)
+  Привязка души: 100%
+  Основные:
+    Destruction [Zikel]: 16
+  Случайные:
+  Манастоуны:
+  Теостоны:
+  Дополнительный навык: Element Unification 1
+  Дополнительный навык: Spirit Strike 1
+  Дополнительный навык: Spirit's Descent 1
+
+[Arcana5] Mirror of Magic +1 (Прорыв 0)
+  Привязка души: 100%
+  Основные:
+    Wisdom [Lumiel]: 20 (+1 усиление)
+  Случайные:
+  Манастоуны:
+  Теостоны:
+  Дополнительный навык: Mental Focus 1
+  Дополнительный навык: Corrode 2
+  Дополнительный навык: Spirit Protection 1
+  Дополнительный навык: Revitalization Contract 1
+
+=== НАВЫКИ И СТИГМЫ ===
+Active | Cold Shock | ур. 15 | установлен: да
+Active | Combustion | ур. 16 | установлен: да
+Active | Summon: Fire Spirit | ур. 16 | установлен: да
+Active | Summon: Water Spirit | ур. 16 | установлен: да
+Active | Jointstrike: Curse | ур. 16 | установлен: да
+Active | Rapid Scattershot | ур. 14 | установлен: да
+Active | Summon: Earth Spirit | ур. 15 | установлен: да
+Active | Dimensional Control | ур. 14 | установлен: да
+Active | Summon: Wind Spirit | ур. 3 | установлен: да
+Active | Soul's Cry | ур. 2 | установлен: да
+Active | Elemental Fusion | ур. 17 | установлен: да
+Active | Defiance | ур. 3 | установлен: нет
+Passive | Spirit Strike | ур. 16 | установлен: нет
+Passive | Spirit Protection | ур. 17 | установлен: нет
+Passive | Spirit's Descent | ур. 16 | установлен: нет
+Passive | Corrode | ур. 17 | установлен: нет
+Passive | Spirit Revitalization | ур. 16 | установлен: нет
+Passive | Mental Focus | ур. 18 | установлен: нет
+Passive | Consecutive Countercurrent | ур. 13 | установлен: нет
+Passive | Spirit Communion | ур. 15 | установлен: нет
+Passive | Revitalization Contract | ур. 13 | установлен: нет
+Passive | Element Unification | ур. 16 | установлен: нет
+Dp | Jointstrike: Destructive Attack | ур. 0 | установлен: нет
+Dp | Enhance: Spirit's Benediction | ур. 20 | установлен: да
+Dp | Flame Blessing | ур. 18 | установлен: да
+Dp | Summon: Ancient Spirit | ур. 20 | установлен: да
+Dp | Jointstrike: Corrode | ур. 10 | установлен: да
+Dp | Kaisinel's Power | ур. 0 | установлен: нет
+Dp | Siphon | ур. 0 | установлен: нет
+Dp | Cry of Terror | ур. 0 | установлен: нет
+Dp | Cursed Cloud | ур. 0 | установлен: нет
+Dp | Seize Magic | ур. 0 | установлен: нет
+Dp | Magic Block | ур. 0 | установлен: нет
+Dp | Assault Terror | ур. 0 | установлен: нет
+Dp | Command: Proxy | ур. 0 | установлен: нет
+
+=== ДАЭВАНИОН: ВСЕ УЗЛЫ ===
+
+[Nezekan] 60/88 (ID=51)
+  [закрыт] R1/C1  (None) 
+  [закрыт] R1/C2  (None) 
+  [закрыт] R1/C3  (None) 
+  [закрыт] R1/C4  (None) 
+  [закрыт] R1/C5  (None) 
+  [закрыт] R1/C6  (None) 
+  [закрыт] R1/C7  (None) 
+  [закрыт] R1/C8  (None) 
+  [закрыт] R1/C9  (None) 
+  [закрыт] R1/C10  (None) 
+  [закрыт] R1/C11  (None) 
+  [закрыт] R1/C12  (None) 
+  [закрыт] R1/C13  (None) 
+  [закрыт] R1/C14  (None) 
+  [закрыт] R1/C15  (None) 
+  [закрыт] R2/C1  (None) 
+  [закрыт] R2/C2  (None) 
+  [закрыт] R2/C3  (None) 
+  [закрыт] R2/C4  (None) 
+  [закрыт] R2/C5  (None) 
+  [закрыт] R2/C6  (None) 
+  [закрыт] R2/C7  (None) 
+  [закрыт] R2/C8  (None) 
+  [закрыт] R2/C9  (None) 
+  [закрыт] R2/C10  (None) 
+  [закрыт] R2/C11  (None) 
+  [закрыт] R2/C12  (None) 
+  [закрыт] R2/C13  (None) 
+  [закрыт] R2/C14  (None) 
+  [закрыт] R2/C15  (None) 
+  [закрыт] R3/C1  (None) 
+  [закрыт] R3/C2  (None) 
+  [ОТКРЫТ] R3/C3 Combat Speed (Stat) Combat Speed +1.5%
+  [закрыт] R3/C4 Attack (Stat) Attack Bonus +3
+  [закрыт] R3/C5 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R3/C6  (None) 
+  [ОТКРЫТ] R3/C7 Skill Level Up - Spirit Protection (SkillLevel) Spirit Protection +1
+  [закрыт] R3/C8 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R3/C9 Skill Level Up - Soul's Cry (SkillLevel) Soul's Cry +1
+  [закрыт] R3/C10  (None) 
+  [ОТКРЫТ] R3/C11 Skill Level Up - Spirit's Descent (SkillLevel) Spirit's Descent +1
+  [ОТКРЫТ] R3/C12 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R3/C13 Cooldown Reduction (Stat) Cooldown Reduction +1.5%
+  [закрыт] R3/C14  (None) 
+  [закрыт] R3/C15  (None) 
+  [закрыт] R4/C1  (None) 
+  [закрыт] R4/C2  (None) 
+  [ОТКРЫТ] R4/C3 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R4/C4  (None) 
+  [ОТКРЫТ] R4/C5 Skill Level Up - Jointstrike: Curse (SkillLevel) Jointstrike: Curse +1
+  [ОТКРЫТ] R4/C6 Max MP (Stat) MP +50
+  [ОТКРЫТ] R4/C7 Defense (Stat) Defense Bonus +30
+  [закрыт] R4/C8  (None) 
+  [закрыт] R4/C9 Max MP (Stat) MP +50
+  [закрыт] R4/C10 Defense (Stat) Defense Bonus +30
+  [закрыт] R4/C11 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R4/C12  (None) 
+  [ОТКРЫТ] R4/C13 Max MP (Stat) MP +50
+  [закрыт] R4/C14  (None) 
+  [закрыт] R4/C15  (None) 
+  [закрыт] R5/C1  (None) 
+  [закрыт] R5/C2  (None) 
+  [ОТКРЫТ] R5/C3 Skill Level Up - Spirit Strike (SkillLevel) Spirit Strike +1
+  [ОТКРЫТ] R5/C4 Defense (Stat) Defense Bonus +30
+  [закрыт] R5/C5 Max HP (Stat) HP +100
+  [закрыт] R5/C6  (None) 
+  [ОТКРЫТ] R5/C7 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R5/C8 Skill Level Up - Summon: Fire Spirit (SkillLevel) Summon: Fire Spirit +1
+  [закрыт] R5/C9 Max HP (Stat) HP +100
+  [закрыт] R5/C10  (None) 
+  [ОТКРЫТ] R5/C11 Skill Level Up - Dimensional Control (SkillLevel) Dimensional Control +1
+  [ОТКРЫТ] R5/C12 Max HP (Stat) HP +100
+  [ОТКРЫТ] R5/C13 Skill Level Up - Corrode (SkillLevel) Corrode +1
+  [закрыт] R5/C14  (None) 
+  [закрыт] R5/C15  (None) 
+  [закрыт] R6/C1  (None) 
+  [закрыт] R6/C2  (None) 
+  [закрыт] R6/C3  (None) 
+  [ОТКРЫТ] R6/C4 Max HP (Stat) HP +100
+  [закрыт] R6/C5  (None) 
+  [закрыт] R6/C6  (None) 
+  [ОТКРЫТ] R6/C7 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R6/C8  (None) 
+  [закрыт] R6/C9 Defense (Stat) Defense Bonus +30
+  [закрыт] R6/C10  (None) 
+  [ОТКРЫТ] R6/C11 Attack (Stat) Attack Bonus +3
+  [закрыт] R6/C12  (None) 
+  [закрыт] R6/C13 Defense (Stat) Defense Bonus +30
+  [закрыт] R6/C14  (None) 
+  [закрыт] R6/C15  (None) 
+  [закрыт] R7/C1  (None) 
+  [закрыт] R7/C2  (None) 
+  [закрыт] R7/C3 Max MP (Stat) MP +50
+  [ОТКРЫТ] R7/C4 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R7/C5 Skill Level Up - Combustion (SkillLevel) Combustion +1
+  [ОТКРЫТ] R7/C6 Max HP (Stat) HP +100
+  [ОТКРЫТ] R7/C7 Max MP (Stat) MP +50
+  [ОТКРЫТ] R7/C8 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R7/C9 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R7/C10 Skill Level Up - Spirit Revitalization (SkillLevel) Spirit Revitalization +1
+  [ОТКРЫТ] R7/C11 Max MP (Stat) MP +50
+  [закрыт] R7/C12 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R7/C13 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R7/C14  (None) 
+  [закрыт] R7/C15  (None) 
+  [закрыт] R8/C1  (None) 
+  [закрыт] R8/C2  (None) 
+  [закрыт] R8/C3 Skill Level Up - Defiance (SkillLevel) Defiance +1
+  [закрыт] R8/C4  (None) 
+  [закрыт] R8/C5  (None) 
+  [закрыт] R8/C6 Defense (Stat) Defense Bonus +30
+  [закрыт] R8/C7  (None) 
+  [закрыт] R8/C8 Nezekan - Start (Start) 
+  [закрыт] R8/C9  (None) 
+  [закрыт] R8/C10 Attack (Stat) Attack Bonus +3
+  [закрыт] R8/C11  (None) 
+  [закрыт] R8/C12  (None) 
+  [ОТКРЫТ] R8/C13 Skill Level Up - Rapid Scattershot (SkillLevel) Rapid Scattershot +1
+  [закрыт] R8/C14  (None) 
+  [закрыт] R8/C15  (None) 
+  [закрыт] R9/C1  (None) 
+  [закрыт] R9/C2  (None) 
+  [закрыт] R9/C3 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R9/C4 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R9/C5 Max HP (Stat) HP +100
+  [ОТКРЫТ] R9/C6 Skill Level Up - Corrode (SkillLevel) Corrode +1
+  [ОТКРЫТ] R9/C7 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R9/C8 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R9/C9 Max HP (Stat) HP +100
+  [ОТКРЫТ] R9/C10 Max MP (Stat) MP +50
+  [ОТКРЫТ] R9/C11 Skill Level Up - Cold Shock (SkillLevel) Cold Shock +1
+  [ОТКРЫТ] R9/C12 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R9/C13 Max HP (Stat) HP +100
+  [закрыт] R9/C14  (None) 
+  [закрыт] R9/C15  (None) 
+  [закрыт] R10/C1  (None) 
+  [закрыт] R10/C2  (None) 
+  [ОТКРЫТ] R10/C3 Attack (Stat) Attack Bonus +3
+  [закрыт] R10/C4  (None) 
+  [закрыт] R10/C5 Defense (Stat) Defense Bonus +30
+  [закрыт] R10/C6  (None) 
+  [ОТКРЫТ] R10/C7 Attack (Stat) Attack Bonus +3
+  [закрыт] R10/C8  (None) 
+  [закрыт] R10/C9 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R10/C10  (None) 
+  [закрыт] R10/C11  (None) 
+  [ОТКРЫТ] R10/C12 Max MP (Stat) MP +50
+  [закрыт] R10/C13  (None) 
+  [закрыт] R10/C14  (None) 
+  [закрыт] R10/C15  (None) 
+  [закрыт] R11/C1  (None) 
+  [закрыт] R11/C2  (None) 
+  [ОТКРЫТ] R11/C3 Skill Level Up - Spirit Revitalization (SkillLevel) Spirit Revitalization +1
+  [закрыт] R11/C4 Max MP (Stat) MP +50
+  [ОТКРЫТ] R11/C5 Skill Level Up - Summon: Wind Spirit (SkillLevel) Summon: Wind Spirit +1
+  [закрыт] R11/C6  (None) 
+  [ОТКРЫТ] R11/C7 Max MP (Stat) MP +50
+  [ОТКРЫТ] R11/C8 Skill Level Up - Summon: Water Spirit (SkillLevel) Summon: Water Spirit +1
+  [закрыт] R11/C9 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R11/C10  (None) 
+  [ОТКРЫТ] R11/C11 Max MP (Stat) MP +50
+  [ОТКРЫТ] R11/C12 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R11/C13 Skill Level Up - Spirit Protection (SkillLevel) Spirit Protection +1
+  [закрыт] R11/C14  (None) 
+  [закрыт] R11/C15  (None) 
+  [закрыт] R12/C1  (None) 
+  [закрыт] R12/C2  (None) 
+  [ОТКРЫТ] R12/C3 Max HP (Stat) HP +100
+  [закрыт] R12/C4  (None) 
+  [ОТКРЫТ] R12/C5 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R12/C6 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R12/C7 Max HP (Stat) HP +100
+  [закрыт] R12/C8  (None) 
+  [закрыт] R12/C9 Attack (Stat) Attack Bonus +3
+  [закрыт] R12/C10 Max HP (Stat) HP +100
+  [ОТКРЫТ] R12/C11 Skill Level Up - Summon: Earth Spirit (SkillLevel) Summon: Earth Spirit +1
+  [закрыт] R12/C12  (None) 
+  [ОТКРЫТ] R12/C13 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R12/C14  (None) 
+  [закрыт] R12/C15  (None) 
+  [закрыт] R13/C1  (None) 
+  [закрыт] R13/C2  (None) 
+  [ОТКРЫТ] R13/C3 Cooldown Reduction (Stat) Cooldown Reduction +1.5%
+  [ОТКРЫТ] R13/C4 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R13/C5 Skill Level Up - Spirit's Descent (SkillLevel) Spirit's Descent +1
+  [закрыт] R13/C6  (None) 
+  [ОТКРЫТ] R13/C7 Skill Level Up - Elemental Fusion (SkillLevel) Elemental Fusion +1
+  [ОТКРЫТ] R13/C8 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R13/C9 Skill Level Up - Spirit Strike (SkillLevel) Spirit Strike +1
+  [закрыт] R13/C10  (None) 
+  [закрыт] R13/C11 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R13/C12 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R13/C13 Combat Speed (Stat) Combat Speed +1.5%
+  [закрыт] R13/C14  (None) 
+  [закрыт] R13/C15  (None) 
+  [закрыт] R14/C1  (None) 
+  [закрыт] R14/C2  (None) 
+  [закрыт] R14/C3  (None) 
+  [закрыт] R14/C4  (None) 
+  [закрыт] R14/C5  (None) 
+  [закрыт] R14/C6  (None) 
+  [закрыт] R14/C7  (None) 
+  [закрыт] R14/C8  (None) 
+  [закрыт] R14/C9  (None) 
+  [закрыт] R14/C10  (None) 
+  [закрыт] R14/C11  (None) 
+  [закрыт] R14/C12  (None) 
+  [закрыт] R14/C13  (None) 
+  [закрыт] R14/C14  (None) 
+  [закрыт] R14/C15  (None) 
+  [закрыт] R15/C1  (None) 
+  [закрыт] R15/C2  (None) 
+  [закрыт] R15/C3  (None) 
+  [закрыт] R15/C4  (None) 
+  [закрыт] R15/C5  (None) 
+  [закрыт] R15/C6  (None) 
+  [закрыт] R15/C7  (None) 
+  [закрыт] R15/C8  (None) 
+  [закрыт] R15/C9  (None) 
+  [закрыт] R15/C10  (None) 
+  [закрыт] R15/C11  (None) 
+  [закрыт] R15/C12  (None) 
+  [закрыт] R15/C13  (None) 
+  [закрыт] R15/C14  (None) 
+  [закрыт] R15/C15  (None) 
+  Все открытые бонусы характеристик: HP +700 | MP +400 | Critical Hit Resist +20 | Attack Bonus +21 | Critical Hit +30 | Cooldown Reduction +3% | Defense Bonus +120 | Combat Speed +3%
+  Все открытые бонусы навыков: Rapid Scattershot +1 | Spirit Revitalization +2 | Summon: Fire Spirit +1 | Spirit's Descent +2 | Summon: Earth Spirit +1 | Elemental Fusion +1 | Combustion +1 | Spirit Strike +2 | Jointstrike: Curse +1 | Dimensional Control +1 | Summon: Water Spirit +1 | Corrode +2 | Summon: Wind Spirit +1 | Spirit Protection +2 | Cold Shock +1
+
+[Zikel] 60/88 (ID=52)
+  [закрыт] R1/C1  (None) 
+  [закрыт] R1/C2  (None) 
+  [закрыт] R1/C3  (None) 
+  [закрыт] R1/C4  (None) 
+  [закрыт] R1/C5  (None) 
+  [закрыт] R1/C6  (None) 
+  [закрыт] R1/C7  (None) 
+  [закрыт] R1/C8  (None) 
+  [закрыт] R1/C9  (None) 
+  [закрыт] R1/C10  (None) 
+  [закрыт] R1/C11  (None) 
+  [закрыт] R1/C12  (None) 
+  [закрыт] R1/C13  (None) 
+  [закрыт] R1/C14  (None) 
+  [закрыт] R1/C15  (None) 
+  [закрыт] R2/C1  (None) 
+  [закрыт] R2/C2  (None) 
+  [закрыт] R2/C3  (None) 
+  [закрыт] R2/C4  (None) 
+  [закрыт] R2/C5  (None) 
+  [закрыт] R2/C6  (None) 
+  [закрыт] R2/C7  (None) 
+  [закрыт] R2/C8  (None) 
+  [закрыт] R2/C9  (None) 
+  [закрыт] R2/C10  (None) 
+  [закрыт] R2/C11  (None) 
+  [закрыт] R2/C12  (None) 
+  [закрыт] R2/C13  (None) 
+  [закрыт] R2/C14  (None) 
+  [закрыт] R2/C15  (None) 
+  [закрыт] R3/C1  (None) 
+  [закрыт] R3/C2  (None) 
+  [ОТКРЫТ] R3/C3 Damage Tolerance (Stat) Damage Tolerance +1.5%
+  [закрыт] R3/C4 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R3/C5 Max MP (Stat) MP +50
+  [закрыт] R3/C6 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R3/C7 Skill Level Up - Rapid Scattershot (SkillLevel) Rapid Scattershot +1
+  [ОТКРЫТ] R3/C8 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R3/C9 Skill Level Up - Mental Focus (SkillLevel) Mental Focus +1
+  [ОТКРЫТ] R3/C10 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R3/C11 Skill Level Up - Elemental Fusion (SkillLevel) Elemental Fusion +1
+  [ОТКРЫТ] R3/C12 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R3/C13 Damage Boost (Stat) Damage Boost +1.5%
+  [закрыт] R3/C14  (None) 
+  [закрыт] R3/C15  (None) 
+  [закрыт] R4/C1  (None) 
+  [закрыт] R4/C2  (None) 
+  [ОТКРЫТ] R4/C3 Attack (Stat) Attack Bonus +3
+  [закрыт] R4/C4  (None) 
+  [ОТКРЫТ] R4/C5 Skill Level Up - Element Unification (SkillLevel) Element Unification +1
+  [закрыт] R4/C6  (None) 
+  [закрыт] R4/C7 Max HP (Stat) HP +100
+  [закрыт] R4/C8  (None) 
+  [закрыт] R4/C9  (None) 
+  [ОТКРЫТ] R4/C10 Max MP (Stat) MP +50
+  [закрыт] R4/C11  (None) 
+  [закрыт] R4/C12  (None) 
+  [ОТКРЫТ] R4/C13 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R4/C14  (None) 
+  [закрыт] R4/C15  (None) 
+  [закрыт] R5/C1  (None) 
+  [закрыт] R5/C2  (None) 
+  [ОТКРЫТ] R5/C3 Skill Level Up - Cold Shock (SkillLevel) Cold Shock +1
+  [ОТКРЫТ] R5/C4 Max HP (Stat) HP +100
+  [ОТКРЫТ] R5/C5 Defense (Stat) Defense Bonus +30
+  [закрыт] R5/C6  (None) 
+  [закрыт] R5/C7 Attack (Stat) Attack Bonus +3
+  [закрыт] R5/C8 Max MP (Stat) MP +50
+  [ОТКРЫТ] R5/C9 Skill Level Up - Summon: Fire Spirit (SkillLevel) Summon: Fire Spirit +1
+  [ОТКРЫТ] R5/C10 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R5/C11 Max MP (Stat) MP +50
+  [ОТКРЫТ] R5/C12 Skill Level Up - Revitalization Contract (SkillLevel) Revitalization Contract +1
+  [ОТКРЫТ] R5/C13 Attack (Stat) Attack Bonus +3
+  [закрыт] R5/C14  (None) 
+  [закрыт] R5/C15  (None) 
+  [закрыт] R6/C1  (None) 
+  [закрыт] R6/C2  (None) 
+  [ОТКРЫТ] R6/C3 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R6/C4  (None) 
+  [ОТКРЫТ] R6/C5 Max MP (Stat) MP +50
+  [закрыт] R6/C6 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R6/C7 Skill Level Up - Spirit Communion (SkillLevel) Spirit Communion +1
+  [закрыт] R6/C8  (None) 
+  [ОТКРЫТ] R6/C9 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R6/C10  (None) 
+  [закрыт] R6/C11 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R6/C12  (None) 
+  [ОТКРЫТ] R6/C13 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R6/C14  (None) 
+  [закрыт] R6/C15  (None) 
+  [закрыт] R7/C1  (None) 
+  [закрыт] R7/C2  (None) 
+  [ОТКРЫТ] R7/C3 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R7/C4 Max HP (Stat) HP +100
+  [ОТКРЫТ] R7/C5 Skill Level Up - Summon: Water Spirit (SkillLevel) Summon: Water Spirit +1
+  [закрыт] R7/C6  (None) 
+  [ОТКРЫТ] R7/C7 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R7/C8  (None) 
+  [ОТКРЫТ] R7/C9 Max MP (Stat) MP +50
+  [ОТКРЫТ] R7/C10 Skill Level Up - Consecutive Countercurrent (SkillLevel) Consecutive Countercurrent +1
+  [закрыт] R7/C11 Max HP (Stat) HP +100
+  [закрыт] R7/C12 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R7/C13 Skill Level Up - Combustion (SkillLevel) Combustion +1
+  [закрыт] R7/C14  (None) 
+  [закрыт] R7/C15  (None) 
+  [закрыт] R8/C1  (None) 
+  [закрыт] R8/C2  (None) 
+  [закрыт] R8/C3  (None) 
+  [ОТКРЫТ] R8/C4 Attack (Stat) Attack Bonus +3
+  [закрыт] R8/C5  (None) 
+  [закрыт] R8/C6  (None) 
+  [ОТКРЫТ] R8/C7 Defense (Stat) Defense Bonus +30
+  [закрыт] R8/C8 Zikel - Start (Start) 
+  [ОТКРЫТ] R8/C9 Attack (Stat) Attack Bonus +3
+  [закрыт] R8/C10  (None) 
+  [закрыт] R8/C11  (None) 
+  [закрыт] R8/C12 Defense (Stat) Defense Bonus +30
+  [закрыт] R8/C13  (None) 
+  [закрыт] R8/C14  (None) 
+  [закрыт] R8/C15  (None) 
+  [закрыт] R9/C1  (None) 
+  [закрыт] R9/C2  (None) 
+  [ОТКРЫТ] R9/C3 Skill Level Up - Dimensional Control (SkillLevel) Dimensional Control +1
+  [ОТКРЫТ] R9/C4 Defense (Stat) Defense Bonus +30
+  [закрыт] R9/C5 Max MP (Stat) MP +50
+  [закрыт] R9/C6 Skill Level Up - Revitalization Contract (SkillLevel) Revitalization Contract +1
+  [ОТКРЫТ] R9/C7 Max HP (Stat) HP +100
+  [закрыт] R9/C8  (None) 
+  [ОТКРЫТ] R9/C9 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R9/C10  (None) 
+  [закрыт] R9/C11 Skill Level Up - Soul's Cry (SkillLevel) Soul's Cry +1
+  [закрыт] R9/C12 Max MP (Stat) MP +50
+  [закрыт] R9/C13 Attack (Stat) Attack Bonus +3
+  [закрыт] R9/C14  (None) 
+  [закрыт] R9/C15  (None) 
+  [закрыт] R10/C1  (None) 
+  [закрыт] R10/C2  (None) 
+  [ОТКРЫТ] R10/C3 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R10/C4  (None) 
+  [закрыт] R10/C5 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R10/C6  (None) 
+  [ОТКРЫТ] R10/C7 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R10/C8  (None) 
+  [ОТКРЫТ] R10/C9 Skill Level Up - Element Unification (SkillLevel) Element Unification +1
+  [ОТКРЫТ] R10/C10 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R10/C11 Max HP (Stat) HP +100
+  [закрыт] R10/C12  (None) 
+  [закрыт] R10/C13 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R10/C14  (None) 
+  [закрыт] R10/C15  (None) 
+  [закрыт] R11/C1  (None) 
+  [закрыт] R11/C2  (None) 
+  [ОТКРЫТ] R11/C3 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R11/C4 Skill Level Up - Consecutive Countercurrent (SkillLevel) Consecutive Countercurrent +1
+  [закрыт] R11/C5 Max HP (Stat) HP +100
+  [ОТКРЫТ] R11/C6 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R11/C7 Skill Level Up - Summon: Wind Spirit (SkillLevel) Summon: Wind Spirit +1
+  [закрыт] R11/C8 Max HP (Stat) HP +100
+  [закрыт] R11/C9 Defense (Stat) Defense Bonus +30
+  [закрыт] R11/C10  (None) 
+  [ОТКРЫТ] R11/C11 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R11/C12 Max MP (Stat) MP +50
+  [ОТКРЫТ] R11/C13 Skill Level Up - Summon: Earth Spirit (SkillLevel) Summon: Earth Spirit +1
+  [закрыт] R11/C14  (None) 
+  [закрыт] R11/C15  (None) 
+  [закрыт] R12/C1  (None) 
+  [закрыт] R12/C2  (None) 
+  [ОТКРЫТ] R12/C3 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R12/C4  (None) 
+  [закрыт] R12/C5  (None) 
+  [ОТКРЫТ] R12/C6 Max MP (Stat) MP +50
+  [закрыт] R12/C7  (None) 
+  [закрыт] R12/C8  (None) 
+  [закрыт] R12/C9 Max MP (Stat) MP +50
+  [закрыт] R12/C10  (None) 
+  [ОТКРЫТ] R12/C11 Skill Level Up - Spirit Communion (SkillLevel) Spirit Communion +1
+  [закрыт] R12/C12  (None) 
+  [ОТКРЫТ] R12/C13 Defense (Stat) Defense Bonus +30
+  [закрыт] R12/C14  (None) 
+  [закрыт] R12/C15  (None) 
+  [закрыт] R13/C1  (None) 
+  [закрыт] R13/C2  (None) 
+  [ОТКРЫТ] R13/C3 Damage Boost (Stat) Damage Boost +1.5%
+  [ОТКРЫТ] R13/C4 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R13/C5 Skill Level Up - Jointstrike: Curse (SkillLevel) Jointstrike: Curse +1
+  [ОТКРЫТ] R13/C6 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R13/C7 Skill Level Up - Mental Focus (SkillLevel) Mental Focus +1
+  [закрыт] R13/C8 Attack (Stat) Attack Bonus +3
+  [закрыт] R13/C9 Skill Level Up - Defiance (SkillLevel) Defiance +1
+  [закрыт] R13/C10 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R13/C11 Max HP (Stat) HP +100
+  [закрыт] R13/C12 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R13/C13 Damage Tolerance (Stat) Damage Tolerance +1.5%
+  [закрыт] R13/C14  (None) 
+  [закрыт] R13/C15  (None) 
+  [закрыт] R14/C1  (None) 
+  [закрыт] R14/C2  (None) 
+  [закрыт] R14/C3  (None) 
+  [закрыт] R14/C4  (None) 
+  [закрыт] R14/C5  (None) 
+  [закрыт] R14/C6  (None) 
+  [закрыт] R14/C7  (None) 
+  [закрыт] R14/C8  (None) 
+  [закрыт] R14/C9  (None) 
+  [закрыт] R14/C10  (None) 
+  [закрыт] R14/C11  (None) 
+  [закрыт] R14/C12  (None) 
+  [закрыт] R14/C13  (None) 
+  [закрыт] R14/C14  (None) 
+  [закрыт] R14/C15  (None) 
+  [закрыт] R15/C1  (None) 
+  [закрыт] R15/C2  (None) 
+  [закрыт] R15/C3  (None) 
+  [закрыт] R15/C4  (None) 
+  [закрыт] R15/C5  (None) 
+  [закрыт] R15/C6  (None) 
+  [закрыт] R15/C7  (None) 
+  [закрыт] R15/C8  (None) 
+  [закрыт] R15/C9  (None) 
+  [закрыт] R15/C10  (None) 
+  [закрыт] R15/C11  (None) 
+  [закрыт] R15/C12  (None) 
+  [закрыт] R15/C13  (None) 
+  [закрыт] R15/C14  (None) 
+  [закрыт] R15/C15  (None) 
+  Все открытые бонусы характеристик: HP +400 | Damage Tolerance +3% | MP +250 | Damage Boost +3% | Critical Hit Resist +25 | Attack Bonus +21 | Critical Hit +35 | Defense Bonus +270
+  Все открытые бонусы навыков: Rapid Scattershot +1 | Summon: Fire Spirit +1 | Spirit Communion +2 | Consecutive Countercurrent +2 | Summon: Earth Spirit +1 | Elemental Fusion +1 | Combustion +1 | Mental Focus +2 | Jointstrike: Curse +1 | Dimensional Control +1 | Summon: Water Spirit +1 | Element Unification +2 | Summon: Wind Spirit +1 | Revitalization Contract +1 | Cold Shock +1
+
+[Vaizel] 57/88 (ID=53)
+  [закрыт] R1/C1  (None) 
+  [закрыт] R1/C2  (None) 
+  [закрыт] R1/C3  (None) 
+  [закрыт] R1/C4  (None) 
+  [закрыт] R1/C5  (None) 
+  [закрыт] R1/C6  (None) 
+  [закрыт] R1/C7  (None) 
+  [закрыт] R1/C8  (None) 
+  [закрыт] R1/C9  (None) 
+  [закрыт] R1/C10  (None) 
+  [закрыт] R1/C11  (None) 
+  [закрыт] R1/C12  (None) 
+  [закрыт] R1/C13  (None) 
+  [закрыт] R1/C14  (None) 
+  [закрыт] R1/C15  (None) 
+  [закрыт] R2/C1  (None) 
+  [закрыт] R2/C2  (None) 
+  [закрыт] R2/C3  (None) 
+  [закрыт] R2/C4  (None) 
+  [закрыт] R2/C5  (None) 
+  [закрыт] R2/C6  (None) 
+  [закрыт] R2/C7  (None) 
+  [закрыт] R2/C8  (None) 
+  [закрыт] R2/C9  (None) 
+  [закрыт] R2/C10  (None) 
+  [закрыт] R2/C11  (None) 
+  [закрыт] R2/C12  (None) 
+  [закрыт] R2/C13  (None) 
+  [закрыт] R2/C14  (None) 
+  [закрыт] R2/C15  (None) 
+  [закрыт] R3/C1  (None) 
+  [закрыт] R3/C2  (None) 
+  [ОТКРЫТ] R3/C3 Critical Damage Boost (Stat) Critical Damage Boost +1.5%
+  [ОТКРЫТ] R3/C4 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R3/C5 Skill Level Up - Spirit Strike (SkillLevel) Spirit Strike +1
+  [закрыт] R3/C6  (None) 
+  [закрыт] R3/C7 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R3/C8 Skill Level Up - Rapid Scattershot (SkillLevel) Rapid Scattershot +1
+  [ОТКРЫТ] R3/C9 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R3/C10 Skill Level Up - Spirit's Descent (SkillLevel) Spirit's Descent +1
+  [ОТКРЫТ] R3/C11 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R3/C12 Max HP (Stat) HP +100
+  [ОТКРЫТ] R3/C13 Critical Damage Tolerance (Stat) Critical Damage Tolerance +1.5%
+  [закрыт] R3/C14  (None) 
+  [закрыт] R3/C15  (None) 
+  [закрыт] R4/C1  (None) 
+  [закрыт] R4/C2  (None) 
+  [ОТКРЫТ] R4/C3 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R4/C4  (None) 
+  [закрыт] R4/C5 Attack (Stat) Attack Bonus +3
+  [закрыт] R4/C6 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R4/C7 Max MP (Stat) MP +50
+  [закрыт] R4/C8  (None) 
+  [закрыт] R4/C9 Defense (Stat) Defense Bonus +30
+  [закрыт] R4/C10  (None) 
+  [закрыт] R4/C11 Defense (Stat) Defense Bonus +30
+  [закрыт] R4/C12  (None) 
+  [ОТКРЫТ] R4/C13 Max MP (Stat) MP +50
+  [закрыт] R4/C14  (None) 
+  [закрыт] R4/C15  (None) 
+  [закрыт] R5/C1  (None) 
+  [закрыт] R5/C2  (None) 
+  [ОТКРЫТ] R5/C3 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R5/C4 Skill Level Up - Summon: Fire Spirit (SkillLevel) Summon: Fire Spirit +1
+  [закрыт] R5/C5 Max HP (Stat) HP +100
+  [закрыт] R5/C6  (None) 
+  [закрыт] R5/C7 Skill Level Up - Soul's Cry (SkillLevel) Soul's Cry +1
+  [закрыт] R5/C8 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R5/C9 Max MP (Stat) MP +50
+  [закрыт] R5/C10 Max HP (Stat) HP +100
+  [ОТКРЫТ] R5/C11 Skill Level Up - Dimensional Control (SkillLevel) Dimensional Control +1
+  [ОТКРЫТ] R5/C12 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R5/C13 Skill Level Up - Spirit Revitalization (SkillLevel) Spirit Revitalization +1
+  [закрыт] R5/C14  (None) 
+  [закрыт] R5/C15  (None) 
+  [закрыт] R6/C1  (None) 
+  [закрыт] R6/C2  (None) 
+  [закрыт] R6/C3  (None) 
+  [ОТКРЫТ] R6/C4 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R6/C5  (None) 
+  [закрыт] R6/C6  (None) 
+  [закрыт] R6/C7 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R6/C8  (None) 
+  [ОТКРЫТ] R6/C9 Skill Level Up - Spirit Communion (SkillLevel) Spirit Communion +1
+  [закрыт] R6/C10  (None) 
+  [закрыт] R6/C11  (None) 
+  [ОТКРЫТ] R6/C12 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R6/C13  (None) 
+  [закрыт] R6/C14  (None) 
+  [закрыт] R6/C15  (None) 
+  [закрыт] R7/C1  (None) 
+  [закрыт] R7/C2  (None) 
+  [ОТКРЫТ] R7/C3 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R7/C4 Max MP (Stat) MP +50
+  [закрыт] R7/C5 Defense (Stat) Defense Bonus +30
+  [закрыт] R7/C6 Skill Level Up - Revitalization Contract (SkillLevel) Revitalization Contract +1
+  [закрыт] R7/C7 Max HP (Stat) HP +100
+  [ОТКРЫТ] R7/C8 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R7/C9 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R7/C10 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R7/C11 Skill Level Up - Jointstrike: Curse (SkillLevel) Jointstrike: Curse +1
+  [ОТКРЫТ] R7/C12 Max HP (Stat) HP +100
+  [ОТКРЫТ] R7/C13 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R7/C14  (None) 
+  [закрыт] R7/C15  (None) 
+  [закрыт] R8/C1  (None) 
+  [закрыт] R8/C2  (None) 
+  [ОТКРЫТ] R8/C3 Skill Level Up - Summon: Earth Spirit (SkillLevel) Summon: Earth Spirit +1
+  [закрыт] R8/C4  (None) 
+  [закрыт] R8/C5  (None) 
+  [закрыт] R8/C6 Max MP (Stat) MP +50
+  [закрыт] R8/C7  (None) 
+  [закрыт] R8/C8 Vaizel - Start (Start) 
+  [закрыт] R8/C9  (None) 
+  [закрыт] R8/C10 Max HP (Stat) HP +100
+  [закрыт] R8/C11  (None) 
+  [закрыт] R8/C12  (None) 
+  [ОТКРЫТ] R8/C13 Skill Level Up - Cold Shock (SkillLevel) Cold Shock +1
+  [закрыт] R8/C14  (None) 
+  [закрыт] R8/C15  (None) 
+  [закрыт] R9/C1  (None) 
+  [закрыт] R9/C2  (None) 
+  [ОТКРЫТ] R9/C3 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R9/C4 Max MP (Stat) MP +50
+  [ОТКРЫТ] R9/C5 Skill Level Up - Elemental Fusion (SkillLevel) Elemental Fusion +1
+  [ОТКРЫТ] R9/C6 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R9/C7 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R9/C8 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R9/C9 Max MP (Stat) MP +50
+  [ОТКРЫТ] R9/C10 Skill Level Up - Element Unification (SkillLevel) Element Unification +1
+  [ОТКРЫТ] R9/C11 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R9/C12 Max HP (Stat) HP +100
+  [ОТКРЫТ] R9/C13 Defense (Stat) Defense Bonus +30
+  [закрыт] R9/C14  (None) 
+  [закрыт] R9/C15  (None) 
+  [закрыт] R10/C1  (None) 
+  [закрыт] R10/C2  (None) 
+  [закрыт] R10/C3  (None) 
+  [ОТКРЫТ] R10/C4 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R10/C5  (None) 
+  [закрыт] R10/C6  (None) 
+  [ОТКРЫТ] R10/C7 Skill Level Up - Mental Focus (SkillLevel) Mental Focus +1
+  [закрыт] R10/C8  (None) 
+  [ОТКРЫТ] R10/C9 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R10/C10  (None) 
+  [закрыт] R10/C11  (None) 
+  [закрыт] R10/C12 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R10/C13  (None) 
+  [закрыт] R10/C14  (None) 
+  [закрыт] R10/C15  (None) 
+  [закрыт] R11/C1  (None) 
+  [закрыт] R11/C2  (None) 
+  [ОТКРЫТ] R11/C3 Skill Level Up - Consecutive Countercurrent (SkillLevel) Consecutive Countercurrent +1
+  [ОТКРЫТ] R11/C4 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R11/C5 Skill Level Up - Combustion (SkillLevel) Combustion +1
+  [закрыт] R11/C6 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R11/C7 Max HP (Stat) HP +100
+  [закрыт] R11/C8 Max MP (Stat) MP +50
+  [ОТКРЫТ] R11/C9 Skill Level Up - Summon: Water Spirit (SkillLevel) Summon: Water Spirit +1
+  [закрыт] R11/C10  (None) 
+  [закрыт] R11/C11 Max MP (Stat) MP +50
+  [закрыт] R11/C12 Skill Level Up - Summon: Wind Spirit (SkillLevel) Summon: Wind Spirit +1
+  [закрыт] R11/C13 Attack (Stat) Attack Bonus +3
+  [закрыт] R11/C14  (None) 
+  [закрыт] R11/C15  (None) 
+  [закрыт] R12/C1  (None) 
+  [закрыт] R12/C2  (None) 
+  [закрыт] R12/C3 Max HP (Stat) HP +100
+  [закрыт] R12/C4  (None) 
+  [ОТКРЫТ] R12/C5 Attack (Stat) Attack Bonus +3
+  [закрыт] R12/C6  (None) 
+  [закрыт] R12/C7 Attack (Stat) Attack Bonus +3
+  [закрыт] R12/C8  (None) 
+  [ОТКРЫТ] R12/C9 Max HP (Stat) HP +100
+  [ОТКРЫТ] R12/C10 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R12/C11 Defense (Stat) Defense Bonus +30
+  [закрыт] R12/C12  (None) 
+  [закрыт] R12/C13 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R12/C14  (None) 
+  [закрыт] R12/C15  (None) 
+  [закрыт] R13/C1  (None) 
+  [закрыт] R13/C2  (None) 
+  [ОТКРЫТ] R13/C3 Critical Damage Tolerance (Stat) Critical Damage Tolerance +1.5%
+  [ОТКРЫТ] R13/C4 Max MP (Stat) MP +50
+  [ОТКРЫТ] R13/C5 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R13/C6 Skill Level Up - Corrode (SkillLevel) Corrode +1
+  [закрыт] R13/C7 Defense (Stat) Defense Bonus +30
+  [закрыт] R13/C8 Skill Level Up - Defiance (SkillLevel) Defiance +1
+  [закрыт] R13/C9 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R13/C10  (None) 
+  [ОТКРЫТ] R13/C11 Skill Level Up - Spirit Protection (SkillLevel) Spirit Protection +1
+  [ОТКРЫТ] R13/C12 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R13/C13 Critical Damage Boost (Stat) Critical Damage Boost +1.5%
+  [закрыт] R13/C14  (None) 
+  [закрыт] R13/C15  (None) 
+  [закрыт] R14/C1  (None) 
+  [закрыт] R14/C2  (None) 
+  [закрыт] R14/C3  (None) 
+  [закрыт] R14/C4  (None) 
+  [закрыт] R14/C5  (None) 
+  [закрыт] R14/C6  (None) 
+  [закрыт] R14/C7  (None) 
+  [закрыт] R14/C8  (None) 
+  [закрыт] R14/C9  (None) 
+  [закрыт] R14/C10  (None) 
+  [закрыт] R14/C11  (None) 
+  [закрыт] R14/C12  (None) 
+  [закрыт] R14/C13  (None) 
+  [закрыт] R14/C14  (None) 
+  [закрыт] R14/C15  (None) 
+  [закрыт] R15/C1  (None) 
+  [закрыт] R15/C2  (None) 
+  [закрыт] R15/C3  (None) 
+  [закрыт] R15/C4  (None) 
+  [закрыт] R15/C5  (None) 
+  [закрыт] R15/C6  (None) 
+  [закрыт] R15/C7  (None) 
+  [закрыт] R15/C8  (None) 
+  [закрыт] R15/C9  (None) 
+  [закрыт] R15/C10  (None) 
+  [закрыт] R15/C11  (None) 
+  [закрыт] R15/C12  (None) 
+  [закрыт] R15/C13  (None) 
+  [закрыт] R15/C14  (None) 
+  [закрыт] R15/C15  (None) 
+  Все открытые бонусы характеристик: HP +400 | Critical Damage Boost +3% | MP +250 | Critical Hit Resist +40 | Attack Bonus +21 | Critical Hit +30 | Critical Damage Tolerance +3% | Defense Bonus +150
+  Все открытые бонусы навыков: Rapid Scattershot +1 | Spirit Revitalization +1 | Summon: Fire Spirit +1 | Spirit Communion +1 | Spirit's Descent +1 | Consecutive Countercurrent +1 | Summon: Earth Spirit +1 | Elemental Fusion +1 | Combustion +1 | Mental Focus +1 | Jointstrike: Curse +1 | Spirit Strike +1 | Dimensional Control +1 | Corrode +1 | Summon: Water Spirit +1 | Element Unification +1 | Spirit Protection +1 | Cold Shock +1
+
+[Triniel] 72/116 (ID=54)
+  [закрыт] R1/C1  (None) 
+  [закрыт] R1/C2  (None) 
+  [закрыт] R1/C3  (None) 
+  [закрыт] R1/C4  (None) 
+  [закрыт] R1/C5  (None) 
+  [закрыт] R1/C6  (None) 
+  [закрыт] R1/C7  (None) 
+  [закрыт] R1/C8  (None) 
+  [закрыт] R1/C9  (None) 
+  [закрыт] R1/C10  (None) 
+  [закрыт] R1/C11  (None) 
+  [закрыт] R1/C12  (None) 
+  [закрыт] R1/C13  (None) 
+  [закрыт] R1/C14  (None) 
+  [закрыт] R1/C15  (None) 
+  [закрыт] R2/C1  (None) 
+  [ОТКРЫТ] R2/C2 Multi-Hit Resist (Stat) Multi-hit Resist +1.5%
+  [ОТКРЫТ] R2/C3 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R2/C4 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R2/C5  (None) 
+  [закрыт] R2/C6  (None) 
+  [ОТКРЫТ] R2/C7 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R2/C8 Multi-Hit Chance (Stat) Multi-hit Chance +1.5%
+  [ОТКРЫТ] R2/C9 Defense (Stat) Defense Bonus +30
+  [закрыт] R2/C10  (None) 
+  [закрыт] R2/C11  (None) 
+  [закрыт] R2/C12 Defense (Stat) Defense Bonus +30
+  [закрыт] R2/C13 Max HP (Stat) HP +100
+  [ОТКРЫТ] R2/C14 Multi-Hit Resist (Stat) Multi-hit Resist +1.5%
+  [закрыт] R2/C15  (None) 
+  [закрыт] R3/C1  (None) 
+  [ОТКРЫТ] R3/C2 Max MP (Stat) MP +50
+  [закрыт] R3/C3  (None) 
+  [ОТКРЫТ] R3/C4 Skill Level Up - Summon: Water Spirit (SkillLevel) Summon: Water Spirit +1
+  [ОТКРЫТ] R3/C5 Max MP (Stat) MP +50
+  [ОТКРЫТ] R3/C6 Max HP (Stat) HP +100
+  [ОТКРЫТ] R3/C7 Skill Level Up - Element Unification (SkillLevel) Element Unification +1
+  [закрыт] R3/C8  (None) 
+  [ОТКРЫТ] R3/C9 Skill Level Up - Mental Focus (SkillLevel) Mental Focus +1
+  [ОТКРЫТ] R3/C10 Max MP (Stat) MP +50
+  [ОТКРЫТ] R3/C11 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R3/C12 Skill Level Up - Combustion (SkillLevel) Combustion +1
+  [закрыт] R3/C13  (None) 
+  [ОТКРЫТ] R3/C14 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R3/C15  (None) 
+  [закрыт] R4/C1  (None) 
+  [ОТКРЫТ] R4/C2 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R4/C3  (None) 
+  [закрыт] R4/C4 Max HP (Stat) HP +100
+  [закрыт] R4/C5  (None) 
+  [закрыт] R4/C6  (None) 
+  [ОТКРЫТ] R4/C7 Defense (Stat) Defense Bonus +30
+  [закрыт] R4/C8 Max HP (Stat) HP +100
+  [закрыт] R4/C9 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R4/C10  (None) 
+  [закрыт] R4/C11  (None) 
+  [закрыт] R4/C12 Attack (Stat) Attack Bonus +3
+  [закрыт] R4/C13  (None) 
+  [ОТКРЫТ] R4/C14 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R4/C15  (None) 
+  [закрыт] R5/C1  (None) 
+  [ОТКРЫТ] R5/C2 Skill Level Up - Rapid Scattershot (SkillLevel) Rapid Scattershot +1
+  [закрыт] R5/C3 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R5/C4 Max MP (Stat) MP +50
+  [ОТКРЫТ] R5/C5 Skill Level Up - Spirit Protection (SkillLevel) Spirit Protection +1
+  [ОТКРЫТ] R5/C6 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R5/C7 Attack (Stat) Attack Bonus +3
+  [закрыт] R5/C8  (None) 
+  [закрыт] R5/C9 Defense (Stat) Defense Bonus +30
+  [закрыт] R5/C10 Skill Level Up - Summon: Wind Spirit (SkillLevel) Summon: Wind Spirit +1
+  [закрыт] R5/C11 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R5/C12 Max HP (Stat) HP +100
+  [ОТКРЫТ] R5/C13 Max MP (Stat) MP +50
+  [ОТКРЫТ] R5/C14 Skill Level Up - Corrode (SkillLevel) Corrode +1
+  [закрыт] R5/C15  (None) 
+  [закрыт] R6/C1  (None) 
+  [закрыт] R6/C2  (None) 
+  [закрыт] R6/C3  (None) 
+  [закрыт] R6/C4 Defense (Stat) Defense Bonus +30
+  [закрыт] R6/C5  (None) 
+  [ОТКРЫТ] R6/C6 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R6/C7  (None) 
+  [закрыт] R6/C8  (None) 
+  [закрыт] R6/C9  (None) 
+  [закрыт] R6/C10 Max HP (Stat) HP +100
+  [закрыт] R6/C11  (None) 
+  [закрыт] R6/C12  (None) 
+  [ОТКРЫТ] R6/C13 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R6/C14  (None) 
+  [закрыт] R6/C15  (None) 
+  [закрыт] R7/C1  (None) 
+  [закрыт] R7/C2 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R7/C3 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R7/C4 Max HP (Stat) HP +100
+  [ОТКРЫТ] R7/C5 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R7/C6 Skill Level Up - Dimensional Control (SkillLevel) Dimensional Control +1
+  [ОТКРЫТ] R7/C7 Max MP (Stat) MP +50
+  [ОТКРЫТ] R7/C8 Defense (Stat) Defense Bonus +30
+  [закрыт] R7/C9 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R7/C10 Max MP (Stat) MP +50
+  [закрыт] R7/C11 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R7/C12 Skill Level Up - Consecutive Countercurrent (SkillLevel) Consecutive Countercurrent +1
+  [ОТКРЫТ] R7/C13 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R7/C14 Max MP (Stat) MP +50
+  [закрыт] R7/C15  (None) 
+  [закрыт] R8/C1  (None) 
+  [закрыт] R8/C2 Skill Level Up - Soul's Cry (SkillLevel) Soul's Cry +1
+  [закрыт] R8/C3  (None) 
+  [ОТКРЫТ] R8/C4 Defense (Stat) Defense Bonus +30
+  [закрыт] R8/C5  (None) 
+  [закрыт] R8/C6 Defense (Stat) Defense Bonus +30
+  [закрыт] R8/C7  (None) 
+  [закрыт] R8/C8 Triniel - Start (Start) 
+  [закрыт] R8/C9  (None) 
+  [закрыт] R8/C10 Attack (Stat) Attack Bonus +3
+  [закрыт] R8/C11  (None) 
+  [закрыт] R8/C12 Attack (Stat) Attack Bonus +3
+  [закрыт] R8/C13  (None) 
+  [ОТКРЫТ] R8/C14 Skill Level Up - Elemental Fusion (SkillLevel) Elemental Fusion +1
+  [закрыт] R8/C15  (None) 
+  [закрыт] R9/C1  (None) 
+  [закрыт] R9/C2 Max HP (Stat) HP +100
+  [ОТКРЫТ] R9/C3 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R9/C4 Skill Level Up - Spirit Revitalization (SkillLevel) Spirit Revitalization +1
+  [закрыт] R9/C5 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R9/C6 Max HP (Stat) HP +100
+  [закрыт] R9/C7 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R9/C8 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R9/C9 Max HP (Stat) HP +100
+  [ОТКРЫТ] R9/C10 Skill Level Up - Jointstrike: Curse (SkillLevel) Jointstrike: Curse +1
+  [закрыт] R9/C11 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R9/C12 Max MP (Stat) MP +50
+  [ОТКРЫТ] R9/C13 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R9/C14 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R9/C15  (None) 
+  [закрыт] R10/C1  (None) 
+  [закрыт] R10/C2  (None) 
+  [ОТКРЫТ] R10/C3 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R10/C4  (None) 
+  [закрыт] R10/C5  (None) 
+  [закрыт] R10/C6 Max MP (Stat) MP +50
+  [закрыт] R10/C7  (None) 
+  [закрыт] R10/C8  (None) 
+  [закрыт] R10/C9  (None) 
+  [ОТКРЫТ] R10/C10 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R10/C11  (None) 
+  [ОТКРЫТ] R10/C12 Attack (Stat) Attack Bonus +3
+  [закрыт] R10/C13  (None) 
+  [закрыт] R10/C14  (None) 
+  [закрыт] R10/C15  (None) 
+  [закрыт] R11/C1  (None) 
+  [ОТКРЫТ] R11/C2 Skill Level Up - Spirit's Descent (SkillLevel) Spirit's Descent +1
+  [ОТКРЫТ] R11/C3 Max HP (Stat) HP +100
+  [ОТКРЫТ] R11/C4 Max MP (Stat) MP +50
+  [ОТКРЫТ] R11/C5 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R11/C6 Skill Level Up - Summon: Earth Spirit (SkillLevel) Summon: Earth Spirit +1
+  [закрыт] R11/C7 Attack (Stat) Attack Bonus +3
+  [закрыт] R11/C8  (None) 
+  [закрыт] R11/C9 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R11/C10 Critical Hit (Stat) Critical Hit +5
+  [ОТКРЫТ] R11/C11 Skill Level Up - Spirit Strike (SkillLevel) Spirit Strike +1
+  [ОТКРЫТ] R11/C12 Max HP (Stat) HP +100
+  [закрыт] R11/C13 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R11/C14 Skill Level Up - Defiance (SkillLevel) Defiance +1
+  [закрыт] R11/C15  (None) 
+  [закрыт] R12/C1  (None) 
+  [закрыт] R12/C2 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R12/C3  (None) 
+  [ОТКРЫТ] R12/C4 Defense (Stat) Defense Bonus +30
+  [закрыт] R12/C5  (None) 
+  [закрыт] R12/C6  (None) 
+  [закрыт] R12/C7 Critical Hit (Stat) Critical Hit +5
+  [закрыт] R12/C8 Max MP (Stat) MP +50
+  [закрыт] R12/C9 Attack (Stat) Attack Bonus +3
+  [закрыт] R12/C10  (None) 
+  [закрыт] R12/C11  (None) 
+  [ОТКРЫТ] R12/C12 Max MP (Stat) MP +50
+  [закрыт] R12/C13  (None) 
+  [закрыт] R12/C14 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R12/C15  (None) 
+  [закрыт] R13/C1  (None) 
+  [закрыт] R13/C2 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [закрыт] R13/C3  (None) 
+  [ОТКРЫТ] R13/C4 Skill Level Up - Summon: Fire Spirit (SkillLevel) Summon: Fire Spirit +1
+  [ОТКРЫТ] R13/C5 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R13/C6 Max HP (Stat) HP +100
+  [ОТКРЫТ] R13/C7 Skill Level Up - Spirit Communion (SkillLevel) Spirit Communion +1
+  [закрыт] R13/C8  (None) 
+  [закрыт] R13/C9 Skill Level Up - Revitalization Contract (SkillLevel) Revitalization Contract +1
+  [закрыт] R13/C10 Max MP (Stat) MP +50
+  [закрыт] R13/C11 Max HP (Stat) HP +100
+  [ОТКРЫТ] R13/C12 Skill Level Up - Cold Shock (SkillLevel) Cold Shock +1
+  [закрыт] R13/C13  (None) 
+  [закрыт] R13/C14 Max HP (Stat) HP +100
+  [закрыт] R13/C15  (None) 
+  [закрыт] R14/C1  (None) 
+  [ОТКРЫТ] R14/C2 Multi-Hit Chance (Stat) Multi-hit Chance +1.5%
+  [ОТКРЫТ] R14/C3 Max MP (Stat) MP +50
+  [ОТКРЫТ] R14/C4 Attack (Stat) Attack Bonus +3
+  [закрыт] R14/C5  (None) 
+  [закрыт] R14/C6  (None) 
+  [ОТКРЫТ] R14/C7 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R14/C8 Multi-Hit Resist (Stat) Multi-hit Resist +1.5%
+  [закрыт] R14/C9 Defense (Stat) Defense Bonus +30
+  [закрыт] R14/C10  (None) 
+  [закрыт] R14/C11  (None) 
+  [ОТКРЫТ] R14/C12 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R14/C13 Defense (Stat) Defense Bonus +30
+  [ОТКРЫТ] R14/C14 Multi-Hit Chance (Stat) Multi-hit Chance +1.5%
+  [закрыт] R14/C15  (None) 
+  [закрыт] R15/C1  (None) 
+  [закрыт] R15/C2  (None) 
+  [закрыт] R15/C3  (None) 
+  [закрыт] R15/C4  (None) 
+  [закрыт] R15/C5  (None) 
+  [закрыт] R15/C6  (None) 
+  [закрыт] R15/C7  (None) 
+  [закрыт] R15/C8  (None) 
+  [закрыт] R15/C9  (None) 
+  [закрыт] R15/C10  (None) 
+  [закрыт] R15/C11  (None) 
+  [закрыт] R15/C12  (None) 
+  [закрыт] R15/C13  (None) 
+  [закрыт] R15/C14  (None) 
+  [закрыт] R15/C15  (None) 
+  Все открытые бонусы характеристик: HP +600 | MP +500 | Multi-hit Resist +4.5% | Critical Hit Resist +40 | Attack Bonus +27 | Critical Hit +40 | Multi-hit Chance +4.5% | Defense Bonus +210
+  Все открытые бонусы навыков: Rapid Scattershot +1 | Spirit Revitalization +1 | Summon: Fire Spirit +1 | Spirit Communion +1 | Spirit's Descent +1 | Consecutive Countercurrent +1 | Summon: Earth Spirit +1 | Elemental Fusion +1 | Combustion +1 | Mental Focus +1 | Spirit Strike +1 | Jointstrike: Curse +1 | Dimensional Control +1 | Corrode +1 | Summon: Water Spirit +1 | Element Unification +1 | Spirit Protection +1 | Cold Shock +1
+
+[Ariel] 0/152 (ID=55)
+  [закрыт] R1/C1 PvE Damage Boost (Stat) PvE Damage Boost +1.5%
+  [закрыт] R1/C2 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R1/C3 PvE Attack, PvE Defense (Stat) PvE Attack +3, PvE Defense +30
+  [закрыт] R1/C4  (None) 
+  [закрыт] R1/C5  (None) 
+  [закрыт] R1/C6  (None) 
+  [закрыт] R1/C7 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R1/C8 PvE Damage Boost (Stat) PvE Damage Boost +1.5%
+  [закрыт] R1/C9 Max HP (Stat) HP +100
+  [закрыт] R1/C10  (None) 
+  [закрыт] R1/C11 PvE Accuracy, PvE Evasion (Stat) PvE Accuracy +5, PvE Evasion +5
+  [закрыт] R1/C12 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R1/C13 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R1/C14 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R1/C15 PvE Damage Tolerance (Stat) PvE Damage Tolerance +1.5%
+  [закрыт] R2/C1 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R2/C2  (None) 
+  [закрыт] R2/C3 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R2/C4 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R2/C5 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R2/C6 Critical Hit Resist (Stat) Critical Hit Resist +10
+  [закрыт] R2/C7 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R2/C8  (None) 
+  [закрыт] R2/C9 Boss Attack, Boss Defense (Stat) Boss Attack +3, Boss Defense +30
+  [закрыт] R2/C10  (None) 
+  [закрыт] R2/C11 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R2/C12  (None) 
+  [закрыт] R2/C13 Critical Hit (Stat) Critical Hit +10
+  [закрыт] R2/C14  (None) 
+  [закрыт] R2/C15 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R3/C1 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R3/C2 Boss Damage Boost (Stat) Boss Damage Boost +1%
+  [закрыт] R3/C3  (None) 
+  [закрыт] R3/C4 Boss Attack, Boss Defense (Stat) Boss Attack +3, Boss Defense +30
+  [закрыт] R3/C5  (None) 
+  [закрыт] R3/C6  (None) 
+  [закрыт] R3/C7 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R3/C8 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R3/C9 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R3/C10 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R3/C11 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R3/C12 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R3/C13 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R3/C14 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R3/C15 PvE Attack, PvE Defense (Stat) PvE Attack +3, PvE Defense +30
+  [закрыт] R4/C1  (None) 
+  [закрыт] R4/C2 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R4/C3  (None) 
+  [закрыт] R4/C4 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R4/C5 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R4/C6 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R4/C7 PvE Accuracy, PvE Evasion (Stat) PvE Accuracy +5, PvE Evasion +5
+  [закрыт] R4/C8  (None) 
+  [закрыт] R4/C9  (None) 
+  [закрыт] R4/C10 Critical Hit Resist (Stat) Critical Hit Resist +10
+  [закрыт] R4/C11  (None) 
+  [закрыт] R4/C12 Boss Attack, Boss Defense (Stat) Boss Attack +3, Boss Defense +30
+  [закрыт] R4/C13  (None) 
+  [закрыт] R4/C14 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R4/C15  (None) 
+  [закрыт] R5/C1 PvE Accuracy, PvE Evasion (Stat) PvE Accuracy +5, PvE Evasion +5
+  [закрыт] R5/C2 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R5/C3 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R5/C4 Boss Damage Tolerance (Stat) Boss Damage Tolerance +1%
+  [закрыт] R5/C5  (None) 
+  [закрыт] R5/C6  (None) 
+  [закрыт] R5/C7 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R5/C8  (None) 
+  [закрыт] R5/C9  (None) 
+  [закрыт] R5/C10 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R5/C11  (None) 
+  [закрыт] R5/C12 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R5/C13 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R5/C14 Boss Damage Boost (Stat) Boss Damage Boost +1%
+  [закрыт] R5/C15  (None) 
+  [закрыт] R6/C1 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R6/C2  (None) 
+  [закрыт] R6/C3  (None) 
+  [закрыт] R6/C4 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R6/C5  (None) 
+  [закрыт] R6/C6 Critical Hit (Stat) Critical Hit +10
+  [закрыт] R6/C7 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R6/C8 Max HP (Stat) HP +100
+  [закрыт] R6/C9 PvE Attack, PvE Defense (Stat) PvE Attack +3, PvE Defense +30
+  [закрыт] R6/C10 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R6/C11  (None) 
+  [закрыт] R6/C12 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R6/C13  (None) 
+  [закрыт] R6/C14 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R6/C15  (None) 
+  [закрыт] R7/C1 Max MP (Stat) MP +50
+  [закрыт] R7/C2 Boss Attack, Boss Defense (Stat) Boss Attack +3, Boss Defense +30
+  [закрыт] R7/C3 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R7/C4 PvE Attack, PvE Defense (Stat) PvE Attack +3, PvE Defense +30
+  [закрыт] R7/C5 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R7/C6 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R7/C7  (None) 
+  [закрыт] R7/C8 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R7/C9  (None) 
+  [закрыт] R7/C10 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R7/C11 Boss Damage Tolerance (Stat) Boss Damage Tolerance +1%
+  [закрыт] R7/C12 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R7/C13 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R7/C14 PvE Accuracy, PvE Evasion (Stat) PvE Accuracy +5, PvE Evasion +5
+  [закрыт] R7/C15 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R8/C1 PvE Damage Tolerance (Stat) PvE Damage Tolerance +1.5%
+  [закрыт] R8/C2  (None) 
+  [закрыт] R8/C3 Max HP (Stat) HP +100
+  [закрыт] R8/C4  (None) 
+  [закрыт] R8/C5  (None) 
+  [закрыт] R8/C6 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R8/C7 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R8/C8 Ariel - Start (Start) 
+  [закрыт] R8/C9 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R8/C10 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R8/C11  (None) 
+  [закрыт] R8/C12  (None) 
+  [закрыт] R8/C13 Max MP (Stat) MP +50
+  [закрыт] R8/C14  (None) 
+  [закрыт] R8/C15 PvE Damage Tolerance (Stat) PvE Damage Tolerance +1.5%
+  [закрыт] R9/C1 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R9/C2 PvE Accuracy, PvE Evasion (Stat) PvE Accuracy +5, PvE Evasion +5
+  [закрыт] R9/C3 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R9/C4 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R9/C5 Boss Damage Tolerance (Stat) Boss Damage Tolerance +1%
+  [закрыт] R9/C6 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R9/C7  (None) 
+  [закрыт] R9/C8 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R9/C9  (None) 
+  [закрыт] R9/C10 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R9/C11 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R9/C12 Boss Attack, Boss Defense (Stat) Boss Attack +3, Boss Defense +30
+  [закрыт] R9/C13 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R9/C14 PvE Attack, PvE Defense (Stat) PvE Attack +3, PvE Defense +30
+  [закрыт] R9/C15 Max HP (Stat) HP +100
+  [закрыт] R10/C1  (None) 
+  [закрыт] R10/C2 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R10/C3  (None) 
+  [закрыт] R10/C4 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R10/C5  (None) 
+  [закрыт] R10/C6 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R10/C7 Boss Attack, Boss Defense (Stat) Boss Attack +3, Boss Defense +30
+  [закрыт] R10/C8 Max MP (Stat) MP +50
+  [закрыт] R10/C9 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R10/C10 Critical Hit (Stat) Critical Hit +10
+  [закрыт] R10/C11  (None) 
+  [закрыт] R10/C12 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R10/C13  (None) 
+  [закрыт] R10/C14  (None) 
+  [закрыт] R10/C15 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R11/C1  (None) 
+  [закрыт] R11/C2 Boss Damage Boost (Stat) Boss Damage Boost +1%
+  [закрыт] R11/C3 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R11/C4 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R11/C5  (None) 
+  [закрыт] R11/C6 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R11/C7  (None) 
+  [закрыт] R11/C8  (None) 
+  [закрыт] R11/C9 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R11/C10  (None) 
+  [закрыт] R11/C11  (None) 
+  [закрыт] R11/C12 Boss Damage Tolerance (Stat) Boss Damage Tolerance +1%
+  [закрыт] R11/C13 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R11/C14 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R11/C15 PvE Accuracy, PvE Evasion (Stat) PvE Accuracy +5, PvE Evasion +5
+  [закрыт] R12/C1  (None) 
+  [закрыт] R12/C2 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R12/C3  (None) 
+  [закрыт] R12/C4 PvE Attack, PvE Defense (Stat) PvE Attack +3, PvE Defense +30
+  [закрыт] R12/C5  (None) 
+  [закрыт] R12/C6 Critical Hit Resist (Stat) Critical Hit Resist +10
+  [закрыт] R12/C7  (None) 
+  [закрыт] R12/C8  (None) 
+  [закрыт] R12/C9 PvE Accuracy, PvE Evasion (Stat) PvE Accuracy +5, PvE Evasion +5
+  [закрыт] R12/C10 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R12/C11 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R12/C12 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R12/C13  (None) 
+  [закрыт] R12/C14 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R12/C15  (None) 
+  [закрыт] R13/C1 Boss Attack, Boss Defense (Stat) Boss Attack +3, Boss Defense +30
+  [закрыт] R13/C2 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R13/C3 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R13/C4 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R13/C5 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R13/C6 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R13/C7 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R13/C8 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R13/C9 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R13/C10  (None) 
+  [закрыт] R13/C11  (None) 
+  [закрыт] R13/C12 PvE Attack, PvE Defense (Stat) PvE Attack +3, PvE Defense +30
+  [закрыт] R13/C13  (None) 
+  [закрыт] R13/C14 Boss Damage Boost (Stat) Boss Damage Boost +1%
+  [закрыт] R13/C15 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R14/C1 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R14/C2  (None) 
+  [закрыт] R14/C3 Critical Hit (Stat) Critical Hit +10
+  [закрыт] R14/C4  (None) 
+  [закрыт] R14/C5 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R14/C6  (None) 
+  [закрыт] R14/C7 PvE Attack, PvE Defense (Stat) PvE Attack +3, PvE Defense +30
+  [закрыт] R14/C8  (None) 
+  [закрыт] R14/C9 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R14/C10 Critical Hit Resist (Stat) Critical Hit Resist +10
+  [закрыт] R14/C11 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R14/C12 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R14/C13 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R14/C14  (None) 
+  [закрыт] R14/C15 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R15/C1 PvE Damage Tolerance (Stat) PvE Damage Tolerance +1.5%
+  [закрыт] R15/C2 PvE Attack (Stat) PvE Attack +3
+  [закрыт] R15/C3 PvE Evasion (Stat) PvE Evasion +5
+  [закрыт] R15/C4 Boss Defense (Stat) Boss Defense +30
+  [закрыт] R15/C5 PvE Accuracy, PvE Evasion (Stat) PvE Accuracy +5, PvE Evasion +5
+  [закрыт] R15/C6  (None) 
+  [закрыт] R15/C7 Max MP (Stat) MP +50
+  [закрыт] R15/C8 PvE Damage Boost (Stat) PvE Damage Boost +1.5%
+  [закрыт] R15/C9 PvE Accuracy (Stat) PvE Accuracy +5
+  [закрыт] R15/C10  (None) 
+  [закрыт] R15/C11  (None) 
+  [закрыт] R15/C12  (None) 
+  [закрыт] R15/C13 Boss Attack, Boss Defense (Stat) Boss Attack +3, Boss Defense +30
+  [закрыт] R15/C14 Boss Attack (Stat) Boss Attack +3
+  [закрыт] R15/C15 PvE Damage Boost (Stat) PvE Damage Boost +1.5%
+  Все открытые бонусы характеристик: 
+  Все открытые бонусы навыков: 
+
+[Azphel] 25/152 (ID=56)
+  [закрыт] R1/C1 PvP Damage Tolerance (Stat) PvP Damage Tolerance +1.5%
+  [закрыт] R1/C2 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R1/C3 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R1/C4 Status Effect Chance (Stat) Status Effect Chance +1%
+  [закрыт] R1/C5  (None) 
+  [закрыт] R1/C6 PvP Critical Hit, PvP Critical Hit Resist (Stat) PvP Critical Hit +5, PvP Critical Hit Resist +5
+  [закрыт] R1/C7 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R1/C8 PvP Damage Tolerance (Stat) PvP Damage Tolerance +1.5%
+  [закрыт] R1/C9  (None) 
+  [закрыт] R1/C10 PvP Critical Hit, PvP Critical Hit Resist (Stat) PvP Critical Hit +5, PvP Critical Hit Resist +5
+  [закрыт] R1/C11 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R1/C12 Status Effect Resist (Stat) Status Effect Resist +1%
+  [закрыт] R1/C13 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R1/C14 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R1/C15 PvP Damage Boost (Stat) PvP Damage Boost +1.5%
+  [закрыт] R2/C1 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R2/C2  (None) 
+  [закрыт] R2/C3  (None) 
+  [закрыт] R2/C4 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R2/C5 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R2/C6 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R2/C7  (None) 
+  [закрыт] R2/C8 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R2/C9  (None) 
+  [закрыт] R2/C10 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R2/C11  (None) 
+  [закрыт] R2/C12  (None) 
+  [закрыт] R2/C13 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R2/C14  (None) 
+  [закрыт] R2/C15 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R3/C1 PvP Accuracy, PvP Evasion (Stat) PvP Accuracy +5, PvP Evasion +3
+  [закрыт] R3/C2 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R3/C3 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R3/C4 PvP Attack, PvP Defense (Stat) PvP Attack +3, PvP Defense +30
+  [закрыт] R3/C5  (None) 
+  [закрыт] R3/C6 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R3/C7 PvP Accuracy, PvP Evasion (Stat) PvP Accuracy +5, PvP Evasion +3
+  [закрыт] R3/C8 Max MP (Stat) MP +50
+  [закрыт] R3/C9 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R3/C10 Status Effect Chance (Stat) Status Effect Chance +1%
+  [закрыт] R3/C11 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R3/C12 Max HP (Stat) HP +100
+  [закрыт] R3/C13 PvP Accuracy, PvP Evasion (Stat) PvP Accuracy +5, PvP Evasion +3
+  [закрыт] R3/C14 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R3/C15 PvP Attack, PvP Defense (Stat) PvP Attack +3, PvP Defense +30
+  [закрыт] R4/C1  (None) 
+  [закрыт] R4/C2  (None) 
+  [закрыт] R4/C3 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R4/C4  (None) 
+  [закрыт] R4/C5  (None) 
+  [закрыт] R4/C6  (None) 
+  [закрыт] R4/C7 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R4/C8  (None) 
+  [закрыт] R4/C9 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R4/C10  (None) 
+  [закрыт] R4/C11 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R4/C12  (None) 
+  [закрыт] R4/C13 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R4/C14  (None) 
+  [закрыт] R4/C15  (None) 
+  [закрыт] R5/C1 Status Effect Chance (Stat) Status Effect Chance +1%
+  [закрыт] R5/C2 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R5/C3 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R5/C4  (None) 
+  [закрыт] R5/C5 Status Effect Resist (Stat) Status Effect Resist +1%
+  [закрыт] R5/C6 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [ОТКРЫТ] R5/C7 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R5/C8 Status Effect Chance (Stat) Status Effect Chance +1%
+  [закрыт] R5/C9 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R5/C10 PvP Attack, PvP Defense (Stat) PvP Attack +3, PvP Defense +30
+  [закрыт] R5/C11 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R5/C12 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R5/C13 Status Effect Resist (Stat) Status Effect Resist +1%
+  [закрыт] R5/C14  (None) 
+  [закрыт] R5/C15  (None) 
+  [закрыт] R6/C1 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R6/C2  (None) 
+  [закрыт] R6/C3 PvP Critical Hit, PvP Critical Hit Resist (Stat) PvP Critical Hit +5, PvP Critical Hit Resist +5
+  [закрыт] R6/C4 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R6/C5 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R6/C6  (None) 
+  [ОТКРЫТ] R6/C7 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R6/C8  (None) 
+  [закрыт] R6/C9  (None) 
+  [закрыт] R6/C10 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R6/C11  (None) 
+  [закрыт] R6/C12  (None) 
+  [закрыт] R6/C13 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R6/C14 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R6/C15 PvP Critical Hit, PvP Critical Hit Resist (Stat) PvP Critical Hit +5, PvP Critical Hit Resist +5
+  [закрыт] R7/C1 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R7/C2  (None) 
+  [закрыт] R7/C3  (None) 
+  [закрыт] R7/C4  (None) 
+  [закрыт] R7/C5 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R7/C6 PvP Evasion (Stat) PvP Evasion +3
+  [ОТКРЫТ] R7/C7 PvP Attack, PvP Defense (Stat) PvP Attack +3, PvP Defense +30
+  [ОТКРЫТ] R7/C8 Max HP (Stat) HP +100
+  [закрыт] R7/C9 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R7/C10 Status Effect Resist (Stat) Status Effect Resist +1%
+  [закрыт] R7/C11 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R7/C12 Max MP (Stat) MP +50
+  [закрыт] R7/C13 PvP Accuracy, PvP Evasion (Stat) PvP Accuracy +5, PvP Evasion +3
+  [закрыт] R7/C14  (None) 
+  [закрыт] R7/C15 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R8/C1 PvP Damage Boost (Stat) PvP Damage Boost +1.5%
+  [закрыт] R8/C2 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R8/C3 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R8/C4  (None) 
+  [закрыт] R8/C5  (None) 
+  [закрыт] R8/C6 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R8/C7  (None) 
+  [закрыт] R8/C8 Azphel - Start (Start) 
+  [закрыт] R8/C9  (None) 
+  [закрыт] R8/C10 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R8/C11  (None) 
+  [закрыт] R8/C12  (None) 
+  [закрыт] R8/C13 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R8/C14 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R8/C15 PvP Damage Boost (Stat) PvP Damage Boost +1.5%
+  [закрыт] R9/C1 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R9/C2  (None) 
+  [закрыт] R9/C3 PvP Accuracy, PvP Evasion (Stat) PvP Accuracy +5, PvP Evasion +3
+  [закрыт] R9/C4 Max HP (Stat) HP +100
+  [закрыт] R9/C5 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R9/C6 Status Effect Resist (Stat) Status Effect Resist +1%
+  [закрыт] R9/C7 PvP Attack (Stat) PvP Attack +3
+  [ОТКРЫТ] R9/C8 Max MP (Stat) MP +50
+  [ОТКРЫТ] R9/C9 PvP Critical Hit, PvP Critical Hit Resist (Stat) PvP Critical Hit +5, PvP Critical Hit Resist +5
+  [ОТКРЫТ] R9/C10 PvP Evasion (Stat) PvP Evasion +3
+  [ОТКРЫТ] R9/C11 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R9/C12  (None) 
+  [закрыт] R9/C13  (None) 
+  [закрыт] R9/C14  (None) 
+  [закрыт] R9/C15 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R10/C1 PvP Critical Hit, PvP Critical Hit Resist (Stat) PvP Critical Hit +5, PvP Critical Hit Resist +5
+  [закрыт] R10/C2 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R10/C3 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R10/C4  (None) 
+  [закрыт] R10/C5  (None) 
+  [закрыт] R10/C6 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R10/C7  (None) 
+  [закрыт] R10/C8  (None) 
+  [ОТКРЫТ] R10/C9 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R10/C10  (None) 
+  [ОТКРЫТ] R10/C11 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [ОТКРЫТ] R10/C12 PvP Accuracy (Stat) PvP Accuracy +5
+  [ОТКРЫТ] R10/C13 PvP Attack, PvP Defense (Stat) PvP Attack +3, PvP Defense +30
+  [закрыт] R10/C14  (None) 
+  [закрыт] R10/C15 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R11/C1  (None) 
+  [закрыт] R11/C2  (None) 
+  [закрыт] R11/C3 Status Effect Resist (Stat) Status Effect Resist +1%
+  [закрыт] R11/C4 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R11/C5 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R11/C6 PvP Attack, PvP Defense (Stat) PvP Attack +3, PvP Defense +30
+  [закрыт] R11/C7 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R11/C8 Status Effect Chance (Stat) Status Effect Chance +1%
+  [ОТКРЫТ] R11/C9 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R11/C10 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R11/C11 Status Effect Resist (Stat) Status Effect Resist +1%
+  [закрыт] R11/C12  (None) 
+  [ОТКРЫТ] R11/C13 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R11/C14 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R11/C15 Status Effect Chance (Stat) Status Effect Chance +1%
+  [закрыт] R12/C1  (None) 
+  [закрыт] R12/C2  (None) 
+  [закрыт] R12/C3 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R12/C4  (None) 
+  [закрыт] R12/C5 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R12/C6  (None) 
+  [закрыт] R12/C7 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R12/C8  (None) 
+  [ОТКРЫТ] R12/C9 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R12/C10  (None) 
+  [закрыт] R12/C11  (None) 
+  [закрыт] R12/C12  (None) 
+  [ОТКРЫТ] R12/C13 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R12/C14  (None) 
+  [закрыт] R12/C15  (None) 
+  [закрыт] R13/C1 PvP Attack, PvP Defense (Stat) PvP Attack +3, PvP Defense +30
+  [закрыт] R13/C2 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R13/C3 PvP Accuracy, PvP Evasion (Stat) PvP Accuracy +5, PvP Evasion +3
+  [закрыт] R13/C4 Max MP (Stat) MP +50
+  [закрыт] R13/C5 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R13/C6 Status Effect Chance (Stat) Status Effect Chance +1%
+  [закрыт] R13/C7 PvP Defense (Stat) PvP Defense +30
+  [ОТКРЫТ] R13/C8 Max HP (Stat) HP +100
+  [ОТКРЫТ] R13/C9 PvP Accuracy, PvP Evasion (Stat) PvP Accuracy +5, PvP Evasion +3
+  [закрыт] R13/C10 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R13/C11  (None) 
+  [закрыт] R13/C12 PvP Critical Hit, PvP Critical Hit Resist (Stat) PvP Critical Hit +5, PvP Critical Hit Resist +5
+  [ОТКРЫТ] R13/C13 PvP Accuracy (Stat) PvP Accuracy +5
+  [ОТКРЫТ] R13/C14 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [ОТКРЫТ] R13/C15 PvP Accuracy, PvP Evasion (Stat) PvP Accuracy +5, PvP Evasion +3
+  [закрыт] R14/C1 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R14/C2  (None) 
+  [закрыт] R14/C3 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R14/C4  (None) 
+  [закрыт] R14/C5  (None) 
+  [закрыт] R14/C6 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R14/C7  (None) 
+  [ОТКРЫТ] R14/C8 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R14/C9  (None) 
+  [закрыт] R14/C10 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R14/C11 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R14/C12 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R14/C13  (None) 
+  [закрыт] R14/C14  (None) 
+  [ОТКРЫТ] R14/C15 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [закрыт] R15/C1 PvP Damage Boost (Stat) PvP Damage Boost +1.5%
+  [закрыт] R15/C2 PvP Attack (Stat) PvP Attack +3
+  [закрыт] R15/C3 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [закрыт] R15/C4 Status Effect Resist (Stat) Status Effect Resist +1%
+  [закрыт] R15/C5 PvP Evasion (Stat) PvP Evasion +3
+  [закрыт] R15/C6 PvP Critical Hit, PvP Critical Hit Resist (Stat) PvP Critical Hit +5, PvP Critical Hit Resist +5
+  [закрыт] R15/C7  (None) 
+  [ОТКРЫТ] R15/C8 PvP Damage Tolerance (Stat) PvP Damage Tolerance +1.5%
+  [закрыт] R15/C9 PvP Accuracy (Stat) PvP Accuracy +5
+  [закрыт] R15/C10 PvP Attack, PvP Defense (Stat) PvP Attack +3, PvP Defense +30
+  [закрыт] R15/C11  (None) 
+  [закрыт] R15/C12 Status Effect Chance (Stat) Status Effect Chance +1%
+  [закрыт] R15/C13 PvP Defense (Stat) PvP Defense +30
+  [закрыт] R15/C14 PvP Attack (Stat) PvP Attack +3
+  [ОТКРЫТ] R15/C15 PvP Damage Tolerance (Stat) PvP Damage Tolerance +1.5%
+  Все открытые бонусы характеристик: HP +200 | PvP Defense +150 | PvP Critical Hit Resist +10 | PvP Critical Hit +20 | MP +50 | PvP Damage Tolerance +3% | PvP Evasion +15 | PvP Accuracy +30 | PvP Attack +9
+  Все открытые бонусы навыков: 
+
+=== ОШИБКИ API / НЕПОЛНЫЕ ДАННЫЕ ===
+Ошибок нет.

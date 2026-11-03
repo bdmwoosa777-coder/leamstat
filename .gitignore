@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+leam/leam_full_*.zip
+leam/leam_error.txt
+leam/leam_game_stats.csv
+*.tmp

@@ -3,14 +3,14 @@
 from collections import defaultdict
 import zipfile,json
 from pathlib import Path
-from stats_summary import produce
+from leam_stats import produce
 
 def latest_previous(folder):
-    files=sorted(Path(folder).glob('Darkleam_FULL_*.zip'),key=lambda p:p.stat().st_mtime,reverse=True)
+    files=sorted(Path(folder).glob('leam_full_*.zip'),key=lambda p:p.stat().st_mtime,reverse=True)
     for p in files:
         try:
             with zipfile.ZipFile(p) as f:
-                data=json.loads(f.read('Darkleam_ALL.json'))
+                data=json.loads(f.read('leam_all.json'))
                 if (data.get('character_info') or {}).get('profile',{}).get('characterName','').casefold()=='darkleam':
                     return data,p.name
         except (ValueError,KeyError,OSError,zipfile.BadZipFile): continue
