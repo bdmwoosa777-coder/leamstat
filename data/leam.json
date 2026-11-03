@@ -1,11 +1,16 @@
 {
   "metadata": {
-    "captured_at": "2026-11-03T02:38:27+00:00",
+    "captured_at": "2026-11-03T03:48:22+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
     "character_id": "m2VmGXXoU9zwz1BXREKGH-kS2un85fANT3LjIehi5yo=",
-    "source": "Public AION 2 NCSOFT armory API"
+    "source": "Public AION 2 NCSOFT armory API",
+    "identity_verification": {
+      "method": "same_character_id",
+      "duplicates_checked": true,
+      "matching_names": 1
+    }
   },
   "character_info": {
     "profile": {
