@@ -16,6 +16,7 @@ import urllib.request
 import zipfile
 from leam_stats import produce, true_stats_template
 from leam_compare import latest_previous, compare
+from leam_identity import resolve
 
 CHAR_NAME = 'Darkleam'
 REGION = 'eu'
@@ -73,10 +74,10 @@ class PublicAPI:
         args.update(extra)
         return self.get(API_SITE + route, args)
 
-    def search(self):
+    def search(self, page=1):
         return self.get(API_SEARCH, {'keyword': CHAR_NAME, 'region': REGION,
-                                    'localeInfo': 'en-US', 'serverId': SERVER_ID,
-                                    'page': 1, 'size': 50})
+                                    'localeInfo': 'en-US',
+                                    'page': page, 'size': 100})
 
 def as_open(value):
     return value is True or value == 1 or value == '1'
@@ -111,7 +112,7 @@ def report_text(archive):
         'Проверка имени: ' + str(profile.get('characterName', 'нет данных')),
         'Уровень: ' + str(profile.get('characterLevel', '?')),
         'Боевая мощь: ' + str(profile.get('combatPower', '?')),
-        'Сервер: ' + str(profile.get('serverName', 'Quai')),
+        'Сервер: ' + str(profile.get('serverName', '?')),
         'ID сервера: ' + str(meta['server_id']), '',
         '=== ХАРАКТЕРИСТИКИ ПЕРСОНАЖА ===',
     ]
@@ -188,7 +189,7 @@ def report_html(archive):
     summary{cursor:pointer;font-weight:bold;color:#bfe4fb}small{color:#a4b4c4}pre{white-space:pre-wrap;overflow-wrap:anywhere}
     '''
     out=['<!DOCTYPE html><html lang="ru"><meta charset="utf-8"><title>AION2 Darkleam snapshot</title>',
-         '<style>'+css+'</style><h1>AION 2 — Darkleam / Quai</h1>',
+         '<style>'+css+'</style><h1>AION 2 — '+h((archive.get('character_info') or {}).get('profile',{}).get('characterName','Darkleam'))+' / '+h((archive.get('character_info') or {}).get('profile',{}).get('serverName','?'))+'</h1>',
          '<p>Источник: публичный API NCSOFT. Выгружено: '+h(archive['metadata']['captured_at'])+'</p>',
          '<section><h2>Персонаж</h2><p>Уровень '+h(profile.get('characterLevel','?'))+
          ' · Боевая мощь '+h(profile.get('combatPower','?'))+'</p><table>']
@@ -252,27 +253,10 @@ def perform(client):
                         'source':'Public AION 2 NCSOFT armory API'},
             'character_info':None,'equipment':None,'equipped_items':[],
             'daevanion_boards':[], 'errors':[]}
-    char_id=CHAR_ID; server_id=SERVER_ID
-    print('[1/4] Получаю профиль Darkleam с NCSOFT...')
-    try:
-        info=client.character('info',char_id,server_id)
-        if not isinstance(info,dict) or not (info.get('profile') or {}).get('characterName'):
-            raise APIError('Ответ API не содержит profile.characterName')
-        if (info['profile']['characterName']).casefold()!=CHAR_NAME.casefold():
-            raise APIError('API вернул другого персонажа: '+str(info['profile']['characterName']))
-    except Exception as exc:
-        print('  Прямой ID не сработал:', exc)
-        print('  Ищу Darkleam по имени и серверу ...')
-        search=client.search()
-        matches=[x for x in search.get('list',[]) if re.sub('<[^>]+>','',x.get('name','')).casefold()==CHAR_NAME.casefold() and int(x.get('serverId',0))==SERVER_ID]
-        if not matches:
-            raise APIError('Нельзя найти Darkleam / EU / Quai. Поиск вернул %s совпадений. Первичная ошибка: %s' %
-                           (len(search.get('list',[])),exc))
-        server_id=int(matches[0]['serverId'])
-        char_id=urllib.parse.unquote(matches[0]['characterId'])
-        info=client.character('info',char_id,server_id)
-        if (info.get('profile') or {}).get('characterName','').casefold()!=CHAR_NAME.casefold():
-            raise APIError('Имя не совпадает после поиска; запрос остановлен')
+    print('[1/4] Определяю сервер и проверяю личность персонажа...')
+    server_id, char_id, info, identity = resolve(
+        client, CHAR_NAME, REGION, SERVER_ID, CHAR_ID)
+    result['metadata']['identity_verification'] = identity
     result['metadata']['server_id']=server_id
     result['metadata']['character_id']=char_id
     result['character_info']=info
