@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-03T23:44:54+00:00",
+    "captured_at": "2026-11-04T01:07:51+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -201,13 +201,13 @@
           "id": 22010061,
           "name": "Through Hell and Back",
           "ownedCount": 77,
-          "ownedPercent": 76,
+          "ownedPercent": 75,
           "statList": [
             {
               "desc": "Block +10"
             }
           ],
-          "totalCount": 101
+          "totalCount": 102
         },
         {
           "equipCategory": "Defense",
@@ -226,13 +226,13 @@
           "id": 22030003,
           "name": "Saint of Altgard",
           "ownedCount": 80,
-          "ownedPercent": 82,
+          "ownedPercent": 81,
           "statList": [
             {
               "desc": "MP +20"
             }
           ],
-          "totalCount": 98
+          "totalCount": 99
         },
         {
           "equipCategory": "Attack",
@@ -251,16 +251,16 @@
           "id": 23010021,
           "name": "Unbound by Genus",
           "ownedCount": 87,
-          "ownedPercent": 83,
+          "ownedPercent": 82,
           "statList": [
             {
               "desc": "PvE Damage Boost +1%"
             }
           ],
-          "totalCount": 105
+          "totalCount": 106
         }
       ],
-      "totalCount": 304
+      "totalCount": 307
     },
     "ranking": {
       "rankingList": null
