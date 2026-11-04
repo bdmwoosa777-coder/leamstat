@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-04T22:52:22+00:00",
+    "captured_at": "2026-11-04T23:41:18+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 171523,
+      "combatPower": 173326,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2646
+          "value": 2651
         }
       ]
     },
@@ -327,7 +327,7 @@
       "equipmentList": [
         {
           "enchantLevel": 15,
-          "exceedLevel": 2,
+          "exceedLevel": 3,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_WP_L_OR_0041_T06.png",
           "id": 110630051,
@@ -1041,7 +1041,7 @@
       "slot_pos": 1,
       "slot": {
         "enchantLevel": 15,
-        "exceedLevel": 2,
+        "exceedLevel": 3,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_WP_L_OR_0041_T06.png",
         "id": 110630051,
