@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-04T13:08:57+00:00",
+    "captured_at": "2026-11-04T14:23:35+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 156404,
+      "combatPower": 156610,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -95,11 +95,11 @@
         {
           "name": "Freedom [Vaizel]",
           "statSecondList": [
-            "Accuracy increase +4.6%",
-            "Evasion increase +4.6%"
+            "Accuracy increase +5.8%",
+            "Evasion increase +5.8%"
           ],
           "type": "Freedom",
-          "value": 46
+          "value": 58
         },
         {
           "name": "Illusion [Kaisinel]",
@@ -140,11 +140,11 @@
         {
           "name": "Death [Triniel]",
           "statSecondList": [
-            "Critical Hit increase +4.2%",
-            "Regeneration Penetration +4.2%"
+            "Critical Hit increase +4.6%",
+            "Regeneration Penetration +4.6%"
           ],
           "type": "Death",
-          "value": 42
+          "value": 46
         },
         {
           "name": "Wisdom [Lumiel]",
@@ -167,11 +167,11 @@
         {
           "name": "Space [Israphel]",
           "statSecondList": [
-            "Move Speed +2.4%",
-            "Block increase +2.4%"
+            "Move Speed +2.8%",
+            "Block increase +2.8%"
           ],
           "type": "Space",
-          "value": 24
+          "value": 28
         },
         {
           "name": "아이템레벨",
