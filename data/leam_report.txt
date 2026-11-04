@@ -1,14 +1,14 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-04T17:56:41+00:00
+Время запроса: 2026-11-04T18:44:44+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 167298
+Боевая мощь: 170541
 Сервер: Quai
 ID сервера: 2317
 
 === ХАРАКТЕРИСТИКИ ПЕРСОНАЖА ===
-Might: 90 | Attack increase +9%
+Might: 99 | Attack increase +9.9%
 Dexterity: 51 | Evasion increase +5.1%, Block increase +5.1%, Critical Hit Resist increase +5.1%
 Intelligence: 0
 Constitution: 36 | HP increase +3.6%
@@ -24,20 +24,20 @@ Death [Triniel]: 46 | Critical Hit increase +4.6%, Regeneration Penetration +4.6
 Wisdom [Lumiel]: 47 | MP Cost -4.7%, Double Chance +4.7%
 Destiny [Marchutan]: 50 | MP increase +5%, Endurance +5%
 Space [Israphel]: 28 | Move Speed +2.8%, Block increase +2.8%
-아이템레벨: 2628
+아이템레벨: 2646
 
 === ВЕЩИ: ПОЛНЫЕ СЛУЧАЙНЫЕ ХАРАКТЕРИСТИКИ И КАМНИ ===
 
 [MainHand] Enraged Kromede Jewel +15 (Прорыв 2)
-  Привязка души: 31.3%
+  Привязка души: 96.4%
   Основные:
     Attack: 265–530 (+146 усиление)
     Accuracy: 50
     Critical Hit: 150
   Случайные:
-    Damage Boost: 6.1%
-    Might: 28
-    Combat Speed: 10.6%
+    Damage Boost: 6.9%
+    Might: 31
+    Combat Speed: 12.1%
   Манастоуны:
     Evasion Bonus +10
     Block +15
@@ -48,27 +48,31 @@ Space [Israphel]: 28 | Move Speed +2.8%, Block increase +2.8%
 Effect Activation Cooldown: 1s
 Only one Theostone's effect applies when identical Theostones are engraved.
 
-[SubHand] Nuakum Guard +11 (Прорыв 0)
-  Привязка души: 33.1%
+[SubHand] Nuakum Guard +12 (Прорыв 0)
+  Привязка души: 97.9%
   Основные:
-    Attack: 177 (+106 усиление)
+    Attack: 177 (+116 усиление)
     Accuracy: 50
     Critical Hit: 50
   Случайные:
-    Combat Speed: 8.7%
-    Might: 20
-    Attack: 34
-    Weapon Damage Boost: 6.3%
+    Combat Speed: 9.6%
+    Might: 25
+    Attack: 39
+    Weapon Damage Boost: 7.3%
   Манастоуны:
+    MP +50
+    Block +10
+    Attack +5
+    Accuracy Bonus +15
   Теостоны:
 
 [Torso] Nuakum Breastplate +11 (Прорыв 0)
-  Привязка души: 77.2%
+  Привязка души: 79.5%
   Основные:
     Defense: 637 (+275 усиление)
     HP: 344 (+220 усиление)
   Случайные:
-    Attack: 22
+    Attack: 23
   Манастоуны:
     Critical Hit +7
     Critical Hit Resist +7
@@ -80,13 +84,13 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Spirit Revitalization 1
 
 [Pants] Nuakum Greaves +11 (Прорыв 0)
-  Привязка души: 51.9%
+  Привязка души: 97.3%
   Основные:
     Defense: 531 (+275 усиление)
     HP: 258 (+220 усиление)
   Случайные:
-    Damage Tolerance: 9.5%
-    Accuracy: 41
+    Damage Tolerance: 10.8%
+    Accuracy: 54
   Манастоуны:
     Attack +1
     Critical Hit +7
@@ -114,14 +118,14 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Spirit Revitalization 1
 
 [Shoulder] Nuakum Pauldrons +11 (Прорыв 0)
-  Привязка души: 59.5%
+  Привязка души: 90.5%
   Основные:
     Defense: 477 (+275 усиление)
     HP: 215 (+220 усиление)
   Случайные:
     HP: 162
-    Critical Damage Boost: 10.8%
-    Double Chance: 1.4%
+    Critical Damage Boost: 12.2%
+    Double Chance: 1.6%
   Манастоуны:
     Critical Hit Resist +5
     Attack +3
@@ -131,21 +135,21 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Spirit Communion 1
 
 [Gloves] Vakron Gloves +11 (Прорыв 0)
-  Привязка души: 45.1%
+  Привязка души: 77.7%
   Основные:
     Defense: 345 (+220 усиление)
     HP: 140 (+179 усиление)
   Случайные:
-    Critical Damage Defense: 162
-    MP: 67
-    Combat Speed: 5.5%
-    Multi-hit Resist: 2.5%
+    Accuracy: 31
+    MP: 60
+    Combat Speed: 6.2%
   Манастоуны:
     Accuracy Bonus +7
     MP +30
     Critical Hit +5
     HP +60
   Теостоны:
+  Дополнительный навык: Spirit Revitalization 1
 
 [Boots] Nuakum Boots +11 (Прорыв 0)
   Привязка души: 75.4%
@@ -172,6 +176,10 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Случайные:
     Accuracy: 30
   Манастоуны:
+    Critical Hit Resist +5
+    Critical Hit Resist +5
+    Accuracy Bonus +5
+    Attack +3
   Теостоны:
   Дополнительный навык: Spirit Strike 1
   Дополнительный навык: Spirit Revitalization 1
@@ -189,14 +197,14 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Теостоны:
 
 [Necklace] Aulamus Necklace +11 (Прорыв 0)
-  Привязка души: 57.7%
+  Привязка души: 71.3%
   Основные:
     Attack: 108 (+43 усиление)
     Defense: 259 (+109 усиление)
   Случайные:
-    Accuracy: 51
-    Attack: 25
-    Critical Hit: 44
+    Accuracy: 53
+    Attack: 27
+    Critical Hit: 47
   Манастоуны:
     Defense +30
     Attack +3
@@ -206,13 +214,13 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Corrode 1
 
 [Earring2] Enraged Kromede Earrings +11 (Прорыв 0)
-  Привязка души: 65.8%
+  Привязка души: 74.3%
   Основные:
     Attack: 111 (+52 усиление)
     Defense: 265 (+132 усиление)
   Случайные:
-    Might: 12
-    Critical Hit: 33
+    Might: 13
+    Critical Hit: 36
   Манастоуны:
     MP +30
     Attack +3
@@ -240,13 +248,13 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Corrode 1
 
 [Ring1] Enraged Kromede Ring +13 (Прорыв 0)
-  Привязка души: 58.1%
+  Привязка души: 71.2%
   Основные:
     Attack: 88 (+62 усиление)
     Defense: 212 (+158 усиление)
   Случайные:
-    Accuracy: 38
-    Attack: 19
+    Accuracy: 39
+    Attack: 24
   Манастоуны:
     MP +30
     Block +7
@@ -257,14 +265,14 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Jointstrike: Curse 1
 
 [Ring2] Enraged Kromede Ring +11 (Прорыв 0)
-  Привязка души: 42.5%
+  Привязка души: 63%
   Основные:
     Attack: 88 (+52 усиление)
     Defense: 212 (+132 усиление)
   Случайные:
-    Accuracy: 44
-    Critical Hit: 28
-    MP: 84
+    Accuracy: 47
+    Critical Hit: 33
+    MP: 88
   Манастоуны:
     Defense +30
     HP +30
@@ -416,7 +424,7 @@ Passive | Spirit Strike | ур. 17 | установлен: нет
 Passive | Spirit Protection | ур. 16 | установлен: нет
 Passive | Spirit's Descent | ур. 18 | установлен: нет
 Passive | Corrode | ур. 18 | установлен: нет
-Passive | Spirit Revitalization | ур. 18 | установлен: нет
+Passive | Spirit Revitalization | ур. 19 | установлен: нет
 Passive | Mental Focus | ур. 19 | установлен: нет
 Passive | Consecutive Countercurrent | ур. 15 | установлен: нет
 Passive | Spirit Communion | ур. 16 | установлен: нет

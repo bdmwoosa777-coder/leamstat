@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-04T17:56:41+00:00",
+    "captured_at": "2026-11-04T18:44:44+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 167298,
+      "combatPower": 170541,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -37,10 +37,10 @@
         {
           "name": "Might",
           "statSecondList": [
-            "Attack increase +9%"
+            "Attack increase +9.9%"
           ],
           "type": "STR",
-          "value": 90
+          "value": 99
         },
         {
           "name": "Dexterity",
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2628
+          "value": 2646
         }
       ]
     },
@@ -336,7 +336,7 @@
           "slotPosName": "MainHand"
         },
         {
-          "enchantLevel": 11,
+          "enchantLevel": 12,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Weapon_Guarder_L_012.png",
@@ -851,7 +851,7 @@
           "id": 16750000,
           "name": "Spirit Revitalization",
           "needLevel": 13,
-          "skillLevel": 18
+          "skillLevel": 19
         },
         {
           "acquired": 1,
@@ -1104,22 +1104,22 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "31.3",
+        "soulBindRate": "96.4",
         "subStats": [
           {
             "id": "AmplifyAllDamage",
             "name": "Damage Boost",
-            "value": "6.1%"
+            "value": "6.9%"
           },
           {
             "id": "STR",
             "name": "Might",
-            "value": "28"
+            "value": "31"
           },
           {
             "id": "CombatSpeed",
             "name": "Combat Speed",
-            "value": "10.6%"
+            "value": "12.1%"
           }
         ],
         "magicStoneStat": [
@@ -1176,7 +1176,7 @@
     {
       "slot_pos": 2,
       "slot": {
-        "enchantLevel": 11,
+        "enchantLevel": 12,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Weapon_Guarder_L_012.png",
@@ -1192,8 +1192,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Weapon_Guarder_L_012.png",
         "level": 86,
-        "levelValue": 11,
-        "enchantLevel": 11,
+        "levelValue": 12,
+        "enchantLevel": 12,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -1215,7 +1215,7 @@
             "id": "WeaponFixingDamage",
             "name": "Attack",
             "value": "177",
-            "extra": "106",
+            "extra": "116",
             "exceed": false
           },
           {
@@ -1233,27 +1233,61 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "33.1",
+        "soulBindRate": "97.9",
         "subStats": [
           {
             "id": "CombatSpeed",
             "name": "Combat Speed",
-            "value": "8.7%"
+            "value": "9.6%"
           },
           {
             "id": "STR",
             "name": "Might",
-            "value": "20"
+            "value": "25"
           },
           {
             "id": "WeaponFixingDamage",
             "name": "Attack",
-            "value": "34"
+            "value": "39"
           },
           {
             "id": "AmplifyWeaponDamage",
             "name": "Weapon Damage Boost",
-            "value": "6.3%"
+            "value": "7.3%"
+          }
+        ],
+        "magicStoneStat": [
+          {
+            "id": "MPMax",
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_003.png",
+            "value": "+50",
+            "name": "MP",
+            "grade": "Legend",
+            "slotPos": 0
+          },
+          {
+            "id": "Block",
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_003.png",
+            "value": "+10",
+            "name": "Block",
+            "grade": "Rare",
+            "slotPos": 1
+          },
+          {
+            "id": "WeaponFixingDamage",
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_003.png",
+            "value": "+5",
+            "name": "Attack",
+            "grade": "Legend",
+            "slotPos": 2
+          },
+          {
+            "id": "Accuracy",
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_003.png",
+            "value": "+15",
+            "name": "Accuracy Bonus",
+            "grade": "Unique",
+            "slotPos": 3
           }
         ],
         "sources": [
@@ -1319,12 +1353,12 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "77.2",
+        "soulBindRate": "79.5",
         "subStats": [
           {
             "id": "WeaponFixingDamage",
             "name": "Attack",
-            "value": "22"
+            "value": "23"
           }
         ],
         "subSkills": [
@@ -1444,17 +1478,17 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "51.9",
+        "soulBindRate": "97.3",
         "subStats": [
           {
             "id": "DecreaseDamage",
             "name": "Damage Tolerance",
-            "value": "9.5%"
+            "value": "10.8%"
           },
           {
             "id": "WeaponAccuracy",
             "name": "Accuracy",
-            "value": "41"
+            "value": "54"
           }
         ],
         "subSkills": [
@@ -1693,7 +1727,7 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "59.5",
+        "soulBindRate": "90.5",
         "subStats": [
           {
             "id": "HPMax",
@@ -1703,12 +1737,12 @@
           {
             "id": "AmplifyCriticalDamage",
             "name": "Critical Damage Boost",
-            "value": "10.8%"
+            "value": "12.2%"
           },
           {
             "id": "HardHit",
             "name": "Double Chance",
-            "value": "1.4%"
+            "value": "1.6%"
           }
         ],
         "subSkills": [
@@ -1816,27 +1850,30 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "45.1",
+        "soulBindRate": "77.7",
         "subStats": [
           {
-            "id": "CriticalDamageDefense",
-            "name": "Critical Damage Defense",
-            "value": "162"
+            "id": "WeaponAccuracy",
+            "name": "Accuracy",
+            "value": "31"
           },
           {
             "id": "MPMax",
             "name": "MP",
-            "value": "67"
+            "value": "60"
           },
           {
             "id": "CombatSpeed",
             "name": "Combat Speed",
-            "value": "5.5%"
-          },
+            "value": "6.2%"
+          }
+        ],
+        "subSkills": [
           {
-            "id": "AdditionalHitResistRate",
-            "name": "Multi-hit Resist",
-            "value": "2.5%"
+            "id": 16750000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_011.png",
+            "name": "Spirit Revitalization"
           }
         ],
         "magicStoneStat": [
@@ -2089,6 +2126,40 @@
             "name": "Spirit's Descent"
           }
         ],
+        "magicStoneStat": [
+          {
+            "id": "CriticalResist",
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_001.png",
+            "value": "+5",
+            "name": "Critical Hit Resist",
+            "grade": "Common",
+            "slotPos": 0
+          },
+          {
+            "id": "CriticalResist",
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_001.png",
+            "value": "+5",
+            "name": "Critical Hit Resist",
+            "grade": "Common",
+            "slotPos": 1
+          },
+          {
+            "id": "Accuracy",
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_001.png",
+            "value": "+5",
+            "name": "Accuracy Bonus",
+            "grade": "Common",
+            "slotPos": 2
+          },
+          {
+            "id": "WeaponFixingDamage",
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_001.png",
+            "value": "+3",
+            "name": "Attack",
+            "grade": "Rare",
+            "slotPos": 3
+          }
+        ],
         "sources": [
           "Reward Chest",
           "Expedition",
@@ -2224,22 +2295,22 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "57.7",
+        "soulBindRate": "71.3",
         "subStats": [
           {
             "id": "WeaponAccuracy",
             "name": "Accuracy",
-            "value": "51"
+            "value": "53"
           },
           {
             "id": "WeaponFixingDamage",
             "name": "Attack",
-            "value": "25"
+            "value": "27"
           },
           {
             "id": "Critical",
             "name": "Critical Hit",
-            "value": "44"
+            "value": "47"
           }
         ],
         "subSkills": [
@@ -2347,17 +2418,17 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "65.8",
+        "soulBindRate": "74.3",
         "subStats": [
           {
             "id": "STR",
             "name": "Might",
-            "value": "12"
+            "value": "13"
           },
           {
             "id": "Critical",
             "name": "Critical Hit",
-            "value": "33"
+            "value": "36"
           }
         ],
         "subSkills": [
@@ -2593,17 +2664,17 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "58.1",
+        "soulBindRate": "71.2",
         "subStats": [
           {
             "id": "WeaponAccuracy",
             "name": "Accuracy",
-            "value": "38"
+            "value": "39"
           },
           {
             "id": "WeaponFixingDamage",
             "name": "Attack",
-            "value": "19"
+            "value": "24"
           }
         ],
         "subSkills": [
@@ -2714,22 +2785,22 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "42.5",
+        "soulBindRate": "63",
         "subStats": [
           {
             "id": "WeaponAccuracy",
             "name": "Accuracy",
-            "value": "44"
+            "value": "47"
           },
           {
             "id": "Critical",
             "name": "Critical Hit",
-            "value": "28"
+            "value": "33"
           },
           {
             "id": "MPMax",
             "name": "MP",
-            "value": "84"
+            "value": "88"
           }
         ],
         "subSkills": [

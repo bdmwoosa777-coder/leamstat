@@ -3,26 +3,30 @@
 Вещи: прибавка от усиления;MainHand;Enraged Kromede Jewel;WeaponFixingDamage [усиление];Attack (усиление);146;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;MainHand;Enraged Kromede Jewel;WeaponAccuracy;Accuracy;50;ед.;
 Вещи: основные;MainHand;Enraged Kromede Jewel;Critical;Critical Hit;150;ед.;
-Вещи: случайные;MainHand;Enraged Kromede Jewel;AmplifyAllDamage;Damage Boost;6.1%;%;
-Вещи: случайные;MainHand;Enraged Kromede Jewel;STR;Might;28;ед.;
-Вещи: случайные;MainHand;Enraged Kromede Jewel;CombatSpeed;Combat Speed;10.6%;%;
+Вещи: случайные;MainHand;Enraged Kromede Jewel;AmplifyAllDamage;Damage Boost;6.9%;%;
+Вещи: случайные;MainHand;Enraged Kromede Jewel;STR;Might;31;ед.;
+Вещи: случайные;MainHand;Enraged Kromede Jewel;CombatSpeed;Combat Speed;12.1%;%;
 Манастоуны;MainHand;Enraged Kromede Jewel;Evasion;Evasion Bonus;+10;ед.;
 Манастоуны;MainHand;Enraged Kromede Jewel;Block;Block;+15;ед.;
 Манастоуны;MainHand;Enraged Kromede Jewel;MPMax;MP;+30;ед.;
 Манастоуны;MainHand;Enraged Kromede Jewel;WeaponFixingDamage;Attack;+10;ед.;
 Вещи: основные;SubHand;Nuakum Guard;WeaponFixingDamage;Attack;177;ед.;
-Вещи: прибавка от усиления;SubHand;Nuakum Guard;WeaponFixingDamage [усиление];Attack (усиление);106;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: прибавка от усиления;SubHand;Nuakum Guard;WeaponFixingDamage [усиление];Attack (усиление);116;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;SubHand;Nuakum Guard;WeaponAccuracy;Accuracy;50;ед.;
 Вещи: основные;SubHand;Nuakum Guard;Critical;Critical Hit;50;ед.;
-Вещи: случайные;SubHand;Nuakum Guard;CombatSpeed;Combat Speed;8.7%;%;
-Вещи: случайные;SubHand;Nuakum Guard;STR;Might;20;ед.;
-Вещи: случайные;SubHand;Nuakum Guard;WeaponFixingDamage;Attack;34;ед.;
-Вещи: случайные;SubHand;Nuakum Guard;AmplifyWeaponDamage;Weapon Damage Boost;6.3%;%;
+Вещи: случайные;SubHand;Nuakum Guard;CombatSpeed;Combat Speed;9.6%;%;
+Вещи: случайные;SubHand;Nuakum Guard;STR;Might;25;ед.;
+Вещи: случайные;SubHand;Nuakum Guard;WeaponFixingDamage;Attack;39;ед.;
+Вещи: случайные;SubHand;Nuakum Guard;AmplifyWeaponDamage;Weapon Damage Boost;7.3%;%;
+Манастоуны;SubHand;Nuakum Guard;MPMax;MP;+50;ед.;
+Манастоуны;SubHand;Nuakum Guard;Block;Block;+10;ед.;
+Манастоуны;SubHand;Nuakum Guard;WeaponFixingDamage;Attack;+5;ед.;
+Манастоуны;SubHand;Nuakum Guard;Accuracy;Accuracy Bonus;+15;ед.;
 Вещи: основные;Torso;Nuakum Breastplate;ArmorDefense;Defense;637;ед.;
 Вещи: прибавка от усиления;Torso;Nuakum Breastplate;ArmorDefense [усиление];Defense (усиление);275;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Torso;Nuakum Breastplate;HPMax;HP;344;ед.;
 Вещи: прибавка от усиления;Torso;Nuakum Breastplate;HPMax [усиление];HP (усиление);220;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: случайные;Torso;Nuakum Breastplate;WeaponFixingDamage;Attack;22;ед.;
+Вещи: случайные;Torso;Nuakum Breastplate;WeaponFixingDamage;Attack;23;ед.;
 Манастоуны;Torso;Nuakum Breastplate;Critical;Critical Hit;+7;ед.;
 Манастоуны;Torso;Nuakum Breastplate;CriticalResist;Critical Hit Resist;+7;ед.;
 Манастоуны;Torso;Nuakum Breastplate;Evasion;Evasion Bonus;+5;ед.;
@@ -31,8 +35,8 @@
 Вещи: прибавка от усиления;Pants;Nuakum Greaves;ArmorDefense [усиление];Defense (усиление);275;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Pants;Nuakum Greaves;HPMax;HP;258;ед.;
 Вещи: прибавка от усиления;Pants;Nuakum Greaves;HPMax [усиление];HP (усиление);220;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: случайные;Pants;Nuakum Greaves;DecreaseDamage;Damage Tolerance;9.5%;%;
-Вещи: случайные;Pants;Nuakum Greaves;WeaponAccuracy;Accuracy;41;ед.;
+Вещи: случайные;Pants;Nuakum Greaves;DecreaseDamage;Damage Tolerance;10.8%;%;
+Вещи: случайные;Pants;Nuakum Greaves;WeaponAccuracy;Accuracy;54;ед.;
 Манастоуны;Pants;Nuakum Greaves;WeaponFixingDamage;Attack;+1;ед.;
 Манастоуны;Pants;Nuakum Greaves;Critical;Critical Hit;+7;ед.;
 Манастоуны;Pants;Nuakum Greaves;WeaponFixingDamage;Attack;+1;ед.;
@@ -51,8 +55,8 @@
 Вещи: основные;Shoulder;Nuakum Pauldrons;HPMax;HP;215;ед.;
 Вещи: прибавка от усиления;Shoulder;Nuakum Pauldrons;HPMax [усиление];HP (усиление);220;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: случайные;Shoulder;Nuakum Pauldrons;HPMax;HP;162;ед.;
-Вещи: случайные;Shoulder;Nuakum Pauldrons;AmplifyCriticalDamage;Critical Damage Boost;10.8%;%;
-Вещи: случайные;Shoulder;Nuakum Pauldrons;HardHit;Double Chance;1.4%;%;
+Вещи: случайные;Shoulder;Nuakum Pauldrons;AmplifyCriticalDamage;Critical Damage Boost;12.2%;%;
+Вещи: случайные;Shoulder;Nuakum Pauldrons;HardHit;Double Chance;1.6%;%;
 Манастоуны;Shoulder;Nuakum Pauldrons;CriticalResist;Critical Hit Resist;+5;ед.;
 Манастоуны;Shoulder;Nuakum Pauldrons;WeaponFixingDamage;Attack;+3;ед.;
 Манастоуны;Shoulder;Nuakum Pauldrons;WeaponFixingDamage;Attack;+1;ед.;
@@ -61,10 +65,9 @@
 Вещи: прибавка от усиления;Gloves;Vakron Gloves;ArmorDefense [усиление];Defense (усиление);220;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Gloves;Vakron Gloves;HPMax;HP;140;ед.;
 Вещи: прибавка от усиления;Gloves;Vakron Gloves;HPMax [усиление];HP (усиление);179;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: случайные;Gloves;Vakron Gloves;CriticalDamageDefense;Critical Damage Defense;162;ед.;
-Вещи: случайные;Gloves;Vakron Gloves;MPMax;MP;67;ед.;
-Вещи: случайные;Gloves;Vakron Gloves;CombatSpeed;Combat Speed;5.5%;%;
-Вещи: случайные;Gloves;Vakron Gloves;AdditionalHitResistRate;Multi-hit Resist;2.5%;%;
+Вещи: случайные;Gloves;Vakron Gloves;WeaponAccuracy;Accuracy;31;ед.;
+Вещи: случайные;Gloves;Vakron Gloves;MPMax;MP;60;ед.;
+Вещи: случайные;Gloves;Vakron Gloves;CombatSpeed;Combat Speed;6.2%;%;
 Манастоуны;Gloves;Vakron Gloves;Accuracy;Accuracy Bonus;+7;ед.;
 Манастоуны;Gloves;Vakron Gloves;MPMax;MP;+30;ед.;
 Манастоуны;Gloves;Vakron Gloves;Critical;Critical Hit;+5;ед.;
@@ -83,6 +86,10 @@
 Вещи: основные;Cape;Nuakum Cloak;HPMax;HP;172;ед.;
 Вещи: прибавка от усиления;Cape;Nuakum Cloak;HPMax [усиление];HP (усиление);220;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: случайные;Cape;Nuakum Cloak;WeaponAccuracy;Accuracy;30;ед.;
+Манастоуны;Cape;Nuakum Cloak;CriticalResist;Critical Hit Resist;+5;ед.;
+Манастоуны;Cape;Nuakum Cloak;CriticalResist;Critical Hit Resist;+5;ед.;
+Манастоуны;Cape;Nuakum Cloak;Accuracy;Accuracy Bonus;+5;ед.;
+Манастоуны;Cape;Nuakum Cloak;WeaponFixingDamage;Attack;+3;ед.;
 Вещи: основные;Belt;Noble Belt;ArmorDefense;Defense;500;ед.;
 Вещи: прибавка от усиления;Belt;Noble Belt;ArmorDefense [усиление];Defense (усиление);300;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Belt;Noble Belt;HPMax;HP;1100;ед.;
@@ -93,9 +100,9 @@
 Вещи: прибавка от усиления;Necklace;Aulamus Necklace;WeaponFixingDamage [усиление];Attack (усиление);43;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Necklace;Aulamus Necklace;ArmorDefense;Defense;259;ед.;
 Вещи: прибавка от усиления;Necklace;Aulamus Necklace;ArmorDefense [усиление];Defense (усиление);109;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: случайные;Necklace;Aulamus Necklace;WeaponAccuracy;Accuracy;51;ед.;
-Вещи: случайные;Necklace;Aulamus Necklace;WeaponFixingDamage;Attack;25;ед.;
-Вещи: случайные;Necklace;Aulamus Necklace;Critical;Critical Hit;44;ед.;
+Вещи: случайные;Necklace;Aulamus Necklace;WeaponAccuracy;Accuracy;53;ед.;
+Вещи: случайные;Necklace;Aulamus Necklace;WeaponFixingDamage;Attack;27;ед.;
+Вещи: случайные;Necklace;Aulamus Necklace;Critical;Critical Hit;47;ед.;
 Манастоуны;Necklace;Aulamus Necklace;ArmorDefense;Defense;+30;ед.;
 Манастоуны;Necklace;Aulamus Necklace;WeaponFixingDamage;Attack;+3;ед.;
 Манастоуны;Necklace;Aulamus Necklace;Block;Block;+7;ед.;
@@ -104,8 +111,8 @@
 Вещи: прибавка от усиления;Earring2;Enraged Kromede Earrings;WeaponFixingDamage [усиление];Attack (усиление);52;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Earring2;Enraged Kromede Earrings;ArmorDefense;Defense;265;ед.;
 Вещи: прибавка от усиления;Earring2;Enraged Kromede Earrings;ArmorDefense [усиление];Defense (усиление);132;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: случайные;Earring2;Enraged Kromede Earrings;STR;Might;12;ед.;
-Вещи: случайные;Earring2;Enraged Kromede Earrings;Critical;Critical Hit;33;ед.;
+Вещи: случайные;Earring2;Enraged Kromede Earrings;STR;Might;13;ед.;
+Вещи: случайные;Earring2;Enraged Kromede Earrings;Critical;Critical Hit;36;ед.;
 Манастоуны;Earring2;Enraged Kromede Earrings;MPMax;MP;+30;ед.;
 Манастоуны;Earring2;Enraged Kromede Earrings;WeaponFixingDamage;Attack;+3;ед.;
 Манастоуны;Earring2;Enraged Kromede Earrings;Accuracy;Accuracy Bonus;+5;ед.;
@@ -123,8 +130,8 @@
 Вещи: прибавка от усиления;Ring1;Enraged Kromede Ring;WeaponFixingDamage [усиление];Attack (усиление);62;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Ring1;Enraged Kromede Ring;ArmorDefense;Defense;212;ед.;
 Вещи: прибавка от усиления;Ring1;Enraged Kromede Ring;ArmorDefense [усиление];Defense (усиление);158;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: случайные;Ring1;Enraged Kromede Ring;WeaponAccuracy;Accuracy;38;ед.;
-Вещи: случайные;Ring1;Enraged Kromede Ring;WeaponFixingDamage;Attack;19;ед.;
+Вещи: случайные;Ring1;Enraged Kromede Ring;WeaponAccuracy;Accuracy;39;ед.;
+Вещи: случайные;Ring1;Enraged Kromede Ring;WeaponFixingDamage;Attack;24;ед.;
 Манастоуны;Ring1;Enraged Kromede Ring;MPMax;MP;+30;ед.;
 Манастоуны;Ring1;Enraged Kromede Ring;Block;Block;+7;ед.;
 Манастоуны;Ring1;Enraged Kromede Ring;WeaponFixingDamage;Attack;+1;ед.;
@@ -133,9 +140,9 @@
 Вещи: прибавка от усиления;Ring2;Enraged Kromede Ring;WeaponFixingDamage [усиление];Attack (усиление);52;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Ring2;Enraged Kromede Ring;ArmorDefense;Defense;212;ед.;
 Вещи: прибавка от усиления;Ring2;Enraged Kromede Ring;ArmorDefense [усиление];Defense (усиление);132;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: случайные;Ring2;Enraged Kromede Ring;WeaponAccuracy;Accuracy;44;ед.;
-Вещи: случайные;Ring2;Enraged Kromede Ring;Critical;Critical Hit;28;ед.;
-Вещи: случайные;Ring2;Enraged Kromede Ring;MPMax;MP;84;ед.;
+Вещи: случайные;Ring2;Enraged Kromede Ring;WeaponAccuracy;Accuracy;47;ед.;
+Вещи: случайные;Ring2;Enraged Kromede Ring;Critical;Critical Hit;33;ед.;
+Вещи: случайные;Ring2;Enraged Kromede Ring;MPMax;MP;88;ед.;
 Манастоуны;Ring2;Enraged Kromede Ring;ArmorDefense;Defense;+30;ед.;
 Манастоуны;Ring2;Enraged Kromede Ring;HPMax;HP;+30;ед.;
 Манастоуны;Ring2;Enraged Kromede Ring;Evasion;Evasion Bonus;+7;ед.;
