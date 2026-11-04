@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-04T16:59:59+00:00",
+    "captured_at": "2026-11-04T17:56:41+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 156709,
+      "combatPower": 167298,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -37,10 +37,10 @@
         {
           "name": "Might",
           "statSecondList": [
-            "Attack increase +8%"
+            "Attack increase +9%"
           ],
           "type": "STR",
-          "value": 80
+          "value": 90
         },
         {
           "name": "Dexterity",
@@ -61,10 +61,10 @@
         {
           "name": "Constitution",
           "statSecondList": [
-            "HP increase +4.5%"
+            "HP increase +3.6%"
           ],
           "type": "CON",
-          "value": 45
+          "value": 36
         },
         {
           "name": "Precision",
@@ -77,11 +77,9 @@
         },
         {
           "name": "Willpower",
-          "statSecondList": [
-            "Status Effect Resist +1.1%"
-          ],
+          "statSecondList": null,
           "type": "WIS",
-          "value": 11
+          "value": 0
         },
         {
           "name": "Justice [Nezekan]",
@@ -177,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2571
+          "value": 2628
         }
       ]
     },
@@ -338,17 +336,17 @@
           "slotPosName": "MainHand"
         },
         {
-          "enchantLevel": 10,
+          "enchantLevel": 11,
           "exceedLevel": 0,
           "grade": "Unique",
-          "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Weapon_Guarder_L_001.png",
-          "id": 115030041,
-          "name": "Spiritforged Guard",
+          "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Weapon_Guarder_L_012.png",
+          "id": 115030053,
+          "name": "Nuakum Guard",
           "slotPos": 2,
           "slotPosName": "SubHand"
         },
         {
-          "enchantLevel": 10,
+          "enchantLevel": 11,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Torso.png",
@@ -358,7 +356,7 @@
           "slotPosName": "Torso"
         },
         {
-          "enchantLevel": 10,
+          "enchantLevel": 11,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Pants.png",
@@ -368,7 +366,7 @@
           "slotPosName": "Pants"
         },
         {
-          "enchantLevel": 10,
+          "enchantLevel": 11,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Helmet.png",
@@ -378,7 +376,7 @@
           "slotPosName": "Helmet"
         },
         {
-          "enchantLevel": 10,
+          "enchantLevel": 11,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Shoulder.png",
@@ -388,7 +386,7 @@
           "slotPosName": "Shoulder"
         },
         {
-          "enchantLevel": 10,
+          "enchantLevel": 11,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_0028_T05_Gloves.png",
@@ -398,7 +396,7 @@
           "slotPosName": "Gloves"
         },
         {
-          "enchantLevel": 10,
+          "enchantLevel": 11,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Boots.png",
@@ -408,12 +406,12 @@
           "slotPosName": "Boots"
         },
         {
-          "enchantLevel": 10,
+          "enchantLevel": 11,
           "exceedLevel": 0,
           "grade": "Unique",
-          "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_0028_T05_Cape.png",
-          "id": 210730052,
-          "name": "Vakron Cloak",
+          "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Cape.png",
+          "id": 210730053,
+          "name": "Nuakum Cloak",
           "slotPos": 19,
           "slotPosName": "Cape"
         },
@@ -428,7 +426,7 @@
           "slotPosName": "Belt"
         },
         {
-          "enchantLevel": 10,
+          "enchantLevel": 11,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_NL_0072.png",
@@ -438,7 +436,7 @@
           "slotPosName": "Necklace"
         },
         {
-          "enchantLevel": 10,
+          "enchantLevel": 11,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_ER_0053.png",
@@ -448,7 +446,7 @@
           "slotPosName": "Earring2"
         },
         {
-          "enchantLevel": 10,
+          "enchantLevel": 11,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_ER_0053.png",
@@ -468,7 +466,7 @@
           "slotPosName": "Ring1"
         },
         {
-          "enchantLevel": 10,
+          "enchantLevel": 11,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_Ring_0053.png",
@@ -478,7 +476,7 @@
           "slotPosName": "Ring2"
         },
         {
-          "enchantLevel": 10,
+          "enchantLevel": 11,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Acc_Bracelet_R_027.png",
@@ -693,7 +691,7 @@
           "id": 16010000,
           "name": "Cold Shock",
           "needLevel": 1,
-          "skillLevel": 15
+          "skillLevel": 16
         },
         {
           "acquired": 1,
@@ -813,7 +811,7 @@
           "id": 16710000,
           "name": "Spirit Strike",
           "needLevel": 1,
-          "skillLevel": 16
+          "skillLevel": 17
         },
         {
           "acquired": 1,
@@ -823,7 +821,7 @@
           "id": 16720000,
           "name": "Spirit Protection",
           "needLevel": 6,
-          "skillLevel": 17
+          "skillLevel": 16
         },
         {
           "acquired": 1,
@@ -833,7 +831,7 @@
           "id": 16730000,
           "name": "Spirit's Descent",
           "needLevel": 9,
-          "skillLevel": 16
+          "skillLevel": 18
         },
         {
           "acquired": 1,
@@ -843,7 +841,7 @@
           "id": 16740000,
           "name": "Corrode",
           "needLevel": 11,
-          "skillLevel": 17
+          "skillLevel": 18
         },
         {
           "acquired": 1,
@@ -853,7 +851,7 @@
           "id": 16750000,
           "name": "Spirit Revitalization",
           "needLevel": 13,
-          "skillLevel": 16
+          "skillLevel": 18
         },
         {
           "acquired": 1,
@@ -863,7 +861,7 @@
           "id": 16760000,
           "name": "Mental Focus",
           "needLevel": 15,
-          "skillLevel": 18
+          "skillLevel": 19
         },
         {
           "acquired": 1,
@@ -873,7 +871,7 @@
           "id": 16800000,
           "name": "Consecutive Countercurrent",
           "needLevel": 17,
-          "skillLevel": 13
+          "skillLevel": 15
         },
         {
           "acquired": 1,
@@ -883,7 +881,7 @@
           "id": 16770000,
           "name": "Spirit Communion",
           "needLevel": 21,
-          "skillLevel": 15
+          "skillLevel": 16
         },
         {
           "acquired": 1,
@@ -1178,45 +1176,46 @@
     {
       "slot_pos": 2,
       "slot": {
-        "enchantLevel": 10,
+        "enchantLevel": 11,
         "exceedLevel": 0,
         "grade": "Unique",
-        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Weapon_Guarder_L_001.png",
-        "id": 115030041,
-        "name": "Spiritforged Guard",
+        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Weapon_Guarder_L_012.png",
+        "id": 115030053,
+        "name": "Nuakum Guard",
         "slotPos": 2,
         "slotPosName": "SubHand"
       },
       "data": {
-        "id": 115030041,
-        "name": "Spiritforged Guard",
+        "id": 115030053,
+        "name": "Nuakum Guard",
         "grade": "Unique",
         "gradeName": "Unique",
-        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Weapon_Guarder_L_001.png",
-        "level": 45,
-        "levelValue": 10,
-        "enchantLevel": 10,
-        "storable": false,
+        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Weapon_Guarder_L_012.png",
+        "level": 86,
+        "levelValue": 11,
+        "enchantLevel": 11,
+        "storable": true,
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
         "decomposable": true,
         "maxEnchantLevel": 15,
+        "maxExceedEnchantLevel": 5,
         "raceName": "All",
         "categoryName": "Guard",
         "type": "Equip",
         "equipLevel": 45,
         "magicStoneSlotCount": 4,
         "godStoneSlotCount": 1,
-        "subStatCount": 0,
-        "subSkillCountMax": 0,
-        "subStatRandom": false,
+        "subStatCount": 4,
+        "subSkillCountMax": 4,
+        "subStatRandom": true,
         "mainStats": [
           {
             "id": "WeaponFixingDamage",
             "name": "Attack",
-            "value": "92",
-            "extra": "50",
+            "value": "177",
+            "extra": "106",
             "exceed": false
           },
           {
@@ -1234,66 +1233,33 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "100",
+        "soulBindRate": "33.1",
         "subStats": [
+          {
+            "id": "CombatSpeed",
+            "name": "Combat Speed",
+            "value": "8.7%"
+          },
           {
             "id": "STR",
             "name": "Might",
-            "minValue": "10",
-            "value": "10"
+            "value": "20"
           },
           {
-            "id": "WeaponAccuracy",
-            "name": "Accuracy",
-            "minValue": "30",
-            "value": "30"
+            "id": "WeaponFixingDamage",
+            "name": "Attack",
+            "value": "34"
           },
           {
-            "id": "HPMax",
-            "name": "HP",
-            "minValue": "120",
-            "value": "120"
-          },
-          {
-            "id": "Block",
-            "name": "Block",
-            "minValue": "15",
-            "value": "15"
+            "id": "AmplifyWeaponDamage",
+            "name": "Weapon Damage Boost",
+            "value": "6.3%"
           }
         ],
-        "magicStoneStat": [
-          {
-            "id": "MPMax",
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_001.png",
-            "value": "+30",
-            "name": "MP",
-            "grade": "Rare",
-            "slotPos": 0
-          },
-          {
-            "id": "Evasion",
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_001.png",
-            "value": "+7",
-            "name": "Evasion Bonus",
-            "grade": "Rare",
-            "slotPos": 1
-          },
-          {
-            "id": "Block",
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_001.png",
-            "value": "+7",
-            "name": "Block",
-            "grade": "Common",
-            "slotPos": 2
-          },
-          {
-            "id": "Critical",
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_001.png",
-            "value": "+7",
-            "name": "Critical Hit",
-            "grade": "Rare",
-            "slotPos": 3
-          }
+        "sources": [
+          "Reward Chest",
+          "Expedition",
+          "Sanctuary"
         ],
         "favorite": false
       }
@@ -1301,7 +1267,7 @@
     {
       "slot_pos": 5,
       "slot": {
-        "enchantLevel": 10,
+        "enchantLevel": 11,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Torso.png",
@@ -1317,8 +1283,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Torso.png",
         "level": 86,
-        "levelValue": 10,
-        "enchantLevel": 10,
+        "levelValue": 11,
+        "enchantLevel": 11,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -1342,14 +1308,14 @@
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "637",
-            "extra": "250",
+            "extra": "275",
             "exceed": false
           },
           {
             "id": "HPMax",
             "name": "HP",
             "value": "344",
-            "extra": "200",
+            "extra": "220",
             "exceed": false
           }
         ],
@@ -1426,7 +1392,7 @@
     {
       "slot_pos": 6,
       "slot": {
-        "enchantLevel": 10,
+        "enchantLevel": 11,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Pants.png",
@@ -1442,8 +1408,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Pants.png",
         "level": 86,
-        "levelValue": 10,
-        "enchantLevel": 10,
+        "levelValue": 11,
+        "enchantLevel": 11,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -1467,18 +1433,18 @@
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "531",
-            "extra": "250",
+            "extra": "275",
             "exceed": false
           },
           {
             "id": "HPMax",
             "name": "HP",
             "value": "258",
-            "extra": "200",
+            "extra": "220",
             "exceed": false
           }
         ],
-        "soulBindRate": "6.5",
+        "soulBindRate": "51.9",
         "subStats": [
           {
             "id": "DecreaseDamage",
@@ -1489,16 +1455,20 @@
             "id": "WeaponAccuracy",
             "name": "Accuracy",
             "value": "41"
+          }
+        ],
+        "subSkills": [
+          {
+            "id": 16750000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_011.png",
+            "name": "Spirit Revitalization"
           },
           {
-            "id": "ArmorEvasion",
-            "name": "Evasion",
-            "value": "24"
-          },
-          {
-            "id": "WIS",
-            "name": "Willpower",
-            "value": "11"
+            "id": 16730000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_003.png",
+            "name": "Spirit's Descent"
           }
         ],
         "magicStoneStat": [
@@ -1546,7 +1516,7 @@
     {
       "slot_pos": 3,
       "slot": {
-        "enchantLevel": 10,
+        "enchantLevel": 11,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Helmet.png",
@@ -1562,8 +1532,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Helmet.png",
         "level": 86,
-        "levelValue": 10,
-        "enchantLevel": 10,
+        "levelValue": 11,
+        "enchantLevel": 11,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -1587,14 +1557,14 @@
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "477",
-            "extra": "250",
+            "extra": "275",
             "exceed": false
           },
           {
             "id": "HPMax",
             "name": "HP",
             "value": "215",
-            "extra": "200",
+            "extra": "220",
             "exceed": false
           }
         ],
@@ -1671,7 +1641,7 @@
     {
       "slot_pos": 4,
       "slot": {
-        "enchantLevel": 10,
+        "enchantLevel": 11,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Shoulder.png",
@@ -1687,8 +1657,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Shoulder.png",
         "level": 86,
-        "levelValue": 10,
-        "enchantLevel": 10,
+        "levelValue": 11,
+        "enchantLevel": 11,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -1712,18 +1682,18 @@
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "477",
-            "extra": "250",
+            "extra": "275",
             "exceed": false
           },
           {
             "id": "HPMax",
             "name": "HP",
             "value": "215",
-            "extra": "200",
+            "extra": "220",
             "exceed": false
           }
         ],
-        "soulBindRate": "33.7",
+        "soulBindRate": "59.5",
         "subStats": [
           {
             "id": "HPMax",
@@ -1736,14 +1706,17 @@
             "value": "10.8%"
           },
           {
-            "id": "ArmorDefense",
-            "name": "Defense",
-            "value": "175"
-          },
+            "id": "HardHit",
+            "name": "Double Chance",
+            "value": "1.4%"
+          }
+        ],
+        "subSkills": [
           {
-            "id": "CON",
-            "name": "Constitution",
-            "value": "9"
+            "id": 16770000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_007.png",
+            "name": "Spirit Communion"
           }
         ],
         "magicStoneStat": [
@@ -1791,7 +1764,7 @@
     {
       "slot_pos": 7,
       "slot": {
-        "enchantLevel": 10,
+        "enchantLevel": 11,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_0028_T05_Gloves.png",
@@ -1807,8 +1780,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_0028_T05_Gloves.png",
         "level": 70,
-        "levelValue": 10,
-        "enchantLevel": 10,
+        "levelValue": 11,
+        "enchantLevel": 11,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -1832,14 +1805,14 @@
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "345",
-            "extra": "200",
+            "extra": "220",
             "exceed": false
           },
           {
             "id": "HPMax",
             "name": "HP",
             "value": "140",
-            "extra": "162",
+            "extra": "179",
             "exceed": false
           }
         ],
@@ -1911,7 +1884,7 @@
     {
       "slot_pos": 8,
       "slot": {
-        "enchantLevel": 10,
+        "enchantLevel": 11,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Boots.png",
@@ -1927,8 +1900,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Boots.png",
         "level": 86,
-        "levelValue": 10,
-        "enchantLevel": 10,
+        "levelValue": 11,
+        "enchantLevel": 11,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -1952,14 +1925,14 @@
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "424",
-            "extra": "250",
+            "extra": "275",
             "exceed": false
           },
           {
             "id": "HPMax",
             "name": "HP",
             "value": "172",
-            "extra": "200",
+            "extra": "220",
             "exceed": false
           }
         ],
@@ -2036,38 +2009,38 @@
     {
       "slot_pos": 19,
       "slot": {
-        "enchantLevel": 10,
+        "enchantLevel": 11,
         "exceedLevel": 0,
         "grade": "Unique",
-        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_0028_T05_Cape.png",
-        "id": 210730052,
-        "name": "Vakron Cloak",
+        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Cape.png",
+        "id": 210730053,
+        "name": "Nuakum Cloak",
         "slotPos": 19,
         "slotPosName": "Cape"
       },
       "data": {
-        "id": 210730052,
-        "name": "Vakron Cloak",
+        "id": 210730053,
+        "name": "Nuakum Cloak",
         "grade": "Unique",
         "gradeName": "Unique",
-        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_0028_T05_Cape.png",
-        "level": 70,
-        "levelValue": 10,
-        "enchantLevel": 10,
+        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Equip_AR_L_Idris_01_Cape.png",
+        "level": 86,
+        "levelValue": 11,
+        "enchantLevel": 11,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
         "decomposable": true,
         "maxEnchantLevel": 15,
-        "maxExceedEnchantLevel": 3,
+        "maxExceedEnchantLevel": 5,
         "raceName": "All",
         "categoryName": "Cloak",
         "type": "Equip",
         "equipLevel": 45,
         "magicStoneSlotCount": 4,
         "costumes": [
-          "Ruinous Devourer (Cloak)"
+          "Guardian of Honor (Cloak)"
         ],
         "subStatCount": 4,
         "subSkillCountMax": 4,
@@ -2076,76 +2049,44 @@
           {
             "id": "ArmorDefense",
             "name": "Defense",
-            "value": "345",
-            "extra": "200",
+            "value": "424",
+            "extra": "275",
             "exceed": false
           },
           {
             "id": "HPMax",
             "name": "HP",
-            "value": "140",
-            "extra": "162",
+            "value": "172",
+            "extra": "220",
             "exceed": false
           }
         ],
-        "soulBindRate": "44.6",
+        "soulBindRate": "76.9",
         "subStats": [
-          {
-            "id": "Block",
-            "name": "Block",
-            "value": "18"
-          },
           {
             "id": "WeaponAccuracy",
             "name": "Accuracy",
             "value": "30"
-          },
-          {
-            "id": "HPMax",
-            "name": "HP",
-            "value": "126"
           }
         ],
         "subSkills": [
           {
-            "id": 16720000,
+            "id": 16710000,
             "level": 1,
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_002.png",
-            "name": "Spirit Protection"
-          }
-        ],
-        "magicStoneStat": [
-          {
-            "id": "HPMax",
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_001.png",
-            "value": "+60",
-            "name": "HP",
-            "grade": "Rare",
-            "slotPos": 0
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_004.png",
+            "name": "Spirit Strike"
           },
           {
-            "id": "HPMax",
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_001.png",
-            "value": "+30",
-            "name": "HP",
-            "grade": "Common",
-            "slotPos": 1
+            "id": 16750000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_011.png",
+            "name": "Spirit Revitalization"
           },
           {
-            "id": "Block",
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_001.png",
-            "value": "+7",
-            "name": "Block",
-            "grade": "Common",
-            "slotPos": 2
-          },
-          {
-            "id": "Critical",
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_MagicStone_A_c_001.png",
-            "value": "+7",
-            "name": "Critical Hit",
-            "grade": "Rare",
-            "slotPos": 3
+            "id": 16730000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_003.png",
+            "name": "Spirit's Descent"
           }
         ],
         "sources": [
@@ -2231,7 +2172,7 @@
     {
       "slot_pos": 10,
       "slot": {
-        "enchantLevel": 10,
+        "enchantLevel": 11,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_NL_0072.png",
@@ -2247,8 +2188,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_NL_0072.png",
         "level": 70,
-        "levelValue": 10,
-        "enchantLevel": 10,
+        "levelValue": 11,
+        "enchantLevel": 11,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -2272,14 +2213,14 @@
             "id": "WeaponFixingDamage",
             "name": "Attack",
             "value": "108",
-            "extra": "39",
+            "extra": "43",
             "exceed": false
           },
           {
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "259",
-            "extra": "99",
+            "extra": "109",
             "exceed": false
           }
         ],
@@ -2354,7 +2295,7 @@
     {
       "slot_pos": 12,
       "slot": {
-        "enchantLevel": 10,
+        "enchantLevel": 11,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_ER_0053.png",
@@ -2370,8 +2311,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_ER_0053.png",
         "level": 86,
-        "levelValue": 10,
-        "enchantLevel": 10,
+        "levelValue": 11,
+        "enchantLevel": 11,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -2395,38 +2336,42 @@
             "id": "WeaponFixingDamage",
             "name": "Attack",
             "value": "111",
-            "extra": "47",
+            "extra": "52",
             "exceed": false
           },
           {
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "265",
-            "extra": "120",
+            "extra": "132",
             "exceed": false
           }
         ],
-        "soulBindRate": "30.9",
+        "soulBindRate": "65.8",
         "subStats": [
-          {
-            "id": "HPRegen",
-            "name": "Natural HP Regen",
-            "value": "48"
-          },
           {
             "id": "STR",
             "name": "Might",
             "value": "12"
           },
           {
-            "id": "HPMax",
-            "name": "HP",
-            "value": "219"
-          },
-          {
             "id": "Critical",
             "name": "Critical Hit",
             "value": "33"
+          }
+        ],
+        "subSkills": [
+          {
+            "id": 16800000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_013.png",
+            "name": "Consecutive Countercurrent"
+          },
+          {
+            "id": 16760000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_006.png",
+            "name": "Mental Focus"
           }
         ],
         "magicStoneStat": [
@@ -2474,7 +2419,7 @@
     {
       "slot_pos": 11,
       "slot": {
-        "enchantLevel": 10,
+        "enchantLevel": 11,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_ER_0053.png",
@@ -2490,8 +2435,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_ER_0053.png",
         "level": 86,
-        "levelValue": 10,
-        "enchantLevel": 10,
+        "levelValue": 11,
+        "enchantLevel": 11,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -2515,32 +2460,22 @@
             "id": "WeaponFixingDamage",
             "name": "Attack",
             "value": "111",
-            "extra": "47",
+            "extra": "52",
             "exceed": false
           },
           {
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "265",
-            "extra": "120",
+            "extra": "132",
             "exceed": false
           }
         ],
-        "soulBindRate": "40.4",
+        "soulBindRate": "83.3",
         "subStats": [
           {
             "id": "WeaponAccuracy",
             "name": "Accuracy",
-            "value": "49"
-          },
-          {
-            "id": "Block",
-            "name": "Block",
-            "value": "27"
-          },
-          {
-            "id": "HPRegen",
-            "name": "Natural HP Regen",
             "value": "49"
           }
         ],
@@ -2550,6 +2485,18 @@
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_004.png",
             "name": "Spirit Strike"
+          },
+          {
+            "id": 16800000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_013.png",
+            "name": "Consecutive Countercurrent"
+          },
+          {
+            "id": 16740000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_012.png",
+            "name": "Corrode"
           }
         ],
         "magicStoneStat": [
@@ -2646,17 +2593,17 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "60.7",
+        "soulBindRate": "58.1",
         "subStats": [
           {
-            "id": "ArmorDefense",
-            "name": "Defense",
-            "value": "226"
+            "id": "WeaponAccuracy",
+            "name": "Accuracy",
+            "value": "38"
           },
           {
-            "id": "HPMax",
-            "name": "HP",
-            "value": "174"
+            "id": "WeaponFixingDamage",
+            "name": "Attack",
+            "value": "19"
           }
         ],
         "subSkills": [
@@ -2718,7 +2665,7 @@
     {
       "slot_pos": 14,
       "slot": {
-        "enchantLevel": 10,
+        "enchantLevel": 11,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_Ring_0053.png",
@@ -2734,8 +2681,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_Ring_0053.png",
         "level": 86,
-        "levelValue": 10,
-        "enchantLevel": 10,
+        "levelValue": 11,
+        "enchantLevel": 11,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -2756,24 +2703,19 @@
             "id": "WeaponFixingDamage",
             "name": "Attack",
             "value": "88",
-            "extra": "47",
+            "extra": "52",
             "exceed": false
           },
           {
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "212",
-            "extra": "120",
+            "extra": "132",
             "exceed": false
           }
         ],
-        "soulBindRate": "20.5",
+        "soulBindRate": "42.5",
         "subStats": [
-          {
-            "id": "HPMax",
-            "name": "HP",
-            "value": "171"
-          },
           {
             "id": "WeaponAccuracy",
             "name": "Accuracy",
@@ -2788,6 +2730,14 @@
             "id": "MPMax",
             "name": "MP",
             "value": "84"
+          }
+        ],
+        "subSkills": [
+          {
+            "id": 16010000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_001.png",
+            "name": "Cold Shock"
           }
         ],
         "magicStoneStat": [
@@ -2835,7 +2785,7 @@
     {
       "slot_pos": 15,
       "slot": {
-        "enchantLevel": 10,
+        "enchantLevel": 11,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Acc_Bracelet_R_027.png",
@@ -2851,8 +2801,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Acc_Bracelet_R_027.png",
         "level": 51,
-        "levelValue": 10,
-        "enchantLevel": 10,
+        "levelValue": 11,
+        "enchantLevel": 11,
         "storable": false,
         "tradable": false,
         "tradablePersonal": false,
@@ -2872,14 +2822,14 @@
             "id": "WeaponFixingDamage",
             "name": "Attack",
             "value": "65",
-            "extra": "28",
+            "extra": "31",
             "exceed": false
           },
           {
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "156",
-            "extra": "70",
+            "extra": "77",
             "exceed": false
           }
         ],
