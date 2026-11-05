@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-04T23:47:00+00:00",
+    "captured_at": "2026-11-05T01:09:28+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 173326,
+      "combatPower": 173788,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2651
+          "value": 2655
         }
       ]
     },
@@ -426,7 +426,7 @@
           "slotPosName": "Belt"
         },
         {
-          "enchantLevel": 11,
+          "enchantLevel": 12,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_NL_0072.png",
@@ -436,7 +436,7 @@
           "slotPosName": "Necklace"
         },
         {
-          "enchantLevel": 11,
+          "enchantLevel": 12,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_ER_0053.png",
@@ -446,7 +446,7 @@
           "slotPosName": "Earring2"
         },
         {
-          "enchantLevel": 11,
+          "enchantLevel": 12,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_ER_0053.png",
@@ -466,7 +466,7 @@
           "slotPosName": "Ring1"
         },
         {
-          "enchantLevel": 11,
+          "enchantLevel": 12,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_Ring_0053.png",
@@ -2243,7 +2243,7 @@
     {
       "slot_pos": 10,
       "slot": {
-        "enchantLevel": 11,
+        "enchantLevel": 12,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_NL_0072.png",
@@ -2259,8 +2259,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_NL_0072.png",
         "level": 70,
-        "levelValue": 11,
-        "enchantLevel": 11,
+        "levelValue": 12,
+        "enchantLevel": 12,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -2284,14 +2284,14 @@
             "id": "WeaponFixingDamage",
             "name": "Attack",
             "value": "108",
-            "extra": "43",
+            "extra": "47",
             "exceed": false
           },
           {
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "259",
-            "extra": "109",
+            "extra": "119",
             "exceed": false
           }
         ],
@@ -2366,7 +2366,7 @@
     {
       "slot_pos": 12,
       "slot": {
-        "enchantLevel": 11,
+        "enchantLevel": 12,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_ER_0053.png",
@@ -2382,8 +2382,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_ER_0053.png",
         "level": 86,
-        "levelValue": 11,
-        "enchantLevel": 11,
+        "levelValue": 12,
+        "enchantLevel": 12,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -2407,14 +2407,14 @@
             "id": "WeaponFixingDamage",
             "name": "Attack",
             "value": "111",
-            "extra": "52",
+            "extra": "57",
             "exceed": false
           },
           {
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "265",
-            "extra": "132",
+            "extra": "145",
             "exceed": false
           }
         ],
@@ -2490,7 +2490,7 @@
     {
       "slot_pos": 11,
       "slot": {
-        "enchantLevel": 11,
+        "enchantLevel": 12,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_ER_0053.png",
@@ -2506,8 +2506,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_ER_0053.png",
         "level": 86,
-        "levelValue": 11,
-        "enchantLevel": 11,
+        "levelValue": 12,
+        "enchantLevel": 12,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -2531,14 +2531,14 @@
             "id": "WeaponFixingDamage",
             "name": "Attack",
             "value": "111",
-            "extra": "52",
+            "extra": "57",
             "exceed": false
           },
           {
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "265",
-            "extra": "132",
+            "extra": "145",
             "exceed": false
           }
         ],
@@ -2736,7 +2736,7 @@
     {
       "slot_pos": 14,
       "slot": {
-        "enchantLevel": 11,
+        "enchantLevel": 12,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_Ring_0053.png",
@@ -2752,8 +2752,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_Ring_0053.png",
         "level": 86,
-        "levelValue": 11,
-        "enchantLevel": 11,
+        "levelValue": 12,
+        "enchantLevel": 12,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -2774,14 +2774,14 @@
             "id": "WeaponFixingDamage",
             "name": "Attack",
             "value": "88",
-            "extra": "52",
+            "extra": "57",
             "exceed": false
           },
           {
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "212",
-            "extra": "132",
+            "extra": "145",
             "exceed": false
           }
         ],

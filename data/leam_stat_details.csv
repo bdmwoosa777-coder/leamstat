@@ -97,9 +97,9 @@
 Вещи: основные;Belt;Noble Belt;HpPotionRate;HP Potion Recovery increase;30%;%;
 Вещи: основные;Belt;Noble Belt;Restoration;Regeneration;5%;%;
 Вещи: основные;Necklace;Aulamus Necklace;WeaponFixingDamage;Attack;108;ед.;
-Вещи: прибавка от усиления;Necklace;Aulamus Necklace;WeaponFixingDamage [усиление];Attack (усиление);43;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: прибавка от усиления;Necklace;Aulamus Necklace;WeaponFixingDamage [усиление];Attack (усиление);47;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Necklace;Aulamus Necklace;ArmorDefense;Defense;259;ед.;
-Вещи: прибавка от усиления;Necklace;Aulamus Necklace;ArmorDefense [усиление];Defense (усиление);109;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: прибавка от усиления;Necklace;Aulamus Necklace;ArmorDefense [усиление];Defense (усиление);119;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: случайные;Necklace;Aulamus Necklace;WeaponAccuracy;Accuracy;53;ед.;
 Вещи: случайные;Necklace;Aulamus Necklace;WeaponFixingDamage;Attack;27;ед.;
 Вещи: случайные;Necklace;Aulamus Necklace;Critical;Critical Hit;47;ед.;
@@ -108,9 +108,9 @@
 Манастоуны;Necklace;Aulamus Necklace;Block;Block;+7;ед.;
 Манастоуны;Necklace;Aulamus Necklace;Critical;Critical Hit;+7;ед.;
 Вещи: основные;Earring2;Enraged Kromede Earrings;WeaponFixingDamage;Attack;111;ед.;
-Вещи: прибавка от усиления;Earring2;Enraged Kromede Earrings;WeaponFixingDamage [усиление];Attack (усиление);52;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: прибавка от усиления;Earring2;Enraged Kromede Earrings;WeaponFixingDamage [усиление];Attack (усиление);57;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Earring2;Enraged Kromede Earrings;ArmorDefense;Defense;265;ед.;
-Вещи: прибавка от усиления;Earring2;Enraged Kromede Earrings;ArmorDefense [усиление];Defense (усиление);132;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: прибавка от усиления;Earring2;Enraged Kromede Earrings;ArmorDefense [усиление];Defense (усиление);145;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: случайные;Earring2;Enraged Kromede Earrings;STR;Might;13;ед.;
 Вещи: случайные;Earring2;Enraged Kromede Earrings;Critical;Critical Hit;36;ед.;
 Манастоуны;Earring2;Enraged Kromede Earrings;MPMax;MP;+30;ед.;
@@ -118,9 +118,9 @@
 Манастоуны;Earring2;Enraged Kromede Earrings;Accuracy;Accuracy Bonus;+5;ед.;
 Манастоуны;Earring2;Enraged Kromede Earrings;Critical;Critical Hit;+7;ед.;
 Вещи: основные;Earring1;Enraged Kromede Earrings;WeaponFixingDamage;Attack;111;ед.;
-Вещи: прибавка от усиления;Earring1;Enraged Kromede Earrings;WeaponFixingDamage [усиление];Attack (усиление);52;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: прибавка от усиления;Earring1;Enraged Kromede Earrings;WeaponFixingDamage [усиление];Attack (усиление);57;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Earring1;Enraged Kromede Earrings;ArmorDefense;Defense;265;ед.;
-Вещи: прибавка от усиления;Earring1;Enraged Kromede Earrings;ArmorDefense [усиление];Defense (усиление);132;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: прибавка от усиления;Earring1;Enraged Kromede Earrings;ArmorDefense [усиление];Defense (усиление);145;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: случайные;Earring1;Enraged Kromede Earrings;WeaponAccuracy;Accuracy;49;ед.;
 Манастоуны;Earring1;Enraged Kromede Earrings;CriticalResist;Critical Hit Resist;+5;ед.;
 Манастоуны;Earring1;Enraged Kromede Earrings;Critical;Critical Hit;+7;ед.;
@@ -137,9 +137,9 @@
 Манастоуны;Ring1;Enraged Kromede Ring;WeaponFixingDamage;Attack;+1;ед.;
 Манастоуны;Ring1;Enraged Kromede Ring;WeaponFixingDamage;Attack;+3;ед.;
 Вещи: основные;Ring2;Enraged Kromede Ring;WeaponFixingDamage;Attack;88;ед.;
-Вещи: прибавка от усиления;Ring2;Enraged Kromede Ring;WeaponFixingDamage [усиление];Attack (усиление);52;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: прибавка от усиления;Ring2;Enraged Kromede Ring;WeaponFixingDamage [усиление];Attack (усиление);57;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Ring2;Enraged Kromede Ring;ArmorDefense;Defense;212;ед.;
-Вещи: прибавка от усиления;Ring2;Enraged Kromede Ring;ArmorDefense [усиление];Defense (усиление);132;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: прибавка от усиления;Ring2;Enraged Kromede Ring;ArmorDefense [усиление];Defense (усиление);145;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: случайные;Ring2;Enraged Kromede Ring;WeaponAccuracy;Accuracy;47;ед.;
 Вещи: случайные;Ring2;Enraged Kromede Ring;Critical;Critical Hit;33;ед.;
 Вещи: случайные;Ring2;Enraged Kromede Ring;MPMax;MP;88;ед.;
