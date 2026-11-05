@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-05T14:27:21+00:00
+Время запроса: 2026-11-05T17:19:13+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 173830
+Боевая мощь: 173964
 Сервер: Quai
 ID сервера: 2317
 
@@ -416,7 +416,7 @@ Active | Jointstrike: Curse | ур. 16 | установлен: да
 Active | Rapid Scattershot | ур. 14 | установлен: да
 Active | Summon: Earth Spirit | ур. 15 | установлен: да
 Active | Dimensional Control | ур. 14 | установлен: да
-Active | Summon: Wind Spirit | ур. 3 | установлен: да
+Active | Summon: Wind Spirit | ур. 1 | установлен: да
 Active | Soul's Cry | ур. 2 | установлен: да
 Active | Elemental Fusion | ур. 17 | установлен: да
 Active | Defiance | ур. 3 | установлен: нет
@@ -446,7 +446,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
 
 === ДАЭВАНИОН: ВСЕ УЗЛЫ ===
 
-[Nezekan] 60/88 (ID=51)
+[Nezekan] 62/88 (ID=51)
   [закрыт] R1/C1  (None) 
   [закрыт] R1/C2  (None) 
   [закрыт] R1/C3  (None) 
@@ -480,7 +480,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R3/C1  (None) 
   [закрыт] R3/C2  (None) 
   [ОТКРЫТ] R3/C3 Combat Speed (Stat) Combat Speed +1.5%
-  [закрыт] R3/C4 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R3/C4 Attack (Stat) Attack Bonus +3
   [закрыт] R3/C5 Critical Hit Resist (Stat) Critical Hit Resist +5
   [закрыт] R3/C6  (None) 
   [ОТКРЫТ] R3/C7 Skill Level Up - Spirit Protection (SkillLevel) Spirit Protection +1
@@ -561,7 +561,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R8/C7  (None) 
   [закрыт] R8/C8 Nezekan - Start (Start) 
   [закрыт] R8/C9  (None) 
-  [закрыт] R8/C10 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R8/C10 Attack (Stat) Attack Bonus +3
   [закрыт] R8/C11  (None) 
   [закрыт] R8/C12  (None) 
   [ОТКРЫТ] R8/C13 Skill Level Up - Rapid Scattershot (SkillLevel) Rapid Scattershot +1
@@ -601,7 +601,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R11/C2  (None) 
   [ОТКРЫТ] R11/C3 Skill Level Up - Spirit Revitalization (SkillLevel) Spirit Revitalization +1
   [закрыт] R11/C4 Max MP (Stat) MP +50
-  [ОТКРЫТ] R11/C5 Skill Level Up - Summon: Wind Spirit (SkillLevel) Summon: Wind Spirit +1
+  [закрыт] R11/C5 Skill Level Up - Summon: Wind Spirit (SkillLevel) Summon: Wind Spirit +1
   [закрыт] R11/C6  (None) 
   [ОТКРЫТ] R11/C7 Max MP (Stat) MP +50
   [ОТКРЫТ] R11/C8 Skill Level Up - Summon: Water Spirit (SkillLevel) Summon: Water Spirit +1
@@ -620,7 +620,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [ОТКРЫТ] R12/C6 Attack (Stat) Attack Bonus +3
   [ОТКРЫТ] R12/C7 Max HP (Stat) HP +100
   [закрыт] R12/C8  (None) 
-  [закрыт] R12/C9 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R12/C9 Attack (Stat) Attack Bonus +3
   [закрыт] R12/C10 Max HP (Stat) HP +100
   [ОТКРЫТ] R12/C11 Skill Level Up - Summon: Earth Spirit (SkillLevel) Summon: Earth Spirit +1
   [закрыт] R12/C12  (None) 
@@ -672,10 +672,10 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R15/C13  (None) 
   [закрыт] R15/C14  (None) 
   [закрыт] R15/C15  (None) 
-  Все открытые бонусы характеристик: HP +700 | MP +400 | Critical Hit Resist +20 | Attack Bonus +21 | Critical Hit +30 | Cooldown Reduction +3% | Defense Bonus +120 | Combat Speed +3%
-  Все открытые бонусы навыков: Rapid Scattershot +1 | Spirit Revitalization +2 | Summon: Fire Spirit +1 | Spirit's Descent +2 | Summon: Earth Spirit +1 | Elemental Fusion +1 | Combustion +1 | Spirit Strike +2 | Jointstrike: Curse +1 | Dimensional Control +1 | Summon: Water Spirit +1 | Corrode +2 | Summon: Wind Spirit +1 | Spirit Protection +2 | Cold Shock +1
+  Все открытые бонусы характеристик: HP +700 | MP +400 | Critical Hit Resist +20 | Attack Bonus +30 | Critical Hit +30 | Cooldown Reduction +3% | Defense Bonus +120 | Combat Speed +3%
+  Все открытые бонусы навыков: Rapid Scattershot +1 | Spirit Revitalization +2 | Summon: Fire Spirit +1 | Spirit's Descent +2 | Summon: Earth Spirit +1 | Elemental Fusion +1 | Combustion +1 | Spirit Strike +2 | Jointstrike: Curse +1 | Dimensional Control +1 | Summon: Water Spirit +1 | Corrode +2 | Spirit Protection +2 | Cold Shock +1
 
-[Zikel] 60/88 (ID=52)
+[Zikel] 62/88 (ID=52)
   [закрыт] R1/C1  (None) 
   [закрыт] R1/C2  (None) 
   [закрыт] R1/C3  (None) 
@@ -742,7 +742,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [ОТКРЫТ] R5/C4 Max HP (Stat) HP +100
   [ОТКРЫТ] R5/C5 Defense (Stat) Defense Bonus +30
   [закрыт] R5/C6  (None) 
-  [закрыт] R5/C7 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R5/C7 Attack (Stat) Attack Bonus +3
   [закрыт] R5/C8 Max MP (Stat) MP +50
   [ОТКРЫТ] R5/C9 Skill Level Up - Summon: Fire Spirit (SkillLevel) Summon: Fire Spirit +1
   [ОТКРЫТ] R5/C10 Critical Hit Resist (Stat) Critical Hit Resist +5
@@ -756,7 +756,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [ОТКРЫТ] R6/C3 Critical Hit (Stat) Critical Hit +5
   [закрыт] R6/C4  (None) 
   [ОТКРЫТ] R6/C5 Max MP (Stat) MP +50
-  [закрыт] R6/C6 Critical Hit Resist (Stat) Critical Hit Resist +5
+  [ОТКРЫТ] R6/C6 Critical Hit Resist (Stat) Critical Hit Resist +5
   [ОТКРЫТ] R6/C7 Skill Level Up - Spirit Communion (SkillLevel) Spirit Communion +1
   [закрыт] R6/C8  (None) 
   [ОТКРЫТ] R6/C9 Critical Hit (Stat) Critical Hit +5
@@ -777,7 +777,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [ОТКРЫТ] R7/C9 Max MP (Stat) MP +50
   [ОТКРЫТ] R7/C10 Skill Level Up - Consecutive Countercurrent (SkillLevel) Consecutive Countercurrent +1
   [закрыт] R7/C11 Max HP (Stat) HP +100
-  [закрыт] R7/C12 Attack (Stat) Attack Bonus +3
+  [ОТКРЫТ] R7/C12 Attack (Stat) Attack Bonus +3
   [ОТКРЫТ] R7/C13 Skill Level Up - Combustion (SkillLevel) Combustion +1
   [закрыт] R7/C14  (None) 
   [закрыт] R7/C15  (None) 
@@ -832,7 +832,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [ОТКРЫТ] R11/C4 Skill Level Up - Consecutive Countercurrent (SkillLevel) Consecutive Countercurrent +1
   [закрыт] R11/C5 Max HP (Stat) HP +100
   [ОТКРЫТ] R11/C6 Critical Hit (Stat) Critical Hit +5
-  [ОТКРЫТ] R11/C7 Skill Level Up - Summon: Wind Spirit (SkillLevel) Summon: Wind Spirit +1
+  [закрыт] R11/C7 Skill Level Up - Summon: Wind Spirit (SkillLevel) Summon: Wind Spirit +1
   [закрыт] R11/C8 Max HP (Stat) HP +100
   [закрыт] R11/C9 Defense (Stat) Defense Bonus +30
   [закрыт] R11/C10  (None) 
@@ -901,8 +901,8 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R15/C13  (None) 
   [закрыт] R15/C14  (None) 
   [закрыт] R15/C15  (None) 
-  Все открытые бонусы характеристик: HP +400 | Damage Tolerance +3% | MP +250 | Damage Boost +3% | Critical Hit Resist +25 | Attack Bonus +21 | Critical Hit +35 | Defense Bonus +270
-  Все открытые бонусы навыков: Rapid Scattershot +1 | Summon: Fire Spirit +1 | Spirit Communion +2 | Consecutive Countercurrent +2 | Summon: Earth Spirit +1 | Elemental Fusion +1 | Combustion +1 | Mental Focus +2 | Jointstrike: Curse +1 | Dimensional Control +1 | Summon: Water Spirit +1 | Element Unification +2 | Summon: Wind Spirit +1 | Revitalization Contract +1 | Cold Shock +1
+  Все открытые бонусы характеристик: HP +400 | Damage Tolerance +3% | MP +250 | Damage Boost +3% | Critical Hit Resist +30 | Attack Bonus +27 | Critical Hit +35 | Defense Bonus +270
+  Все открытые бонусы навыков: Rapid Scattershot +1 | Summon: Fire Spirit +1 | Spirit Communion +2 | Consecutive Countercurrent +2 | Summon: Earth Spirit +1 | Elemental Fusion +1 | Combustion +1 | Mental Focus +2 | Jointstrike: Curse +1 | Dimensional Control +1 | Summon: Water Spirit +1 | Element Unification +2 | Revitalization Contract +1 | Cold Shock +1
 
 [Vaizel] 57/88 (ID=53)
   [закрыт] R1/C1  (None) 

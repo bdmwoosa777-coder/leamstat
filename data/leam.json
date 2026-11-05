@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-05T14:27:21+00:00",
+    "captured_at": "2026-11-05T17:19:13+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 173830,
+      "combatPower": 173964,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -270,8 +270,8 @@
           "id": 51,
           "name": "Nezekan",
           "open": 1,
-          "openNodeCount": 60,
-          "openPercent": 68,
+          "openNodeCount": 62,
+          "openPercent": 70,
           "totalNodeCount": 88
         },
         {
@@ -279,8 +279,8 @@
           "id": 52,
           "name": "Zikel",
           "open": 1,
-          "openNodeCount": 60,
-          "openPercent": 68,
+          "openNodeCount": 62,
+          "openPercent": 70,
           "totalNodeCount": 88
         },
         {
@@ -771,7 +771,7 @@
           "id": 16120000,
           "name": "Summon: Wind Spirit",
           "needLevel": 10,
-          "skillLevel": 3
+          "skillLevel": 1
         },
         {
           "acquired": 1,
@@ -4342,8 +4342,8 @@
         "id": 51,
         "name": "Nezekan",
         "open": 1,
-        "openNodeCount": 60,
-        "openPercent": 68,
+        "openNodeCount": 62,
+        "openPercent": 70,
         "totalNodeCount": 88
       },
       "data": {
@@ -4808,7 +4808,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "Attack",
             "nodeId": 510034,
-            "open": 0,
+            "open": 1,
             "row": 3,
             "type": "Stat"
           },
@@ -5920,7 +5920,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "Attack",
             "nodeId": 510115,
-            "open": 0,
+            "open": 1,
             "row": 8,
             "type": "Stat"
           },
@@ -6484,7 +6484,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Legend_Sprite.png",
             "name": "Skill Level Up - Summon: Wind Spirit",
             "nodeId": 510155,
-            "open": 1,
+            "open": 0,
             "row": 11,
             "type": "SkillLevel"
           },
@@ -6668,7 +6668,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "Attack",
             "nodeId": 510174,
-            "open": 0,
+            "open": 1,
             "row": 12,
             "type": "Stat"
           },
@@ -7443,9 +7443,6 @@
             "desc": "Corrode +2"
           },
           {
-            "desc": "Summon: Wind Spirit +1"
-          },
-          {
             "desc": "Spirit Protection +2"
           },
           {
@@ -7463,7 +7460,7 @@
             "desc": "Critical Hit Resist +20"
           },
           {
-            "desc": "Attack Bonus +21"
+            "desc": "Attack Bonus +30"
           },
           {
             "desc": "Critical Hit +30"
@@ -7487,8 +7484,8 @@
         "id": 52,
         "name": "Zikel",
         "open": 1,
-        "openNodeCount": 60,
-        "openPercent": 68,
+        "openNodeCount": 62,
+        "openPercent": 70,
         "totalNodeCount": 88
       },
       "data": {
@@ -8809,7 +8806,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "Attack",
             "nodeId": 520067,
-            "open": 0,
+            "open": 1,
             "row": 5,
             "type": "Stat"
           },
@@ -9061,7 +9058,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "Critical Hit Resist",
             "nodeId": 520081,
-            "open": 0,
+            "open": 1,
             "row": 6,
             "type": "Stat"
           },
@@ -9221,7 +9218,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "Attack",
             "nodeId": 520102,
-            "open": 0,
+            "open": 1,
             "row": 7,
             "type": "Stat"
           },
@@ -10017,7 +10014,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Legend_Sprite.png",
             "name": "Skill Level Up - Summon: Wind Spirit",
             "nodeId": 520157,
-            "open": 1,
+            "open": 0,
             "row": 11,
             "type": "SkillLevel"
           },
@@ -10588,9 +10585,6 @@
             "desc": "Element Unification +2"
           },
           {
-            "desc": "Summon: Wind Spirit +1"
-          },
-          {
             "desc": "Revitalization Contract +1"
           },
           {
@@ -10611,10 +10605,10 @@
             "desc": "Damage Boost +3%"
           },
           {
-            "desc": "Critical Hit Resist +25"
+            "desc": "Critical Hit Resist +30"
           },
           {
-            "desc": "Attack Bonus +21"
+            "desc": "Attack Bonus +27"
           },
           {
             "desc": "Critical Hit +35"
