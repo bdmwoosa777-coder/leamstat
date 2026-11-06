@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-06T21:45:47+00:00",
+    "captured_at": "2026-11-06T22:46:21+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 173964,
+      "combatPower": 175764,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -951,7 +951,7 @@
           "id": 16150000,
           "name": "Jointstrike: Corrode",
           "needLevel": 22,
-          "skillLevel": 6
+          "skillLevel": 10
         },
         {
           "acquired": 0,
