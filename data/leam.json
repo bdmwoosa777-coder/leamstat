@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-07T22:43:24+00:00",
+    "captured_at": "2026-11-07T23:03:44+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 175790,
+      "combatPower": 176137,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2655
+          "value": 2675
         }
       ]
     },
@@ -426,12 +426,12 @@
           "slotPosName": "Belt"
         },
         {
-          "enchantLevel": 12,
+          "enchantLevel": 13,
           "exceedLevel": 0,
           "grade": "Unique",
-          "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_NL_0072.png",
-          "id": 310130050,
-          "name": "Aulamus Necklace",
+          "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_NL_0053.png",
+          "id": 310130051,
+          "name": "Enraged Kromede Necklace",
           "slotPos": 10,
           "slotPosName": "Necklace"
         },
@@ -466,7 +466,7 @@
           "slotPosName": "Ring1"
         },
         {
-          "enchantLevel": 12,
+          "enchantLevel": 13,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_Ring_0053.png",
@@ -691,7 +691,7 @@
           "id": 16010000,
           "name": "Cold Shock",
           "needLevel": 1,
-          "skillLevel": 16
+          "skillLevel": 15
         },
         {
           "acquired": 1,
@@ -701,7 +701,7 @@
           "id": 16040000,
           "name": "Combustion",
           "needLevel": 1,
-          "skillLevel": 16
+          "skillLevel": 17
         },
         {
           "acquired": 1,
@@ -711,7 +711,7 @@
           "id": 16100000,
           "name": "Summon: Fire Spirit",
           "needLevel": 1,
-          "skillLevel": 16
+          "skillLevel": 17
         },
         {
           "acquired": 1,
@@ -811,7 +811,7 @@
           "id": 16710000,
           "name": "Spirit Strike",
           "needLevel": 1,
-          "skillLevel": 17
+          "skillLevel": 18
         },
         {
           "acquired": 1,
@@ -821,7 +821,7 @@
           "id": 16720000,
           "name": "Spirit Protection",
           "needLevel": 6,
-          "skillLevel": 16
+          "skillLevel": 17
         },
         {
           "acquired": 1,
@@ -841,7 +841,7 @@
           "id": 16740000,
           "name": "Corrode",
           "needLevel": 11,
-          "skillLevel": 18
+          "skillLevel": 17
         },
         {
           "acquired": 1,
@@ -2243,38 +2243,38 @@
     {
       "slot_pos": 10,
       "slot": {
-        "enchantLevel": 12,
+        "enchantLevel": 13,
         "exceedLevel": 0,
         "grade": "Unique",
-        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_NL_0072.png",
-        "id": 310130050,
-        "name": "Aulamus Necklace",
+        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_NL_0053.png",
+        "id": 310130051,
+        "name": "Enraged Kromede Necklace",
         "slotPos": 10,
         "slotPosName": "Necklace"
       },
       "data": {
-        "id": 310130050,
-        "name": "Aulamus Necklace",
+        "id": 310130051,
+        "name": "Enraged Kromede Necklace",
         "grade": "Unique",
         "gradeName": "Unique",
-        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_NL_0072.png",
-        "level": 70,
-        "levelValue": 12,
-        "enchantLevel": 12,
+        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_NL_0053.png",
+        "level": 86,
+        "levelValue": 13,
+        "enchantLevel": 13,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
         "decomposable": true,
         "maxEnchantLevel": 15,
-        "maxExceedEnchantLevel": 3,
+        "maxExceedEnchantLevel": 5,
         "raceName": "All",
         "categoryName": "Necklace",
         "type": "Accessory",
         "equipLevel": 45,
         "magicStoneSlotCount": 4,
         "costumes": [
-          "Dusk Grove (Necklace)"
+          "Eclipsing Flame (Necklace)"
         ],
         "subStatCount": 4,
         "subSkillCountMax": 4,
@@ -2283,50 +2283,51 @@
           {
             "id": "WeaponFixingDamage",
             "name": "Attack",
-            "value": "108",
-            "extra": "47",
+            "value": "133",
+            "extra": "62",
             "exceed": false
           },
           {
             "id": "ArmorDefense",
             "name": "Defense",
-            "value": "259",
-            "extra": "119",
+            "value": "318",
+            "extra": "158",
             "exceed": false
           }
         ],
-        "soulBindRate": "71.3",
+        "soulBindRate": "69.3",
         "subStats": [
           {
-            "id": "WeaponAccuracy",
-            "name": "Accuracy",
-            "value": "53"
+            "id": "ArmorEvasion",
+            "name": "Evasion",
+            "value": "35"
           },
           {
-            "id": "WeaponFixingDamage",
-            "name": "Attack",
-            "value": "27"
-          },
-          {
-            "id": "Critical",
-            "name": "Critical Hit",
-            "value": "47"
+            "id": "CombatSpeed",
+            "name": "Combat Speed",
+            "value": "3.7%"
           }
         ],
         "subSkills": [
           {
-            "id": 16740000,
+            "id": 16710000,
             "level": 1,
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_012.png",
-            "name": "Corrode"
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_004.png",
+            "name": "Spirit Strike"
+          },
+          {
+            "id": 16720000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_002.png",
+            "name": "Spirit Protection"
           }
         ],
         "magicStoneStat": [
           {
-            "id": "ArmorDefense",
+            "id": "Evasion",
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_SoulStone_A_c_001.png",
-            "value": "+30",
-            "name": "Defense",
+            "value": "+7",
+            "name": "Evasion Bonus",
             "grade": "Rare",
             "slotPos": 0
           },
@@ -2339,18 +2340,18 @@
             "slotPos": 1
           },
           {
-            "id": "Block",
+            "id": "Accuracy",
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_SoulStone_A_c_001.png",
             "value": "+7",
-            "name": "Block",
-            "grade": "Common",
+            "name": "Accuracy Bonus",
+            "grade": "Rare",
             "slotPos": 2
           },
           {
-            "id": "Critical",
+            "id": "WeaponFixingDamage",
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_SoulStone_A_c_001.png",
-            "value": "+7",
-            "name": "Critical Hit",
+            "value": "+3",
+            "name": "Attack",
             "grade": "Rare",
             "slotPos": 3
           }
@@ -2736,7 +2737,7 @@
     {
       "slot_pos": 14,
       "slot": {
-        "enchantLevel": 12,
+        "enchantLevel": 13,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_Ring_0053.png",
@@ -2752,8 +2753,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_ACC_Ring_0053.png",
         "level": 86,
-        "levelValue": 12,
-        "enchantLevel": 12,
+        "levelValue": 13,
+        "enchantLevel": 13,
         "storable": true,
         "tradable": false,
         "tradablePersonal": false,
@@ -2774,73 +2775,74 @@
             "id": "WeaponFixingDamage",
             "name": "Attack",
             "value": "88",
-            "extra": "57",
+            "extra": "62",
             "exceed": false
           },
           {
             "id": "ArmorDefense",
             "name": "Defense",
             "value": "212",
-            "extra": "145",
+            "extra": "158",
             "exceed": false
           }
         ],
-        "soulBindRate": "63",
+        "soulBindRate": "71.4",
         "subStats": [
           {
             "id": "WeaponAccuracy",
             "name": "Accuracy",
-            "value": "47"
-          },
-          {
-            "id": "Critical",
-            "name": "Critical Hit",
-            "value": "33"
+            "value": "38"
           },
           {
             "id": "MPMax",
             "name": "MP",
-            "value": "88"
+            "value": "98"
           }
         ],
         "subSkills": [
           {
-            "id": 16010000,
+            "id": 16040000,
             "level": 1,
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_001.png",
-            "name": "Cold Shock"
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_004.png",
+            "name": "Combustion"
+          },
+          {
+            "id": 16100000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_010.png",
+            "name": "Summon: Fire Spirit"
           }
         ],
         "magicStoneStat": [
           {
-            "id": "ArmorDefense",
+            "id": "Critical",
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_SoulStone_A_c_001.png",
-            "value": "+30",
-            "name": "Defense",
+            "value": "+7",
+            "name": "Critical Hit",
             "grade": "Rare",
             "slotPos": 0
           },
           {
-            "id": "HPMax",
+            "id": "CriticalResist",
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_SoulStone_A_c_001.png",
-            "value": "+30",
-            "name": "HP",
-            "grade": "Common",
+            "value": "+7",
+            "name": "Critical Hit Resist",
+            "grade": "Rare",
             "slotPos": 1
           },
           {
-            "id": "Evasion",
+            "id": "Critical",
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_SoulStone_A_c_001.png",
             "value": "+7",
-            "name": "Evasion Bonus",
+            "name": "Critical Hit",
             "grade": "Rare",
             "slotPos": 2
           },
           {
-            "id": "Accuracy",
+            "id": "MPMax",
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Enchant_SoulStone_A_c_001.png",
-            "value": "+7",
-            "name": "Accuracy Bonus",
+            "value": "+30",
+            "name": "MP",
             "grade": "Rare",
             "slotPos": 3
           }

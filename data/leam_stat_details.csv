@@ -96,17 +96,16 @@
 Вещи: прибавка от усиления;Belt;Noble Belt;HPMax [усиление];HP (усиление);500;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Belt;Noble Belt;HpPotionRate;HP Potion Recovery increase;30%;%;
 Вещи: основные;Belt;Noble Belt;Restoration;Regeneration;5%;%;
-Вещи: основные;Necklace;Aulamus Necklace;WeaponFixingDamage;Attack;108;ед.;
-Вещи: прибавка от усиления;Necklace;Aulamus Necklace;WeaponFixingDamage [усиление];Attack (усиление);47;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: основные;Necklace;Aulamus Necklace;ArmorDefense;Defense;259;ед.;
-Вещи: прибавка от усиления;Necklace;Aulamus Necklace;ArmorDefense [усиление];Defense (усиление);119;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: случайные;Necklace;Aulamus Necklace;WeaponAccuracy;Accuracy;53;ед.;
-Вещи: случайные;Necklace;Aulamus Necklace;WeaponFixingDamage;Attack;27;ед.;
-Вещи: случайные;Necklace;Aulamus Necklace;Critical;Critical Hit;47;ед.;
-Манастоуны;Necklace;Aulamus Necklace;ArmorDefense;Defense;+30;ед.;
-Манастоуны;Necklace;Aulamus Necklace;WeaponFixingDamage;Attack;+3;ед.;
-Манастоуны;Necklace;Aulamus Necklace;Block;Block;+7;ед.;
-Манастоуны;Necklace;Aulamus Necklace;Critical;Critical Hit;+7;ед.;
+Вещи: основные;Necklace;Enraged Kromede Necklace;WeaponFixingDamage;Attack;133;ед.;
+Вещи: прибавка от усиления;Necklace;Enraged Kromede Necklace;WeaponFixingDamage [усиление];Attack (усиление);62;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: основные;Necklace;Enraged Kromede Necklace;ArmorDefense;Defense;318;ед.;
+Вещи: прибавка от усиления;Necklace;Enraged Kromede Necklace;ArmorDefense [усиление];Defense (усиление);158;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: случайные;Necklace;Enraged Kromede Necklace;ArmorEvasion;Evasion;35;ед.;
+Вещи: случайные;Necklace;Enraged Kromede Necklace;CombatSpeed;Combat Speed;3.7%;%;
+Манастоуны;Necklace;Enraged Kromede Necklace;Evasion;Evasion Bonus;+7;ед.;
+Манастоуны;Necklace;Enraged Kromede Necklace;WeaponFixingDamage;Attack;+3;ед.;
+Манастоуны;Necklace;Enraged Kromede Necklace;Accuracy;Accuracy Bonus;+7;ед.;
+Манастоуны;Necklace;Enraged Kromede Necklace;WeaponFixingDamage;Attack;+3;ед.;
 Вещи: основные;Earring2;Enraged Kromede Earrings;WeaponFixingDamage;Attack;111;ед.;
 Вещи: прибавка от усиления;Earring2;Enraged Kromede Earrings;WeaponFixingDamage [усиление];Attack (усиление);57;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Earring2;Enraged Kromede Earrings;ArmorDefense;Defense;265;ед.;
@@ -137,16 +136,15 @@
 Манастоуны;Ring1;Enraged Kromede Ring;WeaponFixingDamage;Attack;+1;ед.;
 Манастоуны;Ring1;Enraged Kromede Ring;WeaponFixingDamage;Attack;+3;ед.;
 Вещи: основные;Ring2;Enraged Kromede Ring;WeaponFixingDamage;Attack;88;ед.;
-Вещи: прибавка от усиления;Ring2;Enraged Kromede Ring;WeaponFixingDamage [усиление];Attack (усиление);57;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: прибавка от усиления;Ring2;Enraged Kromede Ring;WeaponFixingDamage [усиление];Attack (усиление);62;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Ring2;Enraged Kromede Ring;ArmorDefense;Defense;212;ед.;
-Вещи: прибавка от усиления;Ring2;Enraged Kromede Ring;ArmorDefense [усиление];Defense (усиление);145;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: случайные;Ring2;Enraged Kromede Ring;WeaponAccuracy;Accuracy;47;ед.;
-Вещи: случайные;Ring2;Enraged Kromede Ring;Critical;Critical Hit;33;ед.;
-Вещи: случайные;Ring2;Enraged Kromede Ring;MPMax;MP;88;ед.;
-Манастоуны;Ring2;Enraged Kromede Ring;ArmorDefense;Defense;+30;ед.;
-Манастоуны;Ring2;Enraged Kromede Ring;HPMax;HP;+30;ед.;
-Манастоуны;Ring2;Enraged Kromede Ring;Evasion;Evasion Bonus;+7;ед.;
-Манастоуны;Ring2;Enraged Kromede Ring;Accuracy;Accuracy Bonus;+7;ед.;
+Вещи: прибавка от усиления;Ring2;Enraged Kromede Ring;ArmorDefense [усиление];Defense (усиление);158;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: случайные;Ring2;Enraged Kromede Ring;WeaponAccuracy;Accuracy;38;ед.;
+Вещи: случайные;Ring2;Enraged Kromede Ring;MPMax;MP;98;ед.;
+Манастоуны;Ring2;Enraged Kromede Ring;Critical;Critical Hit;+7;ед.;
+Манастоуны;Ring2;Enraged Kromede Ring;CriticalResist;Critical Hit Resist;+7;ед.;
+Манастоуны;Ring2;Enraged Kromede Ring;Critical;Critical Hit;+7;ед.;
+Манастоуны;Ring2;Enraged Kromede Ring;MPMax;MP;+30;ед.;
 Вещи: основные;Bracelet1;Ascension Bracelet;WeaponFixingDamage;Attack;65;ед.;
 Вещи: прибавка от усиления;Bracelet1;Ascension Bracelet;WeaponFixingDamage [усиление];Attack (усиление);31;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Bracelet1;Ascension Bracelet;ArmorDefense;Defense;156;ед.;

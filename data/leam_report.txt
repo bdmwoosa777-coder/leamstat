@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-07T22:43:24+00:00
+Время запроса: 2026-11-07T23:03:44+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 175790
+Боевая мощь: 176137
 Сервер: Quai
 ID сервера: 2317
 
@@ -24,7 +24,7 @@ Death [Triniel]: 46 | Critical Hit increase +4.6%, Regeneration Penetration +4.6
 Wisdom [Lumiel]: 47 | MP Cost -4.7%, Double Chance +4.7%
 Destiny [Marchutan]: 50 | MP increase +5%, Endurance +5%
 Space [Israphel]: 28 | Move Speed +2.8%, Block increase +2.8%
-아이템레벨: 2655
+아이템레벨: 2675
 
 === ВЕЩИ: ПОЛНЫЕ СЛУЧАЙНЫЕ ХАРАКТЕРИСТИКИ И КАМНИ ===
 
@@ -196,22 +196,22 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Манастоуны:
   Теостоны:
 
-[Necklace] Aulamus Necklace +12 (Прорыв 0)
-  Привязка души: 71.3%
+[Necklace] Enraged Kromede Necklace +13 (Прорыв 0)
+  Привязка души: 69.3%
   Основные:
-    Attack: 108 (+47 усиление)
-    Defense: 259 (+119 усиление)
+    Attack: 133 (+62 усиление)
+    Defense: 318 (+158 усиление)
   Случайные:
-    Accuracy: 53
-    Attack: 27
-    Critical Hit: 47
+    Evasion: 35
+    Combat Speed: 3.7%
   Манастоуны:
-    Defense +30
+    Evasion Bonus +7
     Attack +3
-    Block +7
-    Critical Hit +7
+    Accuracy Bonus +7
+    Attack +3
   Теостоны:
-  Дополнительный навык: Corrode 1
+  Дополнительный навык: Spirit Strike 1
+  Дополнительный навык: Spirit Protection 1
 
 [Earring2] Enraged Kromede Earrings +12 (Прорыв 0)
   Привязка души: 74.3%
@@ -264,22 +264,22 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Summon: Water Spirit 1
   Дополнительный навык: Jointstrike: Curse 1
 
-[Ring2] Enraged Kromede Ring +12 (Прорыв 0)
-  Привязка души: 63%
+[Ring2] Enraged Kromede Ring +13 (Прорыв 0)
+  Привязка души: 71.4%
   Основные:
-    Attack: 88 (+57 усиление)
-    Defense: 212 (+145 усиление)
+    Attack: 88 (+62 усиление)
+    Defense: 212 (+158 усиление)
   Случайные:
-    Accuracy: 47
-    Critical Hit: 33
-    MP: 88
+    Accuracy: 38
+    MP: 98
   Манастоуны:
-    Defense +30
-    HP +30
-    Evasion Bonus +7
-    Accuracy Bonus +7
+    Critical Hit +7
+    Critical Hit Resist +7
+    Critical Hit +7
+    MP +30
   Теостоны:
-  Дополнительный навык: Cold Shock 1
+  Дополнительный навык: Combustion 1
+  Дополнительный навык: Summon: Fire Spirit 1
 
 [Bracelet1] Ascension Bracelet +11 (Прорыв 0)
   Привязка души: 100%
@@ -408,9 +408,9 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Revitalization Contract 1
 
 === НАВЫКИ И СТИГМЫ ===
-Active | Cold Shock | ур. 16 | установлен: да
-Active | Combustion | ур. 16 | установлен: да
-Active | Summon: Fire Spirit | ур. 16 | установлен: да
+Active | Cold Shock | ур. 15 | установлен: да
+Active | Combustion | ур. 17 | установлен: да
+Active | Summon: Fire Spirit | ур. 17 | установлен: да
 Active | Summon: Water Spirit | ур. 16 | установлен: да
 Active | Jointstrike: Curse | ур. 16 | установлен: да
 Active | Rapid Scattershot | ур. 14 | установлен: да
@@ -420,10 +420,10 @@ Active | Summon: Wind Spirit | ур. 1 | установлен: да
 Active | Soul's Cry | ур. 2 | установлен: да
 Active | Elemental Fusion | ур. 17 | установлен: да
 Active | Defiance | ур. 3 | установлен: нет
-Passive | Spirit Strike | ур. 17 | установлен: нет
-Passive | Spirit Protection | ур. 16 | установлен: нет
+Passive | Spirit Strike | ур. 18 | установлен: нет
+Passive | Spirit Protection | ур. 17 | установлен: нет
 Passive | Spirit's Descent | ур. 18 | установлен: нет
-Passive | Corrode | ур. 18 | установлен: нет
+Passive | Corrode | ур. 17 | установлен: нет
 Passive | Spirit Revitalization | ур. 19 | установлен: нет
 Passive | Mental Focus | ур. 19 | установлен: нет
 Passive | Consecutive Countercurrent | ур. 15 | установлен: нет
