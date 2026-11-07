@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-07T23:03:44+00:00",
+    "captured_at": "2026-11-07T23:40:40+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 176137,
+      "combatPower": 176543,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -831,7 +831,7 @@
           "id": 16730000,
           "name": "Spirit's Descent",
           "needLevel": 9,
-          "skillLevel": 18
+          "skillLevel": 19
         },
         {
           "acquired": 1,
@@ -2295,13 +2295,8 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "69.3",
+        "soulBindRate": "82.7",
         "subStats": [
-          {
-            "id": "ArmorEvasion",
-            "name": "Evasion",
-            "value": "35"
-          },
           {
             "id": "CombatSpeed",
             "name": "Combat Speed",
@@ -2320,6 +2315,12 @@
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_002.png",
             "name": "Spirit Protection"
+          },
+          {
+            "id": 16730000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_003.png",
+            "name": "Spirit's Descent"
           }
         ],
         "magicStoneStat": [
@@ -2786,7 +2787,7 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "71.4",
+        "soulBindRate": "68.1",
         "subStats": [
           {
             "id": "WeaponAccuracy",
@@ -2794,9 +2795,9 @@
             "value": "38"
           },
           {
-            "id": "MPMax",
-            "name": "MP",
-            "value": "98"
+            "id": "Critical",
+            "name": "Critical Hit",
+            "value": "34"
           }
         ],
         "subSkills": [

@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-07T23:03:44+00:00
+Время запроса: 2026-11-07T23:40:40+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 176137
+Боевая мощь: 176543
 Сервер: Quai
 ID сервера: 2317
 
@@ -197,12 +197,11 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Теостоны:
 
 [Necklace] Enraged Kromede Necklace +13 (Прорыв 0)
-  Привязка души: 69.3%
+  Привязка души: 82.7%
   Основные:
     Attack: 133 (+62 усиление)
     Defense: 318 (+158 усиление)
   Случайные:
-    Evasion: 35
     Combat Speed: 3.7%
   Манастоуны:
     Evasion Bonus +7
@@ -212,6 +211,7 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Теостоны:
   Дополнительный навык: Spirit Strike 1
   Дополнительный навык: Spirit Protection 1
+  Дополнительный навык: Spirit's Descent 1
 
 [Earring2] Enraged Kromede Earrings +12 (Прорыв 0)
   Привязка души: 74.3%
@@ -265,13 +265,13 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Jointstrike: Curse 1
 
 [Ring2] Enraged Kromede Ring +13 (Прорыв 0)
-  Привязка души: 71.4%
+  Привязка души: 68.1%
   Основные:
     Attack: 88 (+62 усиление)
     Defense: 212 (+158 усиление)
   Случайные:
     Accuracy: 38
-    MP: 98
+    Critical Hit: 34
   Манастоуны:
     Critical Hit +7
     Critical Hit Resist +7
@@ -422,7 +422,7 @@ Active | Elemental Fusion | ур. 17 | установлен: да
 Active | Defiance | ур. 3 | установлен: нет
 Passive | Spirit Strike | ур. 18 | установлен: нет
 Passive | Spirit Protection | ур. 17 | установлен: нет
-Passive | Spirit's Descent | ур. 18 | установлен: нет
+Passive | Spirit's Descent | ур. 19 | установлен: нет
 Passive | Corrode | ур. 17 | установлен: нет
 Passive | Spirit Revitalization | ур. 19 | установлен: нет
 Passive | Mental Focus | ур. 19 | установлен: нет

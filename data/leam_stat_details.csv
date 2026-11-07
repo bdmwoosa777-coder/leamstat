@@ -100,7 +100,6 @@
 Вещи: прибавка от усиления;Necklace;Enraged Kromede Necklace;WeaponFixingDamage [усиление];Attack (усиление);62;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Necklace;Enraged Kromede Necklace;ArmorDefense;Defense;318;ед.;
 Вещи: прибавка от усиления;Necklace;Enraged Kromede Necklace;ArmorDefense [усиление];Defense (усиление);158;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: случайные;Necklace;Enraged Kromede Necklace;ArmorEvasion;Evasion;35;ед.;
 Вещи: случайные;Necklace;Enraged Kromede Necklace;CombatSpeed;Combat Speed;3.7%;%;
 Манастоуны;Necklace;Enraged Kromede Necklace;Evasion;Evasion Bonus;+7;ед.;
 Манастоуны;Necklace;Enraged Kromede Necklace;WeaponFixingDamage;Attack;+3;ед.;
@@ -140,7 +139,7 @@
 Вещи: основные;Ring2;Enraged Kromede Ring;ArmorDefense;Defense;212;ед.;
 Вещи: прибавка от усиления;Ring2;Enraged Kromede Ring;ArmorDefense [усиление];Defense (усиление);158;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: случайные;Ring2;Enraged Kromede Ring;WeaponAccuracy;Accuracy;38;ед.;
-Вещи: случайные;Ring2;Enraged Kromede Ring;MPMax;MP;98;ед.;
+Вещи: случайные;Ring2;Enraged Kromede Ring;Critical;Critical Hit;34;ед.;
 Манастоуны;Ring2;Enraged Kromede Ring;Critical;Critical Hit;+7;ед.;
 Манастоуны;Ring2;Enraged Kromede Ring;CriticalResist;Critical Hit Resist;+7;ед.;
 Манастоуны;Ring2;Enraged Kromede Ring;Critical;Critical Hit;+7;ед.;
