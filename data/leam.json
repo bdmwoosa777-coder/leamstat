@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-09T02:59:37+00:00",
+    "captured_at": "2026-11-09T03:59:22+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 177521,
+      "combatPower": 178037,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -1727,12 +1727,12 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "90.5",
+        "soulBindRate": "82.3",
         "subStats": [
           {
-            "id": "HPMax",
-            "name": "HP",
-            "value": "162"
+            "id": "Critical",
+            "name": "Critical Hit",
+            "value": "25"
           },
           {
             "id": "AmplifyCriticalDamage",
@@ -1742,7 +1742,7 @@
           {
             "id": "HardHit",
             "name": "Double Chance",
-            "value": "1.6%"
+            "value": "1.7%"
           }
         ],
         "subSkills": [
@@ -1850,22 +1850,22 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "55.8",
+        "soulBindRate": "62",
         "subStats": [
           {
             "id": "WeaponAccuracy",
             "name": "Accuracy",
-            "value": "31"
+            "value": "32"
           },
           {
-            "id": "HPMax",
-            "name": "HP",
-            "value": "127"
+            "id": "ArmorDefense",
+            "name": "Defense",
+            "value": "154"
           },
           {
             "id": "CombatSpeed",
             "name": "Combat Speed",
-            "value": "6.2%"
+            "value": "6.7%"
           }
         ],
         "subSkills": [
@@ -2295,12 +2295,12 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "82.7",
+        "soulBindRate": "97.1",
         "subStats": [
           {
             "id": "CombatSpeed",
             "name": "Combat Speed",
-            "value": "3.7%"
+            "value": "4.1%"
           }
         ],
         "subSkills": [
