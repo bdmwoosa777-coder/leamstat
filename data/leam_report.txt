@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-09T02:16:19+00:00
+Время запроса: 2026-11-09T02:57:31+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 177377
+Боевая мощь: 177521
 Сервер: Quai
 ID сервера: 2317
 
@@ -24,7 +24,7 @@ Death [Triniel]: 46 | Critical Hit increase +4.6%, Regeneration Penetration +4.6
 Wisdom [Lumiel]: 47 | MP Cost -4.7%, Double Chance +4.7%
 Destiny [Marchutan]: 50 | MP increase +5%, Endurance +5%
 Space [Israphel]: 28 | Move Speed +2.8%, Block increase +2.8%
-아이템레벨: 2675
+아이템레벨: 2689
 
 === ВЕЩИ: ПОЛНЫЕ СЛУЧАЙНЫЕ ХАРАКТЕРИСТИКИ И КАМНИ ===
 
@@ -134,20 +134,20 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Теостоны:
   Дополнительный навык: Spirit Communion 1
 
-[Gloves] Vakron Gloves +11 (Прорыв 0)
-  Привязка души: 77.7%
+[Gloves] Nuakum Gloves +11 (Прорыв 0)
+  Привязка души: 55.8%
   Основные:
-    Defense: 345 (+220 усиление)
-    HP: 140 (+179 усиление)
+    Defense: 424 (+275 усиление)
+    HP: 172 (+220 усиление)
   Случайные:
     Accuracy: 31
-    MP: 60
+    HP: 127
     Combat Speed: 6.2%
   Манастоуны:
-    Accuracy Bonus +7
-    MP +30
     Critical Hit +5
-    HP +60
+    Defense +10
+    Attack +3
+    HP +30
   Теостоны:
   Дополнительный навык: Spirit Revitalization 1
 

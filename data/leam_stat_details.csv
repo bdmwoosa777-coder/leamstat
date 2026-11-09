@@ -61,17 +61,17 @@
 Манастоуны;Shoulder;Nuakum Pauldrons;WeaponFixingDamage;Attack;+3;ед.;
 Манастоуны;Shoulder;Nuakum Pauldrons;WeaponFixingDamage;Attack;+1;ед.;
 Манастоуны;Shoulder;Nuakum Pauldrons;HPMax;HP;+30;ед.;
-Вещи: основные;Gloves;Vakron Gloves;ArmorDefense;Defense;345;ед.;
-Вещи: прибавка от усиления;Gloves;Vakron Gloves;ArmorDefense [усиление];Defense (усиление);220;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: основные;Gloves;Vakron Gloves;HPMax;HP;140;ед.;
-Вещи: прибавка от усиления;Gloves;Vakron Gloves;HPMax [усиление];HP (усиление);179;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: случайные;Gloves;Vakron Gloves;WeaponAccuracy;Accuracy;31;ед.;
-Вещи: случайные;Gloves;Vakron Gloves;MPMax;MP;60;ед.;
-Вещи: случайные;Gloves;Vakron Gloves;CombatSpeed;Combat Speed;6.2%;%;
-Манастоуны;Gloves;Vakron Gloves;Accuracy;Accuracy Bonus;+7;ед.;
-Манастоуны;Gloves;Vakron Gloves;MPMax;MP;+30;ед.;
-Манастоуны;Gloves;Vakron Gloves;Critical;Critical Hit;+5;ед.;
-Манастоуны;Gloves;Vakron Gloves;HPMax;HP;+60;ед.;
+Вещи: основные;Gloves;Nuakum Gloves;ArmorDefense;Defense;424;ед.;
+Вещи: прибавка от усиления;Gloves;Nuakum Gloves;ArmorDefense [усиление];Defense (усиление);275;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: основные;Gloves;Nuakum Gloves;HPMax;HP;172;ед.;
+Вещи: прибавка от усиления;Gloves;Nuakum Gloves;HPMax [усиление];HP (усиление);220;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: случайные;Gloves;Nuakum Gloves;WeaponAccuracy;Accuracy;31;ед.;
+Вещи: случайные;Gloves;Nuakum Gloves;HPMax;HP;127;ед.;
+Вещи: случайные;Gloves;Nuakum Gloves;CombatSpeed;Combat Speed;6.2%;%;
+Манастоуны;Gloves;Nuakum Gloves;Critical;Critical Hit;+5;ед.;
+Манастоуны;Gloves;Nuakum Gloves;ArmorDefense;Defense;+10;ед.;
+Манастоуны;Gloves;Nuakum Gloves;WeaponFixingDamage;Attack;+3;ед.;
+Манастоуны;Gloves;Nuakum Gloves;HPMax;HP;+30;ед.;
 Вещи: основные;Boots;Nuakum Boots;ArmorDefense;Defense;424;ед.;
 Вещи: прибавка от усиления;Boots;Nuakum Boots;ArmorDefense [усиление];Defense (усиление);275;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Boots;Nuakum Boots;HPMax;HP;172;ед.;
