@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-09T01:12:13+00:00",
+    "captured_at": "2026-11-09T02:16:19+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 177360,
+      "combatPower": 177377,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -180,7 +180,7 @@
       ]
     },
     "title": {
-      "ownedCount": 244,
+      "ownedCount": 245,
       "titleList": [
         {
           "equipCategory": "Etc",
@@ -223,8 +223,8 @@
           "grade": "Unique",
           "id": 22030003,
           "name": "Saint of Altgard",
-          "ownedCount": 80,
-          "ownedPercent": 81,
+          "ownedCount": 81,
+          "ownedPercent": 82,
           "statList": [
             {
               "desc": "MP +20"
