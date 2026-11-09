@@ -66,7 +66,6 @@
 Вещи: основные;Gloves;Nuakum Gloves;HPMax;HP;172;ед.;
 Вещи: прибавка от усиления;Gloves;Nuakum Gloves;HPMax [усиление];HP (усиление);220;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: случайные;Gloves;Nuakum Gloves;WeaponAccuracy;Accuracy;32;ед.;
-Вещи: случайные;Gloves;Nuakum Gloves;ArmorDefense;Defense;154;ед.;
 Вещи: случайные;Gloves;Nuakum Gloves;CombatSpeed;Combat Speed;6.7%;%;
 Манастоуны;Gloves;Nuakum Gloves;Critical;Critical Hit;+5;ед.;
 Манастоуны;Gloves;Nuakum Gloves;ArmorDefense;Defense;+10;ед.;

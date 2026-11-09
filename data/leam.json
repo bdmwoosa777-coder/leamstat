@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-09T09:17:24+00:00",
+    "captured_at": "2026-11-09T11:02:19+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 179445,
+      "combatPower": 179541,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -811,7 +811,7 @@
           "id": 16710000,
           "name": "Spirit Strike",
           "needLevel": 1,
-          "skillLevel": 18
+          "skillLevel": 19
         },
         {
           "acquired": 1,
@@ -1850,17 +1850,12 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "62",
+        "soulBindRate": "85.4",
         "subStats": [
           {
             "id": "WeaponAccuracy",
             "name": "Accuracy",
             "value": "32"
-          },
-          {
-            "id": "ArmorDefense",
-            "name": "Defense",
-            "value": "154"
           },
           {
             "id": "CombatSpeed",
@@ -1874,6 +1869,12 @@
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_011.png",
             "name": "Spirit Revitalization"
+          },
+          {
+            "id": 16710000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_004.png",
+            "name": "Spirit Strike"
           }
         ],
         "magicStoneStat": [
