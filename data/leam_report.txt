@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-09T05:10:36+00:00
+Время запроса: 2026-11-09T06:13:15+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 178037
+Боевая мощь: 179037
 Сервер: Quai
 ID сервера: 2317
 
@@ -15,16 +15,16 @@ Constitution: 36 | HP increase +3.6%
 Precision: 39 | Accuracy increase +3.9%, Critical Hit increase +3.9%
 Willpower: 0
 Justice [Nezekan]: 51 | Defense increase +5.1%, Perfect Chance +5.1%
-Freedom [Vaizel]: 58 | Accuracy increase +5.8%, Evasion increase +5.8%
+Freedom [Vaizel]: 59 | Accuracy increase +5.9%, Evasion increase +5.9%
 Illusion [Kaisinel]: 25 | Cooldown -2.5%, Endurance Penetration +2.5%
 Life [Yustiel]: 15 | HP increase +1.5%, Regeneration +1.5%
 Time [Siel]: 73 | Combat Speed +7.3%, Double Resist +7.3%
-Destruction [Zikel]: 67 | Attack increase +6.7%, Perfect Resist +6.7%
+Destruction [Zikel]: 73 | Attack increase +7.3%, Perfect Resist +7.3%
 Death [Triniel]: 46 | Critical Hit increase +4.6%, Regeneration Penetration +4.6%
 Wisdom [Lumiel]: 47 | MP Cost -4.7%, Double Chance +4.7%
 Destiny [Marchutan]: 50 | MP increase +5%, Endurance +5%
 Space [Israphel]: 28 | Move Speed +2.8%, Block increase +2.8%
-아이템레벨: 2689
+아이템레벨: 2712
 
 === ВЕЩИ: ПОЛНЫЕ СЛУЧАЙНЫЕ ХАРАКТЕРИСТИКИ И КАМНИ ===
 
@@ -372,28 +372,29 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Summon: Fire Spirit 2
   Дополнительный навык: Jointstrike: Curse 1
 
-[Arcana3] Compass of Vigor +2 (Прорыв 0)
+[Arcana3] Compass of Vigor +3 (Прорыв 0)
   Привязка души: 100%
   Основные:
-    Freedom [Vaizel]: 20 (+2 усиление)
+    Freedom [Vaizel]: 20 (+3 усиление)
   Случайные:
   Манастоуны:
   Теостоны:
-  Дополнительный навык: Soul's Cry 1
   Дополнительный навык: Combustion 2
-  Дополнительный навык: Defiance 2
-  Дополнительный навык: Summon: Water Spirit 1
+  Дополнительный навык: Defiance 1
+  Дополнительный навык: Summon: Wind Spirit 2
+  Дополнительный навык: Rapid Scattershot 2
 
-[Arcana4] Bell of Magic +0 (Прорыв 0)
+[Arcana4] Bell of Magic +2 (Прорыв 0)
   Привязка души: 100%
   Основные:
-    Destruction [Zikel]: 16
+    Destruction [Zikel]: 20 (+2 усиление)
   Случайные:
   Манастоуны:
   Теостоны:
-  Дополнительный навык: Element Unification 1
+  Дополнительный навык: Spirit Revitalization 1
   Дополнительный навык: Spirit Strike 1
-  Дополнительный навык: Spirit's Descent 1
+  Дополнительный навык: Element Unification 2
+  Дополнительный навык: Spirit's Descent 2
 
 [Arcana5] Mirror of Magic +1 (Прорыв 0)
   Привязка души: 100%
@@ -411,25 +412,25 @@ Only one Theostone's effect applies when identical Theostones are engraved.
 Active | Cold Shock | ур. 15 | установлен: да
 Active | Combustion | ур. 17 | установлен: да
 Active | Summon: Fire Spirit | ур. 17 | установлен: да
-Active | Summon: Water Spirit | ур. 16 | установлен: да
+Active | Summon: Water Spirit | ур. 15 | установлен: да
 Active | Jointstrike: Curse | ур. 16 | установлен: да
-Active | Rapid Scattershot | ур. 14 | установлен: да
+Active | Rapid Scattershot | ур. 16 | установлен: да
 Active | Summon: Earth Spirit | ур. 15 | установлен: да
 Active | Dimensional Control | ур. 14 | установлен: да
-Active | Summon: Wind Spirit | ур. 1 | установлен: да
-Active | Soul's Cry | ур. 2 | установлен: да
+Active | Summon: Wind Spirit | ур. 3 | установлен: да
+Active | Soul's Cry | ур. 1 | установлен: да
 Active | Elemental Fusion | ур. 17 | установлен: да
-Active | Defiance | ур. 3 | установлен: нет
+Active | Defiance | ур. 2 | установлен: нет
 Passive | Spirit Strike | ур. 18 | установлен: нет
 Passive | Spirit Protection | ур. 17 | установлен: нет
-Passive | Spirit's Descent | ур. 19 | установлен: нет
+Passive | Spirit's Descent | ур. 20 | установлен: нет
 Passive | Corrode | ур. 17 | установлен: нет
-Passive | Spirit Revitalization | ур. 19 | установлен: нет
+Passive | Spirit Revitalization | ур. 20 | установлен: нет
 Passive | Mental Focus | ур. 19 | установлен: нет
 Passive | Consecutive Countercurrent | ур. 15 | установлен: нет
 Passive | Spirit Communion | ур. 16 | установлен: нет
 Passive | Revitalization Contract | ур. 13 | установлен: нет
-Passive | Element Unification | ур. 16 | установлен: нет
+Passive | Element Unification | ур. 17 | установлен: нет
 Dp | Jointstrike: Destructive Attack | ур. 0 | установлен: нет
 Dp | Enhance: Spirit's Benediction | ур. 20 | установлен: да
 Dp | Flame Blessing | ур. 20 | установлен: да

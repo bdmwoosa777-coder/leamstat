@@ -191,8 +191,9 @@
 Вещи: основные;Arcana2;Parchment of Magic;Destiny;Destiny [Marchutan];20;ед.;
 Вещи: прибавка от усиления;Arcana2;Parchment of Magic;Destiny [усиление];Destiny [Marchutan] (усиление);2;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Arcana3;Compass of Vigor;Freedom;Freedom [Vaizel];20;ед.;
-Вещи: прибавка от усиления;Arcana3;Compass of Vigor;Freedom [усиление];Freedom [Vaizel] (усиление);2;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: основные;Arcana4;Bell of Magic;Destruction;Destruction [Zikel];16;ед.;
+Вещи: прибавка от усиления;Arcana3;Compass of Vigor;Freedom [усиление];Freedom [Vaizel] (усиление);3;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
+Вещи: основные;Arcana4;Bell of Magic;Destruction;Destruction [Zikel];20;ед.;
+Вещи: прибавка от усиления;Arcana4;Bell of Magic;Destruction [усиление];Destruction [Zikel] (усиление);2;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Arcana5;Mirror of Magic;Wisdom;Wisdom [Lumiel];20;ед.;
 Вещи: прибавка от усиления;Arcana5;Mirror of Magic;Wisdom [усиление];Wisdom [Lumiel] (усиление);1;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Даэванион: бонусы открытых узлов;Nezekan;Открытые узлы;HP;HP;+700;ед.;HP +700

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-09T05:10:36+00:00",
+    "captured_at": "2026-11-09T06:13:15+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 178037,
+      "combatPower": 179037,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -93,11 +93,11 @@
         {
           "name": "Freedom [Vaizel]",
           "statSecondList": [
-            "Accuracy increase +5.8%",
-            "Evasion increase +5.8%"
+            "Accuracy increase +5.9%",
+            "Evasion increase +5.9%"
           ],
           "type": "Freedom",
-          "value": 58
+          "value": 59
         },
         {
           "name": "Illusion [Kaisinel]",
@@ -129,11 +129,11 @@
         {
           "name": "Destruction [Zikel]",
           "statSecondList": [
-            "Attack increase +6.7%",
-            "Perfect Resist +6.7%"
+            "Attack increase +7.3%",
+            "Perfect Resist +7.3%"
           ],
           "type": "Destruction",
-          "value": 67
+          "value": 73
         },
         {
           "name": "Death [Triniel]",
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2689
+          "value": 2712
         }
       ]
     },
@@ -546,7 +546,7 @@
           "slotPosName": "Arcana2"
         },
         {
-          "enchantLevel": 2,
+          "enchantLevel": 3,
           "exceedLevel": 0,
           "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Arcana_Card_Compass_u_PveSet2.png",
@@ -556,11 +556,11 @@
           "slotPosName": "Arcana3"
         },
         {
-          "enchantLevel": 0,
+          "enchantLevel": 2,
           "exceedLevel": 0,
-          "grade": "Legend",
+          "grade": "Unique",
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Arcana_Card_Bell_u_DefenceSet2.png",
-          "id": 810440002,
+          "id": 810430002,
           "name": "Bell of Magic",
           "slotPos": 44,
           "slotPosName": "Arcana4"
@@ -721,7 +721,7 @@
           "id": 16110000,
           "name": "Summon: Water Spirit",
           "needLevel": 3,
-          "skillLevel": 16
+          "skillLevel": 15
         },
         {
           "acquired": 1,
@@ -741,7 +741,7 @@
           "id": 16340000,
           "name": "Rapid Scattershot",
           "needLevel": 5,
-          "skillLevel": 14
+          "skillLevel": 16
         },
         {
           "acquired": 1,
@@ -771,7 +771,7 @@
           "id": 16120000,
           "name": "Summon: Wind Spirit",
           "needLevel": 10,
-          "skillLevel": 1
+          "skillLevel": 3
         },
         {
           "acquired": 1,
@@ -781,7 +781,7 @@
           "id": 16070000,
           "name": "Soul's Cry",
           "needLevel": 12,
-          "skillLevel": 2
+          "skillLevel": 1
         },
         {
           "acquired": 1,
@@ -801,7 +801,7 @@
           "id": 16200000,
           "name": "Defiance",
           "needLevel": 16,
-          "skillLevel": 3
+          "skillLevel": 2
         },
         {
           "acquired": 1,
@@ -831,7 +831,7 @@
           "id": 16730000,
           "name": "Spirit's Descent",
           "needLevel": 9,
-          "skillLevel": 19
+          "skillLevel": 20
         },
         {
           "acquired": 1,
@@ -851,7 +851,7 @@
           "id": 16750000,
           "name": "Spirit Revitalization",
           "needLevel": 13,
-          "skillLevel": 19
+          "skillLevel": 20
         },
         {
           "acquired": 1,
@@ -901,7 +901,7 @@
           "id": 16780000,
           "name": "Element Unification",
           "needLevel": 25,
-          "skillLevel": 16
+          "skillLevel": 17
         },
         {
           "acquired": 1,
@@ -3658,15 +3658,15 @@
               ]
             },
             {
-              "id": 810440002,
+              "id": 810430002,
               "name": "Bell of Magic",
-              "grade": "Legend",
+              "grade": "Unique",
               "equipped": true,
               "children": [
                 {
-                  "id": 810430002,
+                  "id": 810440002,
                   "name": "Bell of Magic",
-                  "grade": "Unique"
+                  "grade": "Legend"
                 },
                 {
                   "id": 810450002,
@@ -3725,7 +3725,7 @@
     {
       "slot_pos": 43,
       "slot": {
-        "enchantLevel": 2,
+        "enchantLevel": 3,
         "exceedLevel": 0,
         "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Arcana_Card_Compass_u_PveSet2.png",
@@ -3741,8 +3741,8 @@
         "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Arcana_Card_Compass_u_PveSet2.png",
         "level": 80,
-        "levelValue": 2,
-        "enchantLevel": 2,
+        "levelValue": 3,
+        "enchantLevel": 3,
         "storable": false,
         "tradable": false,
         "tradablePersonal": false,
@@ -3761,18 +3761,12 @@
             "id": "Freedom",
             "name": "Freedom [Vaizel]",
             "value": "20",
-            "extra": "2",
+            "extra": "3",
             "exceed": false
           }
         ],
         "soulBindRate": "100",
         "subSkills": [
-          {
-            "id": 16070000,
-            "level": 1,
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_007.png",
-            "name": "Soul's Cry"
-          },
           {
             "id": 16040000,
             "level": 2,
@@ -3781,15 +3775,21 @@
           },
           {
             "id": 16200000,
-            "level": 2,
+            "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_CO_SKILL_002.png",
             "name": "Defiance"
           },
           {
-            "id": 16110000,
-            "level": 1,
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_011.png",
-            "name": "Summon: Water Spirit"
+            "id": 16120000,
+            "level": 2,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_012.png",
+            "name": "Summon: Wind Spirit"
+          },
+          {
+            "id": 16340000,
+            "level": 2,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_034.png",
+            "name": "Rapid Scattershot"
           }
         ],
         "set": {
@@ -3931,53 +3931,53 @@
     {
       "slot_pos": 44,
       "slot": {
-        "enchantLevel": 0,
+        "enchantLevel": 2,
         "exceedLevel": 0,
-        "grade": "Legend",
+        "grade": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Arcana_Card_Bell_u_DefenceSet2.png",
-        "id": 810440002,
+        "id": 810430002,
         "name": "Bell of Magic",
         "slotPos": 44,
         "slotPosName": "Arcana4"
       },
       "data": {
-        "id": 810440002,
+        "id": 810430002,
         "name": "Bell of Magic",
-        "grade": "Legend",
-        "gradeName": "Epic",
+        "grade": "Unique",
+        "gradeName": "Unique",
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Arcana_Card_Bell_u_DefenceSet2.png",
-        "level": 60,
-        "levelValue": 0,
-        "enchantLevel": 0,
+        "level": 80,
+        "levelValue": 2,
+        "enchantLevel": 2,
         "storable": false,
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
         "decomposable": true,
-        "maxEnchantLevel": 4,
+        "maxEnchantLevel": 5,
         "raceName": "All",
         "categoryName": "Bell",
         "type": "Equip",
         "equipLevel": 45,
         "subStatCount": 0,
-        "subSkillCountMax": 3,
+        "subSkillCountMax": 4,
         "subStatRandom": true,
         "mainStats": [
           {
             "id": "Destruction",
             "name": "Destruction [Zikel]",
-            "value": "16",
-            "extra": "0",
+            "value": "20",
+            "extra": "2",
             "exceed": false
           }
         ],
         "soulBindRate": "100",
         "subSkills": [
           {
-            "id": 16780000,
+            "id": 16750000,
             "level": 1,
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_008.png",
-            "name": "Element Unification"
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_011.png",
+            "name": "Spirit Revitalization"
           },
           {
             "id": 16710000,
@@ -3986,8 +3986,14 @@
             "name": "Spirit Strike"
           },
           {
+            "id": 16780000,
+            "level": 2,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_008.png",
+            "name": "Element Unification"
+          },
+          {
             "id": 16730000,
-            "level": 1,
+            "level": 2,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_003.png",
             "name": "Spirit's Descent"
           }
@@ -4065,15 +4071,15 @@
               ]
             },
             {
-              "id": 810440002,
+              "id": 810430002,
               "name": "Bell of Magic",
-              "grade": "Legend",
+              "grade": "Unique",
               "equipped": true,
               "children": [
                 {
-                  "id": 810430002,
+                  "id": 810440002,
                   "name": "Bell of Magic",
-                  "grade": "Unique"
+                  "grade": "Legend"
                 },
                 {
                   "id": 810450002,
@@ -4272,15 +4278,15 @@
               ]
             },
             {
-              "id": 810440002,
+              "id": 810430002,
               "name": "Bell of Magic",
-              "grade": "Legend",
+              "grade": "Unique",
               "equipped": true,
               "children": [
                 {
-                  "id": 810430002,
+                  "id": 810440002,
                   "name": "Bell of Magic",
-                  "grade": "Unique"
+                  "grade": "Legend"
                 },
                 {
                   "id": 810450002,
