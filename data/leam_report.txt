@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-11T03:59:10+00:00
+Время запроса: 2026-11-11T05:04:34+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 179590
+Боевая мощь: 179638
 Сервер: Quai
 ID сервера: 2317
 
@@ -138,13 +138,13 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Spirit Communion 1
 
 [Gloves] Nuakum Gloves +11 (Прорыв 0)
-  Привязка души: 85.4%
+  Привязка души: 94.2%
   Основные:
     Defense: 424 (+275 усиление)
     HP: 172 (+220 усиление)
   Случайные:
-    Accuracy: 32
-    Combat Speed: 6.7%
+    Accuracy: 35
+    Combat Speed: 6.8%
   Манастоуны:
     Critical Hit +5
     Defense +10
