@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-11T02:56:19+00:00
+Время запроса: 2026-11-11T03:59:10+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 179571
+Боевая мощь: 179590
 Сервер: Quai
 ID сервера: 2317
 
@@ -24,7 +24,7 @@ Death [Triniel]: 46 | Critical Hit increase +4.6%, Regeneration Penetration +4.6
 Wisdom [Lumiel]: 47 | MP Cost -4.7%, Double Chance +4.7%
 Destiny [Marchutan]: 50 | MP increase +5%, Endurance +5%
 Space [Israphel]: 28 | Move Speed +2.8%, Block increase +2.8%
-아이템레벨: 2712
+아이템레벨: 2715
 
 === ВЕЩИ: ПОЛНЫЕ СЛУЧАЙНЫЕ ХАРАКТЕРИСТИКИ И КАМНИ ===
 
@@ -49,7 +49,7 @@ Effect Activation Cooldown: 1s
 Only one Theostone's effect applies when identical Theostones are engraved.
 
 [SubHand] Nuakum Guard +12 (Прорыв 0)
-  Привязка души: 97.9%
+  Привязка души: 100%
   Основные:
     Attack: 177 (+116 усиление)
     Accuracy: 50
@@ -57,7 +57,7 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Случайные:
     Combat Speed: 9.6%
     Might: 25
-    Attack: 39
+    Attack: 40
     Weapon Damage Boost: 7.3%
   Манастоуны:
     MP +50
@@ -65,6 +65,9 @@ Only one Theostone's effect applies when identical Theostones are engraved.
     Attack +5
     Accuracy Bonus +15
   Теостоны:
+    Theostone: Santras's Secret: Has a 5% chance to deal 0 Poison damage every 2s for 20s on attack
+Effect Activation Cooldown: 1s
+Only one Theostone's effect applies when identical Theostones are engraved.
 
 [Torso] Nuakum Breastplate +11 (Прорыв 0)
   Привязка души: 79.5%

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-11T02:56:19+00:00",
+    "captured_at": "2026-11-11T03:59:10+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 179571,
+      "combatPower": 179590,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2712
+          "value": 2715
         }
       ]
     },
@@ -1233,7 +1233,7 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "97.9",
+        "soulBindRate": "100",
         "subStats": [
           {
             "id": "CombatSpeed",
@@ -1248,7 +1248,7 @@
           {
             "id": "WeaponFixingDamage",
             "name": "Attack",
-            "value": "39"
+            "value": "40"
           },
           {
             "id": "AmplifyWeaponDamage",
@@ -1288,6 +1288,15 @@
             "name": "Accuracy Bonus",
             "grade": "Unique",
             "slotPos": 3
+          }
+        ],
+        "godStoneStat": [
+          {
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_Item_Usable_Godstone_WP_r_009.png",
+            "name": "Theostone: Santras's Secret",
+            "desc": "Has a 5% chance to deal 0 Poison damage every 2s for 20s on attack\nEffect Activation Cooldown: 1s\nOnly one Theostone's effect applies when identical Theostones are engraved.",
+            "grade": "Rare",
+            "slotPos": 0
           }
         ],
         "sources": [
@@ -1572,6 +1581,7 @@
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
+        "surpassable": false,
         "decomposable": true,
         "maxEnchantLevel": 15,
         "maxExceedEnchantLevel": 5,
@@ -1607,7 +1617,8 @@
           {
             "id": "AmplifyHpHealGet",
             "name": "Incoming Heal",
-            "value": "16.8%"
+            "value": "16.8%",
+            "added": false
           }
         ],
         "subSkills": [
@@ -1615,19 +1626,22 @@
             "id": 16790000,
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_AS_SKILL_Passive_009.png",
-            "name": "Revitalization Contract"
+            "name": "Revitalization Contract",
+            "added": false
           },
           {
             "id": 16760000,
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_006.png",
-            "name": "Mental Focus"
+            "name": "Mental Focus",
+            "added": false
           },
           {
             "id": 16750000,
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_011.png",
-            "name": "Spirit Revitalization"
+            "name": "Spirit Revitalization",
+            "added": false
           }
         ],
         "magicStoneStat": [
@@ -2195,6 +2209,7 @@
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
+        "surpassable": false,
         "decomposable": false,
         "maxEnchantLevel": 10,
         "raceName": "All",
@@ -2266,6 +2281,7 @@
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
+        "surpassable": false,
         "decomposable": true,
         "maxEnchantLevel": 15,
         "maxExceedEnchantLevel": 5,
@@ -2301,7 +2317,8 @@
           {
             "id": "CombatSpeed",
             "name": "Combat Speed",
-            "value": "4.1%"
+            "value": "4.1%",
+            "added": false
           }
         ],
         "subSkills": [
@@ -2309,19 +2326,22 @@
             "id": 16710000,
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_004.png",
-            "name": "Spirit Strike"
+            "name": "Spirit Strike",
+            "added": false
           },
           {
             "id": 16720000,
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_002.png",
-            "name": "Spirit Protection"
+            "name": "Spirit Protection",
+            "added": false
           },
           {
             "id": 16730000,
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_003.png",
-            "name": "Spirit's Descent"
+            "name": "Spirit's Descent",
+            "added": false
           }
         ],
         "magicStoneStat": [
@@ -3105,6 +3125,7 @@
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
+        "surpassable": false,
         "decomposable": false,
         "maxEnchantLevel": 10,
         "raceName": "All",
@@ -3184,6 +3205,7 @@
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
+        "surpassable": false,
         "decomposable": false,
         "maxEnchantLevel": 10,
         "raceName": "All",
@@ -3264,6 +3286,7 @@
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
+        "surpassable": false,
         "decomposable": false,
         "maxEnchantLevel": 10,
         "raceName": "All",
@@ -3541,6 +3564,7 @@
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
+        "surpassable": false,
         "decomposable": true,
         "maxEnchantLevel": 5,
         "raceName": "All",
@@ -3565,25 +3589,29 @@
             "id": 16300000,
             "level": 2,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_030.png",
-            "name": "Elemental Fusion"
+            "name": "Elemental Fusion",
+            "added": false
           },
           {
             "id": 16130000,
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_013.png",
-            "name": "Summon: Earth Spirit"
+            "name": "Summon: Earth Spirit",
+            "added": false
           },
           {
             "id": 16100000,
             "level": 2,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_010.png",
-            "name": "Summon: Fire Spirit"
+            "name": "Summon: Fire Spirit",
+            "added": false
           },
           {
             "id": 16140000,
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_014.png",
-            "name": "Jointstrike: Curse"
+            "name": "Jointstrike: Curse",
+            "added": false
           }
         ],
         "set": {
@@ -4161,6 +4189,7 @@
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
+        "surpassable": false,
         "decomposable": true,
         "maxEnchantLevel": 5,
         "raceName": "All",
@@ -4185,25 +4214,29 @@
             "id": 16760000,
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_006.png",
-            "name": "Mental Focus"
+            "name": "Mental Focus",
+            "added": false
           },
           {
             "id": 16740000,
             "level": 2,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_012.png",
-            "name": "Corrode"
+            "name": "Corrode",
+            "added": false
           },
           {
             "id": 16720000,
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_002.png",
-            "name": "Spirit Protection"
+            "name": "Spirit Protection",
+            "added": false
           },
           {
             "id": 16790000,
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_AS_SKILL_Passive_009.png",
-            "name": "Revitalization Contract"
+            "name": "Revitalization Contract",
+            "added": false
           }
         ],
         "set": {
