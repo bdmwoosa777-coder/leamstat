@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-11T05:04:34+00:00",
+    "captured_at": "2026-11-11T06:04:23+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 179638,
+      "combatPower": 180038,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -951,7 +951,7 @@
           "id": 16150000,
           "name": "Jointstrike: Corrode",
           "needLevel": 22,
-          "skillLevel": 13
+          "skillLevel": 14
         },
         {
           "acquired": 0,
@@ -1062,7 +1062,7 @@
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
-        "surpassable": false,
+        "surpassable": true,
         "decomposable": true,
         "maxEnchantLevel": 15,
         "maxExceedEnchantLevel": 5,
@@ -1600,7 +1600,7 @@
         "tradable": false,
         "tradablePersonal": false,
         "enchantable": true,
-        "surpassable": false,
+        "surpassable": true,
         "decomposable": true,
         "maxEnchantLevel": 15,
         "maxExceedEnchantLevel": 5,
