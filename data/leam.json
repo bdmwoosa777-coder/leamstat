@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-11T22:56:43+00:00",
+    "captured_at": "2026-11-11T23:53:09+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 181938,
+      "combatPower": 181976,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2715
+          "value": 2716
         }
       ]
     },
@@ -305,9 +305,9 @@
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_Weapon_Sword_1H.png",
           "id": 55,
           "name": "Ariel",
-          "open": 0,
-          "openNodeCount": 0,
-          "openPercent": 0,
+          "open": 1,
+          "openNodeCount": 1,
+          "openPercent": 1,
           "totalNodeCount": 152
         },
         {
@@ -17171,9 +17171,9 @@
         "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_Weapon_Sword_1H.png",
         "id": 55,
         "name": "Ariel",
-        "open": 0,
-        "openNodeCount": 0,
-        "openPercent": 0,
+        "open": 1,
+        "openNodeCount": 1,
+        "openPercent": 1,
         "totalNodeCount": 152
       },
       "data": {
@@ -18766,7 +18766,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvE Attack",
             "nodeId": 550098,
-            "open": 0,
+            "open": 1,
             "row": 7,
             "type": "Stat"
           },
@@ -20564,7 +20564,11 @@
           }
         ],
         "openSkillEffectList": [],
-        "openStatEffectList": []
+        "openStatEffectList": [
+          {
+            "desc": "PvE Attack +3"
+          }
+        ]
       }
     },
     {
