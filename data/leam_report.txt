@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-11T23:53:09+00:00
+Время запроса: 2026-11-12T01:17:54+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 181976
+Боевая мощь: 182028
 Сервер: Quai
 ID сервера: 2317
 
@@ -24,7 +24,7 @@ Death [Triniel]: 46 | Critical Hit increase +4.6%, Regeneration Penetration +4.6
 Wisdom [Lumiel]: 47 | MP Cost -4.7%, Double Chance +4.7%
 Destiny [Marchutan]: 50 | MP increase +5%, Endurance +5%
 Space [Israphel]: 28 | Move Speed +2.8%, Block increase +2.8%
-아이템레벨: 2716
+아이템레벨: 2719
 
 === ВЕЩИ: ПОЛНЫЕ СЛУЧАЙНЫЕ ХАРАКТЕРИСТИКИ И КАМНИ ===
 
@@ -1366,7 +1366,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   Все открытые бонусы характеристик: HP +600 | MP +500 | Multi-hit Resist +4.5% | Critical Hit Resist +40 | Attack Bonus +27 | Critical Hit +40 | Multi-hit Chance +4.5% | Defense Bonus +210
   Все открытые бонусы навыков: Rapid Scattershot +1 | Spirit Revitalization +1 | Summon: Fire Spirit +1 | Spirit Communion +1 | Spirit's Descent +1 | Consecutive Countercurrent +1 | Summon: Earth Spirit +1 | Elemental Fusion +1 | Combustion +1 | Mental Focus +1 | Spirit Strike +1 | Jointstrike: Curse +1 | Dimensional Control +1 | Corrode +1 | Summon: Water Spirit +1 | Element Unification +1 | Spirit Protection +1 | Cold Shock +1
 
-[Ariel] 1/152 (ID=55)
+[Ariel] 4/152 (ID=55)
   [закрыт] R1/C1 PvE Damage Boost (Stat) PvE Damage Boost +1.5%
   [закрыт] R1/C2 Boss Attack (Stat) Boss Attack +3
   [закрыт] R1/C3 PvE Attack, PvE Defense (Stat) PvE Attack +3, PvE Defense +30
@@ -1433,7 +1433,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R5/C4 Boss Damage Tolerance (Stat) Boss Damage Tolerance +1%
   [закрыт] R5/C5  (None) 
   [закрыт] R5/C6  (None) 
-  [закрыт] R5/C7 PvE Defense (Stat) PvE Defense +30
+  [ОТКРЫТ] R5/C7 PvE Defense (Stat) PvE Defense +30
   [закрыт] R5/C8  (None) 
   [закрыт] R5/C9  (None) 
   [закрыт] R5/C10 PvE Defense (Stat) PvE Defense +30
@@ -1448,8 +1448,8 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R6/C4 PvE Evasion (Stat) PvE Evasion +5
   [закрыт] R6/C5  (None) 
   [закрыт] R6/C6 Critical Hit (Stat) Critical Hit +10
-  [закрыт] R6/C7 PvE Evasion (Stat) PvE Evasion +5
-  [закрыт] R6/C8 Max HP (Stat) HP +100
+  [ОТКРЫТ] R6/C7 PvE Evasion (Stat) PvE Evasion +5
+  [ОТКРЫТ] R6/C8 Max HP (Stat) HP +100
   [закрыт] R6/C9 PvE Attack, PvE Defense (Stat) PvE Attack +3, PvE Defense +30
   [закрыт] R6/C10 Boss Attack (Stat) Boss Attack +3
   [закрыт] R6/C11  (None) 
@@ -1592,7 +1592,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R15/C13 Boss Attack, Boss Defense (Stat) Boss Attack +3, Boss Defense +30
   [закрыт] R15/C14 Boss Attack (Stat) Boss Attack +3
   [закрыт] R15/C15 PvE Damage Boost (Stat) PvE Damage Boost +1.5%
-  Все открытые бонусы характеристик: PvE Attack +3
+  Все открытые бонусы характеристик: PvE Attack +3 | HP +100 | PvE Evasion +5 | PvE Defense +30
   Все открытые бонусы навыков: 
 
 [Azphel] 25/152 (ID=56)

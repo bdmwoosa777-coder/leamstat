@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-11T23:53:09+00:00",
+    "captured_at": "2026-11-12T01:17:54+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 181976,
+      "combatPower": 182028,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2716
+          "value": 2719
         }
       ]
     },
@@ -306,8 +306,8 @@
           "id": 55,
           "name": "Ariel",
           "open": 1,
-          "openNodeCount": 1,
-          "openPercent": 1,
+          "openNodeCount": 4,
+          "openPercent": 3,
           "totalNodeCount": 152
         },
         {
@@ -17172,8 +17172,8 @@
         "id": 55,
         "name": "Ariel",
         "open": 1,
-        "openNodeCount": 1,
-        "openPercent": 1,
+        "openNodeCount": 4,
+        "openPercent": 3,
         "totalNodeCount": 152
       },
       "data": {
@@ -18302,7 +18302,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvE Defense",
             "nodeId": 550067,
-            "open": 0,
+            "open": 1,
             "row": 5,
             "type": "Stat"
           },
@@ -18524,7 +18524,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvE Evasion",
             "nodeId": 550082,
-            "open": 0,
+            "open": 1,
             "row": 6,
             "type": "Stat"
           },
@@ -18540,7 +18540,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "Max HP",
             "nodeId": 550083,
-            "open": 0,
+            "open": 1,
             "row": 6,
             "type": "Stat"
           },
@@ -20567,6 +20567,15 @@
         "openStatEffectList": [
           {
             "desc": "PvE Attack +3"
+          },
+          {
+            "desc": "HP +100"
+          },
+          {
+            "desc": "PvE Evasion +5"
+          },
+          {
+            "desc": "PvE Defense +30"
           }
         ]
       }
