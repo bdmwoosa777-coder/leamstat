@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-12T06:08:37+00:00",
+    "captured_at": "2026-11-12T07:25:06+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 185017,
+      "combatPower": 185502,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,12 +175,12 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2721
+          "value": 2728
         }
       ]
     },
     "title": {
-      "ownedCount": 245,
+      "ownedCount": 246,
       "titleList": [
         {
           "equipCategory": "Etc",
@@ -248,8 +248,8 @@
           "grade": "Unique",
           "id": 23010021,
           "name": "Unbound by Genus",
-          "ownedCount": 87,
-          "ownedPercent": 82,
+          "ownedCount": 88,
+          "ownedPercent": 83,
           "statList": [
             {
               "desc": "PvE Damage Boost +1%"
@@ -306,8 +306,8 @@
           "id": 55,
           "name": "Ariel",
           "open": 1,
-          "openNodeCount": 5,
-          "openPercent": 3,
+          "openNodeCount": 9,
+          "openPercent": 6,
           "totalNodeCount": 152
         },
         {
@@ -17172,8 +17172,8 @@
         "id": 55,
         "name": "Ariel",
         "open": 1,
-        "openNodeCount": 5,
-        "openPercent": 3,
+        "openNodeCount": 9,
+        "openPercent": 6,
         "totalNodeCount": 152
       },
       "data": {
@@ -17190,7 +17190,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Unique_Sprite.png",
             "name": "PvE Damage Boost",
             "nodeId": 550008,
-            "open": 0,
+            "open": 1,
             "row": 1,
             "type": "Stat"
           },
@@ -17404,7 +17404,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvE Accuracy",
             "nodeId": 550007,
-            "open": 0,
+            "open": 1,
             "row": 1,
             "type": "Stat"
           },
@@ -17631,7 +17631,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvE Attack",
             "nodeId": 550022,
-            "open": 0,
+            "open": 1,
             "row": 2,
             "type": "Stat"
           },
@@ -17857,7 +17857,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "Boss Attack",
             "nodeId": 550037,
-            "open": 0,
+            "open": 1,
             "row": 3,
             "type": "Stat"
           },
@@ -20566,16 +20566,22 @@
         "openSkillEffectList": [],
         "openStatEffectList": [
           {
-            "desc": "PvE Attack +3"
-          },
-          {
             "desc": "HP +100"
           },
           {
             "desc": "PvE Evasion +10"
           },
           {
-            "desc": "PvE Accuracy +5"
+            "desc": "PvE Attack +6"
+          },
+          {
+            "desc": "PvE Damage Boost +1.5%"
+          },
+          {
+            "desc": "Boss Attack +3"
+          },
+          {
+            "desc": "PvE Accuracy +10"
           },
           {
             "desc": "PvE Defense +30"
