@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-12T09:06:16+00:00",
+    "captured_at": "2026-11-12T10:08:15+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 185628,
+      "combatPower": 186367,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -61,10 +61,10 @@
         {
           "name": "Constitution",
           "statSecondList": [
-            "HP increase +3.7%"
+            "HP increase +3.8%"
           ],
           "type": "CON",
-          "value": 37
+          "value": 38
         },
         {
           "name": "Precision",
@@ -175,12 +175,12 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2730
+          "value": 2731
         }
       ]
     },
     "title": {
-      "ownedCount": 246,
+      "ownedCount": 248,
       "titleList": [
         {
           "equipCategory": "Etc",
@@ -198,8 +198,8 @@
           "grade": "Unique",
           "id": 22010061,
           "name": "Through Hell and Back",
-          "ownedCount": 77,
-          "ownedPercent": 75,
+          "ownedCount": 78,
+          "ownedPercent": 76,
           "statList": [
             {
               "desc": "Block +10"
@@ -223,8 +223,8 @@
           "grade": "Unique",
           "id": 22030003,
           "name": "Saint of Altgard",
-          "ownedCount": 81,
-          "ownedPercent": 82,
+          "ownedCount": 82,
+          "ownedPercent": 83,
           "statList": [
             {
               "desc": "MP +20"
@@ -306,8 +306,8 @@
           "id": 55,
           "name": "Ariel",
           "open": 1,
-          "openNodeCount": 11,
-          "openPercent": 7,
+          "openNodeCount": 12,
+          "openPercent": 8,
           "totalNodeCount": 152
         },
         {
@@ -669,16 +669,16 @@
       "wing": {
         "enchantLevel": 0,
         "grade": "Unique",
-        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_005.png",
-        "id": 40400500,
-        "name": "Springflower Butterfly Wings"
+        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_011.png",
+        "id": 40101100,
+        "name": "Talisra Wings"
       },
       "wingSkin": {
         "enchantLevel": 0,
-        "grade": "Legend",
-        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingC_003.png",
-        "id": 40300300,
-        "name": "Conqueror Wings"
+        "grade": "Unique",
+        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_011.png",
+        "id": 40101100,
+        "name": "Talisra Wings"
       }
     },
     "skill": {
@@ -17172,8 +17172,8 @@
         "id": 55,
         "name": "Ariel",
         "open": 1,
-        "openNodeCount": 11,
-        "openPercent": 7,
+        "openNodeCount": 12,
+        "openPercent": 8,
         "totalNodeCount": 152
       },
       "data": {
@@ -18039,7 +18039,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvE Accuracy",
             "nodeId": 550049,
-            "open": 0,
+            "open": 1,
             "row": 4,
             "type": "Stat"
           },
@@ -20584,7 +20584,7 @@
             "desc": "Boss Defense +30"
           },
           {
-            "desc": "PvE Accuracy +10"
+            "desc": "PvE Accuracy +15"
           },
           {
             "desc": "PvE Defense +30"
