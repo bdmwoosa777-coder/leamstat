@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-12T03:58:59+00:00
+Время запроса: 2026-11-12T05:05:43+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 183955
+Боевая мощь: 185017
 Сервер: Quai
 ID сервера: 2317
 
@@ -438,7 +438,7 @@ Dp | Jointstrike: Destructive Attack | ур. 0 | установлен: нет
 Dp | Enhance: Spirit's Benediction | ур. 20 | установлен: да
 Dp | Flame Blessing | ур. 20 | установлен: да
 Dp | Summon: Ancient Spirit | ур. 20 | установлен: да
-Dp | Jointstrike: Corrode | ур. 15 | установлен: да
+Dp | Jointstrike: Corrode | ур. 16 | установлен: да
 Dp | Kaisinel's Power | ур. 0 | установлен: нет
 Dp | Siphon | ур. 0 | установлен: нет
 Dp | Cry of Terror | ур. 0 | установлен: нет

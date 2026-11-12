@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-12T03:58:59+00:00",
+    "captured_at": "2026-11-12T05:05:43+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 183955,
+      "combatPower": 185017,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -675,10 +675,10 @@
       },
       "wingSkin": {
         "enchantLevel": 0,
-        "grade": "Unique",
-        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_001.png",
-        "id": 40200100,
-        "name": "Ultimate Daeva Wings"
+        "grade": "Legend",
+        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingC_003.png",
+        "id": 40300300,
+        "name": "Conqueror Wings"
       }
     },
     "skill": {
@@ -951,7 +951,7 @@
           "id": 16150000,
           "name": "Jointstrike: Corrode",
           "needLevel": 22,
-          "skillLevel": 15
+          "skillLevel": 16
         },
         {
           "acquired": 0,
