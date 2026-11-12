@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-12T01:17:54+00:00",
+    "captured_at": "2026-11-12T02:56:33+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 182028,
+      "combatPower": 183953,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -102,11 +102,11 @@
         {
           "name": "Illusion [Kaisinel]",
           "statSecondList": [
-            "Cooldown -2.5%",
-            "Endurance Penetration +2.5%"
+            "Cooldown -2.8%",
+            "Endurance Penetration +2.8%"
           ],
           "type": "Illusion",
-          "value": 25
+          "value": 28
         },
         {
           "name": "Life [Yustiel]",
@@ -156,11 +156,11 @@
         {
           "name": "Destiny [Marchutan]",
           "statSecondList": [
-            "MP increase +5%",
-            "Endurance +5%"
+            "MP increase +5.3%",
+            "Endurance +5.3%"
           ],
           "type": "Destiny",
-          "value": 50
+          "value": 53
         },
         {
           "name": "Space [Israphel]",
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2719
+          "value": 2721
         }
       ]
     },
@@ -306,7 +306,7 @@
           "id": 55,
           "name": "Ariel",
           "open": 1,
-          "openNodeCount": 4,
+          "openNodeCount": 5,
           "openPercent": 3,
           "totalNodeCount": 152
         },
@@ -669,9 +669,9 @@
       "wing": {
         "enchantLevel": 0,
         "grade": "Unique",
-        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_001.png",
-        "id": 40200100,
-        "name": "Ultimate Daeva Wings"
+        "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_005.png",
+        "id": 40400500,
+        "name": "Springflower Butterfly Wings"
       },
       "wingSkin": {
         "enchantLevel": 0,
@@ -17172,7 +17172,7 @@
         "id": 55,
         "name": "Ariel",
         "open": 1,
-        "openNodeCount": 4,
+        "openNodeCount": 5,
         "openPercent": 3,
         "totalNodeCount": 152
       },
@@ -18090,7 +18090,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Rare_Sprite.png",
             "name": "PvE Accuracy, PvE Evasion",
             "nodeId": 550052,
-            "open": 0,
+            "open": 1,
             "row": 4,
             "type": "Stat"
           },
@@ -20572,7 +20572,10 @@
             "desc": "HP +100"
           },
           {
-            "desc": "PvE Evasion +5"
+            "desc": "PvE Evasion +10"
+          },
+          {
+            "desc": "PvE Accuracy +5"
           },
           {
             "desc": "PvE Defense +30"
