@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-12T10:08:15+00:00",
+    "captured_at": "2026-11-12T11:10:11+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 186367,
+      "combatPower": 186419,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -180,7 +180,7 @@
       ]
     },
     "title": {
-      "ownedCount": 248,
+      "ownedCount": 250,
       "titleList": [
         {
           "equipCategory": "Etc",
@@ -223,8 +223,8 @@
           "grade": "Unique",
           "id": 22030003,
           "name": "Saint of Altgard",
-          "ownedCount": 82,
-          "ownedPercent": 83,
+          "ownedCount": 83,
+          "ownedPercent": 84,
           "statList": [
             {
               "desc": "MP +20"
@@ -248,8 +248,8 @@
           "grade": "Unique",
           "id": 23010021,
           "name": "Unbound by Genus",
-          "ownedCount": 88,
-          "ownedPercent": 83,
+          "ownedCount": 89,
+          "ownedPercent": 84,
           "statList": [
             {
               "desc": "PvE Damage Boost +1%"
