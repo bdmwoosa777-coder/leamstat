@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-16T11:29:08+00:00",
+    "captured_at": "2026-11-16T15:11:05+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 188012,
+      "combatPower": 189528,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -102,20 +102,20 @@
         {
           "name": "Illusion [Kaisinel]",
           "statSecondList": [
-            "Cooldown -2.8%",
-            "Endurance Penetration +2.8%"
+            "Cooldown -3%",
+            "Endurance Penetration +3%"
           ],
           "type": "Illusion",
-          "value": 28
+          "value": 30
         },
         {
           "name": "Life [Yustiel]",
           "statSecondList": [
-            "HP increase +1.5%",
-            "Regeneration +1.5%"
+            "HP increase +1.7%",
+            "Regeneration +1.7%"
           ],
           "type": "Life",
-          "value": 15
+          "value": 17
         },
         {
           "name": "Time [Siel]",
@@ -147,11 +147,11 @@
         {
           "name": "Wisdom [Lumiel]",
           "statSecondList": [
-            "MP Cost -4.7%",
-            "Double Chance +4.7%"
+            "MP Cost -5.1%",
+            "Double Chance +5.1%"
           ],
           "type": "Wisdom",
-          "value": 47
+          "value": 51
         },
         {
           "name": "Destiny [Marchutan]",
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2746
+          "value": 2748
         }
       ]
     },
@@ -306,8 +306,8 @@
           "id": 55,
           "name": "Ariel",
           "open": 1,
-          "openNodeCount": 20,
-          "openPercent": 13,
+          "openNodeCount": 22,
+          "openPercent": 14,
           "totalNodeCount": 152
         },
         {
@@ -821,7 +821,7 @@
           "id": 16720000,
           "name": "Spirit Protection",
           "needLevel": 6,
-          "skillLevel": 17
+          "skillLevel": 16
         },
         {
           "acquired": 1,
@@ -851,7 +851,7 @@
           "id": 16750000,
           "name": "Spirit Revitalization",
           "needLevel": 13,
-          "skillLevel": 20
+          "skillLevel": 19
         },
         {
           "acquired": 1,
@@ -1372,12 +1372,18 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "79.5",
+        "soulBindRate": "81.8",
         "subStats": [
           {
             "id": "WeaponFixingDamage",
             "name": "Attack",
-            "value": "23",
+            "value": "24",
+            "added": false
+          },
+          {
+            "id": "AmplifyAllDamage",
+            "name": "Damage Boost",
+            "value": "6.2%",
             "added": false
           }
         ],
@@ -1394,13 +1400,6 @@
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_006.png",
             "name": "Mental Focus",
-            "added": false
-          },
-          {
-            "id": 16750000,
-            "level": 1,
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_011.png",
-            "name": "Spirit Revitalization",
             "added": false
           }
         ],
@@ -2351,12 +2350,18 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "97.1",
+        "soulBindRate": "89.9",
         "subStats": [
           {
             "id": "CombatSpeed",
             "name": "Combat Speed",
             "value": "4.1%",
+            "added": false
+          },
+          {
+            "id": "Critical",
+            "name": "Critical Hit",
+            "value": "48",
             "added": false
           }
         ],
@@ -2366,13 +2371,6 @@
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_004.png",
             "name": "Spirit Strike",
-            "added": false
-          },
-          {
-            "id": 16720000,
-            "level": 1,
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_002.png",
-            "name": "Spirit Protection",
             "added": false
           },
           {
@@ -17172,8 +17170,8 @@
         "id": 55,
         "name": "Ariel",
         "open": 1,
-        "openNodeCount": 20,
-        "openPercent": 13,
+        "openNodeCount": 22,
+        "openPercent": 14,
         "totalNodeCount": 152
       },
       "data": {
@@ -19204,7 +19202,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "Max MP",
             "nodeId": 550143,
-            "open": 0,
+            "open": 1,
             "row": 10,
             "type": "Stat"
           },
@@ -19220,7 +19218,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvE Attack",
             "nodeId": 550128,
-            "open": 0,
+            "open": 1,
             "row": 9,
             "type": "Stat"
           },
@@ -20572,7 +20570,10 @@
             "desc": "PvE Evasion +10"
           },
           {
-            "desc": "PvE Attack +12"
+            "desc": "PvE Attack +15"
+          },
+          {
+            "desc": "MP +50"
           },
           {
             "desc": "PvE Damage Boost +3%"

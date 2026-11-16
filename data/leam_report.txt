@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-16T11:29:08+00:00
+Время запроса: 2026-11-16T15:11:05+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 188012
+Боевая мощь: 189528
 Сервер: Quai
 ID сервера: 2317
 
@@ -16,15 +16,15 @@ Precision: 39 | Accuracy increase +3.9%, Critical Hit increase +3.9%
 Willpower: 0
 Justice [Nezekan]: 51 | Defense increase +5.1%, Perfect Chance +5.1%
 Freedom [Vaizel]: 59 | Accuracy increase +5.9%, Evasion increase +5.9%
-Illusion [Kaisinel]: 28 | Cooldown -2.8%, Endurance Penetration +2.8%
-Life [Yustiel]: 15 | HP increase +1.5%, Regeneration +1.5%
+Illusion [Kaisinel]: 30 | Cooldown -3%, Endurance Penetration +3%
+Life [Yustiel]: 17 | HP increase +1.7%, Regeneration +1.7%
 Time [Siel]: 73 | Combat Speed +7.3%, Double Resist +7.3%
 Destruction [Zikel]: 73 | Attack increase +7.3%, Perfect Resist +7.3%
 Death [Triniel]: 46 | Critical Hit increase +4.6%, Regeneration Penetration +4.6%
-Wisdom [Lumiel]: 47 | MP Cost -4.7%, Double Chance +4.7%
+Wisdom [Lumiel]: 51 | MP Cost -5.1%, Double Chance +5.1%
 Destiny [Marchutan]: 53 | MP increase +5.3%, Endurance +5.3%
 Space [Israphel]: 28 | Move Speed +2.8%, Block increase +2.8%
-아이템레벨: 2746
+아이템레벨: 2748
 
 === ВЕЩИ: ПОЛНЫЕ СЛУЧАЙНЫЕ ХАРАКТЕРИСТИКИ И КАМНИ ===
 
@@ -70,12 +70,13 @@ Effect Activation Cooldown: 1s
 Only one Theostone's effect applies when identical Theostones are engraved.
 
 [Torso] Nuakum Breastplate +11 (Прорыв 0)
-  Привязка души: 79.5%
+  Привязка души: 81.8%
   Основные:
     Defense: 637 (+275 усиление)
     HP: 344 (+220 усиление)
   Случайные:
-    Attack: 23
+    Attack: 24
+    Damage Boost: 6.2%
   Манастоуны:
     Critical Hit +7
     Critical Hit Resist +7
@@ -84,7 +85,6 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Теостоны:
   Дополнительный навык: Element Unification 1
   Дополнительный навык: Mental Focus 1
-  Дополнительный навык: Spirit Revitalization 1
 
 [Pants] Nuakum Greaves +11 (Прорыв 0)
   Привязка души: 97.3%
@@ -200,12 +200,13 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Теостоны:
 
 [Necklace] Enraged Kromede Necklace +13 (Прорыв 0)
-  Привязка души: 97.1%
+  Привязка души: 89.9%
   Основные:
     Attack: 133 (+62 усиление)
     Defense: 318 (+158 усиление)
   Случайные:
     Combat Speed: 4.1%
+    Critical Hit: 48
   Манастоуны:
     Evasion Bonus +7
     Attack +3
@@ -213,7 +214,6 @@ Only one Theostone's effect applies when identical Theostones are engraved.
     Attack +3
   Теостоны:
   Дополнительный навык: Spirit Strike 1
-  Дополнительный навык: Spirit Protection 1
   Дополнительный навык: Spirit's Descent 1
 
 [Earring2] Enraged Kromede Earrings +12 (Прорыв 0)
@@ -425,10 +425,10 @@ Active | Soul's Cry | ур. 1 | установлен: да
 Active | Elemental Fusion | ур. 17 | установлен: да
 Active | Defiance | ур. 2 | установлен: нет
 Passive | Spirit Strike | ур. 19 | установлен: нет
-Passive | Spirit Protection | ур. 17 | установлен: нет
+Passive | Spirit Protection | ур. 16 | установлен: нет
 Passive | Spirit's Descent | ур. 20 | установлен: нет
 Passive | Corrode | ур. 17 | установлен: нет
-Passive | Spirit Revitalization | ур. 20 | установлен: нет
+Passive | Spirit Revitalization | ур. 19 | установлен: нет
 Passive | Mental Focus | ур. 19 | установлен: нет
 Passive | Consecutive Countercurrent | ур. 15 | установлен: нет
 Passive | Spirit Communion | ур. 16 | установлен: нет
@@ -1366,7 +1366,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   Все открытые бонусы характеристик: HP +600 | MP +500 | Multi-hit Resist +4.5% | Critical Hit Resist +40 | Attack Bonus +27 | Critical Hit +40 | Multi-hit Chance +4.5% | Defense Bonus +210
   Все открытые бонусы навыков: Rapid Scattershot +1 | Spirit Revitalization +1 | Summon: Fire Spirit +1 | Spirit Communion +1 | Spirit's Descent +1 | Consecutive Countercurrent +1 | Summon: Earth Spirit +1 | Elemental Fusion +1 | Combustion +1 | Mental Focus +1 | Spirit Strike +1 | Jointstrike: Curse +1 | Dimensional Control +1 | Corrode +1 | Summon: Water Spirit +1 | Element Unification +1 | Spirit Protection +1 | Cold Shock +1
 
-[Ariel] 20/152 (ID=55)
+[Ariel] 22/152 (ID=55)
   [ОТКРЫТ] R1/C1 PvE Damage Boost (Stat) PvE Damage Boost +1.5%
   [закрыт] R1/C2 Boss Attack (Stat) Boss Attack +3
   [закрыт] R1/C3 PvE Attack, PvE Defense (Stat) PvE Attack +3, PvE Defense +30
@@ -1494,7 +1494,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R9/C5 Boss Damage Tolerance (Stat) Boss Damage Tolerance +1%
   [закрыт] R9/C6 Boss Defense (Stat) Boss Defense +30
   [закрыт] R9/C7  (None) 
-  [закрыт] R9/C8 PvE Attack (Stat) PvE Attack +3
+  [ОТКРЫТ] R9/C8 PvE Attack (Stat) PvE Attack +3
   [закрыт] R9/C9  (None) 
   [закрыт] R9/C10 Boss Attack (Stat) Boss Attack +3
   [закрыт] R9/C11 Boss Defense (Stat) Boss Defense +30
@@ -1509,7 +1509,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R10/C5  (None) 
   [закрыт] R10/C6 Boss Attack (Stat) Boss Attack +3
   [закрыт] R10/C7 Boss Attack, Boss Defense (Stat) Boss Attack +3, Boss Defense +30
-  [закрыт] R10/C8 Max MP (Stat) MP +50
+  [ОТКРЫТ] R10/C8 Max MP (Stat) MP +50
   [закрыт] R10/C9 PvE Evasion (Stat) PvE Evasion +5
   [закрыт] R10/C10 Critical Hit (Stat) Critical Hit +10
   [закрыт] R10/C11  (None) 
@@ -1592,7 +1592,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R15/C13 Boss Attack, Boss Defense (Stat) Boss Attack +3, Boss Defense +30
   [закрыт] R15/C14 Boss Attack (Stat) Boss Attack +3
   [закрыт] R15/C15 PvE Damage Boost (Stat) PvE Damage Boost +1.5%
-  Все открытые бонусы характеристик: HP +100 | PvE Evasion +10 | PvE Attack +12 | PvE Damage Boost +3% | Boss Attack +6 | Boss Damage Tolerance +1% | Boss Defense +60 | PvE Accuracy +20 | Boss Damage Boost +1% | PvE Defense +60
+  Все открытые бонусы характеристик: HP +100 | PvE Evasion +10 | PvE Attack +15 | MP +50 | PvE Damage Boost +3% | Boss Attack +6 | Boss Damage Tolerance +1% | Boss Defense +60 | PvE Accuracy +20 | Boss Damage Boost +1% | PvE Defense +60
   Все открытые бонусы навыков: 
 
 [Azphel] 25/152 (ID=56)
