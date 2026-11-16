@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-16T06:20:56+00:00",
+    "captured_at": "2026-11-16T09:45:24+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 187381,
+      "combatPower": 187705,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2731
+          "value": 2742
         }
       ]
     },
@@ -306,8 +306,8 @@
           "id": 55,
           "name": "Ariel",
           "open": 1,
-          "openNodeCount": 12,
-          "openPercent": 8,
+          "openNodeCount": 19,
+          "openPercent": 13,
           "totalNodeCount": 152
         },
         {
@@ -17172,8 +17172,8 @@
         "id": 55,
         "name": "Ariel",
         "open": 1,
-        "openNodeCount": 12,
-        "openPercent": 8,
+        "openNodeCount": 19,
+        "openPercent": 13,
         "totalNodeCount": 152
       },
       "data": {
@@ -17523,7 +17523,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvE Defense",
             "nodeId": 550031,
-            "open": 0,
+            "open": 1,
             "row": 3,
             "type": "Stat"
           },
@@ -17539,7 +17539,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvE Accuracy",
             "nodeId": 550016,
-            "open": 0,
+            "open": 1,
             "row": 2,
             "type": "Stat"
           },
@@ -17770,7 +17770,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvE Attack",
             "nodeId": 550047,
-            "open": 0,
+            "open": 1,
             "row": 4,
             "type": "Stat"
           },
@@ -17786,7 +17786,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Legend_Sprite.png",
             "name": "Boss Damage Boost",
             "nodeId": 550032,
-            "open": 0,
+            "open": 1,
             "row": 3,
             "type": "Stat"
           },
@@ -17995,7 +17995,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "Boss Defense",
             "nodeId": 550062,
-            "open": 0,
+            "open": 1,
             "row": 5,
             "type": "Stat"
           },
@@ -18011,7 +18011,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "Boss Attack",
             "nodeId": 550063,
-            "open": 0,
+            "open": 1,
             "row": 5,
             "type": "Stat"
           },
@@ -18262,7 +18262,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Legend_Sprite.png",
             "name": "Boss Damage Tolerance",
             "nodeId": 550064,
-            "open": 0,
+            "open": 1,
             "row": 5,
             "type": "Stat"
           },
@@ -20572,22 +20572,28 @@
             "desc": "PvE Evasion +10"
           },
           {
-            "desc": "PvE Attack +9"
+            "desc": "PvE Attack +12"
           },
           {
             "desc": "PvE Damage Boost +1.5%"
           },
           {
-            "desc": "Boss Attack +3"
+            "desc": "Boss Attack +6"
           },
           {
-            "desc": "Boss Defense +30"
+            "desc": "Boss Damage Tolerance +1%"
           },
           {
-            "desc": "PvE Accuracy +15"
+            "desc": "Boss Defense +60"
           },
           {
-            "desc": "PvE Defense +30"
+            "desc": "PvE Accuracy +20"
+          },
+          {
+            "desc": "Boss Damage Boost +1%"
+          },
+          {
+            "desc": "PvE Defense +60"
           }
         ]
       }
