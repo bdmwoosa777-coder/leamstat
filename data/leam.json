@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-16T09:45:24+00:00",
+    "captured_at": "2026-11-16T11:29:08+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 187705,
+      "combatPower": 188012,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2742
+          "value": 2746
         }
       ]
     },
@@ -306,7 +306,7 @@
           "id": 55,
           "name": "Ariel",
           "open": 1,
-          "openNodeCount": 19,
+          "openNodeCount": 20,
           "openPercent": 13,
           "totalNodeCount": 152
         },
@@ -17172,7 +17172,7 @@
         "id": 55,
         "name": "Ariel",
         "open": 1,
-        "openNodeCount": 19,
+        "openNodeCount": 20,
         "openPercent": 13,
         "totalNodeCount": 152
       },
@@ -17317,7 +17317,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Unique_Sprite.png",
             "name": "PvE Damage Boost",
             "nodeId": 550001,
-            "open": 0,
+            "open": 1,
             "row": 1,
             "type": "Stat"
           },
@@ -20575,7 +20575,7 @@
             "desc": "PvE Attack +12"
           },
           {
-            "desc": "PvE Damage Boost +1.5%"
+            "desc": "PvE Damage Boost +3%"
           },
           {
             "desc": "Boss Attack +6"
