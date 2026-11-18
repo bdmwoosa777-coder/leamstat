@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-18T03:59:57+00:00",
+    "captured_at": "2026-11-18T05:07:42+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 190377,
+      "combatPower": 191234,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -37,10 +37,10 @@
         {
           "name": "Might",
           "statSecondList": [
-            "Attack increase +9.9%"
+            "Attack increase +10%"
           ],
           "type": "STR",
-          "value": 99
+          "value": 100
         },
         {
           "name": "Dexterity",
@@ -951,7 +951,7 @@
           "id": 16150000,
           "name": "Jointstrike: Corrode",
           "needLevel": 22,
-          "skillLevel": 18
+          "skillLevel": 19
         },
         {
           "acquired": 0,
