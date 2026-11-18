@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-18T13:19:53+00:00
+Время запроса: 2026-11-18T13:28:06+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 191301
+Боевая мощь: 194114
 Сервер: Quai
 ID сервера: 2317
 
@@ -24,7 +24,7 @@ Death [Triniel]: 46 | Critical Hit increase +4.6%, Regeneration Penetration +4.6
 Wisdom [Lumiel]: 51 | MP Cost -5.1%, Double Chance +5.1%
 Destiny [Marchutan]: 53 | MP increase +5.3%, Endurance +5.3%
 Space [Israphel]: 28 | Move Speed +2.8%, Block increase +2.8%
-아이템레벨: 2748
+아이템레벨: 2768
 
 === ВЕЩИ: ПОЛНЫЕ СЛУЧАЙНЫЕ ХАРАКТЕРИСТИКИ И КАМНИ ===
 
@@ -438,7 +438,7 @@ Dp | Jointstrike: Destructive Attack | ур. 0 | установлен: нет
 Dp | Enhance: Spirit's Benediction | ур. 20 | установлен: да
 Dp | Flame Blessing | ур. 20 | установлен: да
 Dp | Summon: Ancient Spirit | ур. 20 | установлен: да
-Dp | Jointstrike: Corrode | ур. 19 | установлен: да
+Dp | Jointstrike: Corrode | ур. 20 | установлен: да
 Dp | Kaisinel's Power | ур. 0 | установлен: нет
 Dp | Siphon | ур. 0 | установлен: нет
 Dp | Cry of Terror | ур. 0 | установлен: нет
@@ -1595,7 +1595,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   Все открытые бонусы характеристик: HP +100 | PvE Evasion +10 | PvE Attack +15 | MP +50 | PvE Damage Boost +3% | Boss Attack +6 | Boss Damage Tolerance +1% | Boss Defense +60 | PvE Accuracy +20 | Boss Damage Boost +1% | PvE Defense +60
   Все открытые бонусы навыков: 
 
-[Azphel] 25/152 (ID=56)
+[Azphel] 36/152 (ID=56)
   [закрыт] R1/C1 PvP Damage Tolerance (Stat) PvP Damage Tolerance +1.5%
   [закрыт] R1/C2 PvP Attack (Stat) PvP Attack +3
   [закрыт] R1/C3 PvP Defense (Stat) PvP Defense +30
@@ -1603,7 +1603,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R1/C5  (None) 
   [закрыт] R1/C6 PvP Critical Hit, PvP Critical Hit Resist (Stat) PvP Critical Hit +5, PvP Critical Hit Resist +5
   [закрыт] R1/C7 PvP Accuracy (Stat) PvP Accuracy +5
-  [закрыт] R1/C8 PvP Damage Tolerance (Stat) PvP Damage Tolerance +1.5%
+  [ОТКРЫТ] R1/C8 PvP Damage Tolerance (Stat) PvP Damage Tolerance +1.5%
   [закрыт] R1/C9  (None) 
   [закрыт] R1/C10 PvP Critical Hit, PvP Critical Hit Resist (Stat) PvP Critical Hit +5, PvP Critical Hit Resist +5
   [закрыт] R1/C11 PvP Evasion (Stat) PvP Evasion +3
@@ -1618,7 +1618,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R2/C5 PvP Attack (Stat) PvP Attack +3
   [закрыт] R2/C6 PvP Defense (Stat) PvP Defense +30
   [закрыт] R2/C7  (None) 
-  [закрыт] R2/C8 PvP Evasion (Stat) PvP Evasion +3
+  [ОТКРЫТ] R2/C8 PvP Evasion (Stat) PvP Evasion +3
   [закрыт] R2/C9  (None) 
   [закрыт] R2/C10 PvP Accuracy (Stat) PvP Accuracy +5
   [закрыт] R2/C11  (None) 
@@ -1632,9 +1632,9 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R3/C4 PvP Attack, PvP Defense (Stat) PvP Attack +3, PvP Defense +30
   [закрыт] R3/C5  (None) 
   [закрыт] R3/C6 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
-  [закрыт] R3/C7 PvP Accuracy, PvP Evasion (Stat) PvP Accuracy +5, PvP Evasion +3
-  [закрыт] R3/C8 Max MP (Stat) MP +50
-  [закрыт] R3/C9 PvP Defense (Stat) PvP Defense +30
+  [ОТКРЫТ] R3/C7 PvP Accuracy, PvP Evasion (Stat) PvP Accuracy +5, PvP Evasion +3
+  [ОТКРЫТ] R3/C8 Max MP (Stat) MP +50
+  [ОТКРЫТ] R3/C9 PvP Defense (Stat) PvP Defense +30
   [закрыт] R3/C10 Status Effect Chance (Stat) Status Effect Chance +1%
   [закрыт] R3/C11 PvP Critical Hit (Stat) PvP Critical Hit +5
   [закрыт] R3/C12 Max HP (Stat) HP +100
@@ -1647,7 +1647,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R4/C4  (None) 
   [закрыт] R4/C5  (None) 
   [закрыт] R4/C6  (None) 
-  [закрыт] R4/C7 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [ОТКРЫТ] R4/C7 PvP Critical Hit (Stat) PvP Critical Hit +5
   [закрыт] R4/C8  (None) 
   [закрыт] R4/C9 PvP Evasion (Stat) PvP Evasion +3
   [закрыт] R4/C10  (None) 
@@ -1715,7 +1715,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R8/C12  (None) 
   [закрыт] R8/C13 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
   [закрыт] R8/C14 PvP Attack (Stat) PvP Attack +3
-  [закрыт] R8/C15 PvP Damage Boost (Stat) PvP Damage Boost +1.5%
+  [ОТКРЫТ] R8/C15 PvP Damage Boost (Stat) PvP Damage Boost +1.5%
   [закрыт] R9/C1 PvP Evasion (Stat) PvP Evasion +3
   [закрыт] R9/C2  (None) 
   [закрыт] R9/C3 PvP Accuracy, PvP Evasion (Stat) PvP Accuracy +5, PvP Evasion +3
@@ -1730,7 +1730,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R9/C12  (None) 
   [закрыт] R9/C13  (None) 
   [закрыт] R9/C14  (None) 
-  [закрыт] R9/C15 PvP Critical Hit (Stat) PvP Critical Hit +5
+  [ОТКРЫТ] R9/C15 PvP Critical Hit (Stat) PvP Critical Hit +5
   [закрыт] R10/C1 PvP Critical Hit, PvP Critical Hit Resist (Stat) PvP Critical Hit +5, PvP Critical Hit Resist +5
   [закрыт] R10/C2 PvP Accuracy (Stat) PvP Accuracy +5
   [закрыт] R10/C3 PvP Critical Hit (Stat) PvP Critical Hit +5
@@ -1745,7 +1745,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [ОТКРЫТ] R10/C12 PvP Accuracy (Stat) PvP Accuracy +5
   [ОТКРЫТ] R10/C13 PvP Attack, PvP Defense (Stat) PvP Attack +3, PvP Defense +30
   [закрыт] R10/C14  (None) 
-  [закрыт] R10/C15 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
+  [ОТКРЫТ] R10/C15 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
   [закрыт] R11/C1  (None) 
   [закрыт] R11/C2  (None) 
   [закрыт] R11/C3 Status Effect Resist (Stat) Status Effect Resist +1%
@@ -1759,8 +1759,8 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R11/C11 Status Effect Resist (Stat) Status Effect Resist +1%
   [закрыт] R11/C12  (None) 
   [ОТКРЫТ] R11/C13 PvP Evasion (Stat) PvP Evasion +3
-  [закрыт] R11/C14 PvP Attack (Stat) PvP Attack +3
-  [закрыт] R11/C15 Status Effect Chance (Stat) Status Effect Chance +1%
+  [ОТКРЫТ] R11/C14 PvP Attack (Stat) PvP Attack +3
+  [ОТКРЫТ] R11/C15 Status Effect Chance (Stat) Status Effect Chance +1%
   [закрыт] R12/C1  (None) 
   [закрыт] R12/C2  (None) 
   [закрыт] R12/C3 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
@@ -1821,7 +1821,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R15/C13 PvP Defense (Stat) PvP Defense +30
   [закрыт] R15/C14 PvP Attack (Stat) PvP Attack +3
   [ОТКРЫТ] R15/C15 PvP Damage Tolerance (Stat) PvP Damage Tolerance +1.5%
-  Все открытые бонусы характеристик: HP +200 | PvP Defense +150 | PvP Critical Hit Resist +10 | PvP Critical Hit +20 | MP +50 | PvP Damage Tolerance +3% | PvP Evasion +15 | PvP Accuracy +30 | PvP Attack +9
+  Все открытые бонусы характеристик: HP +200 | PvP Damage Boost +1.5% | PvP Defense +180 | PvP Critical Hit Resist +15 | PvP Critical Hit +30 | MP +100 | PvP Damage Tolerance +4.5% | PvP Evasion +21 | PvP Accuracy +35 | Status Effect Chance +1% | PvP Attack +12
   Все открытые бонусы навыков: 
 
 === ОШИБКИ API / НЕПОЛНЫЕ ДАННЫЕ ===
