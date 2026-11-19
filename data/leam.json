@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-19T09:12:23+00:00",
+    "captured_at": "2026-11-19T10:14:18+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 194926,
+      "combatPower": 195129,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -37,20 +37,20 @@
         {
           "name": "Might",
           "statSecondList": [
-            "Attack increase +10.2%"
+            "Attack increase +10.4%"
           ],
           "type": "STR",
-          "value": 102
+          "value": 104
         },
         {
           "name": "Dexterity",
           "statSecondList": [
-            "Evasion increase +5.4%",
-            "Block increase +5.4%",
-            "Critical Hit Resist increase +5.4%"
+            "Evasion increase +5.5%",
+            "Block increase +5.5%",
+            "Critical Hit Resist increase +5.5%"
           ],
           "type": "DEX",
-          "value": 54
+          "value": 55
         },
         {
           "name": "Intelligence",
@@ -69,11 +69,11 @@
         {
           "name": "Precision",
           "statSecondList": [
-            "Accuracy increase +4.1%",
-            "Critical Hit increase +4.1%"
+            "Accuracy increase +4.2%",
+            "Critical Hit increase +4.2%"
           ],
           "type": "AGI",
-          "value": 41
+          "value": 42
         },
         {
           "name": "Willpower",
