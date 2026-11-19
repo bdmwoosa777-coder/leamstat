@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-19T22:55:05+00:00",
+    "captured_at": "2026-11-19T23:51:25+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 195216,
+      "combatPower": 195418,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -180,7 +180,7 @@
       ]
     },
     "title": {
-      "ownedCount": 251,
+      "ownedCount": 252,
       "titleList": [
         {
           "equipCategory": "Etc",
@@ -248,8 +248,8 @@
           "grade": "Unique",
           "id": 23010021,
           "name": "Unbound by Genus",
-          "ownedCount": 89,
-          "ownedPercent": 84,
+          "ownedCount": 90,
+          "ownedPercent": 85,
           "statList": [
             {
               "desc": "PvE Damage Boost +1%"
