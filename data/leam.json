@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-19T06:10:30+00:00",
+    "captured_at": "2026-11-19T07:24:23+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 194866,
+      "combatPower": 194926,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -180,7 +180,7 @@
       ]
     },
     "title": {
-      "ownedCount": 250,
+      "ownedCount": 251,
       "titleList": [
         {
           "equipCategory": "Etc",
@@ -198,8 +198,8 @@
           "grade": "Unique",
           "id": 22010061,
           "name": "Through Hell and Back",
-          "ownedCount": 78,
-          "ownedPercent": 76,
+          "ownedCount": 79,
+          "ownedPercent": 77,
           "statList": [
             {
               "desc": "Block +10"
