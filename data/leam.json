@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-20T09:09:56+00:00",
+    "captured_at": "2026-11-20T10:11:23+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 195456,
+      "combatPower": 195500,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2768
+          "value": 2772
         }
       ]
     },
@@ -306,8 +306,8 @@
           "id": 55,
           "name": "Ariel",
           "open": 1,
-          "openNodeCount": 22,
-          "openPercent": 14,
+          "openNodeCount": 25,
+          "openPercent": 16,
           "totalNodeCount": 152
         },
         {
@@ -17170,8 +17170,8 @@
         "id": 55,
         "name": "Ariel",
         "open": 1,
-        "openNodeCount": 22,
-        "openPercent": 14,
+        "openNodeCount": 25,
+        "openPercent": 16,
         "totalNodeCount": 152
       },
       "data": {
@@ -19448,7 +19448,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvE Defense",
             "nodeId": 550159,
-            "open": 0,
+            "open": 1,
             "row": 11,
             "type": "Stat"
           },
@@ -19464,7 +19464,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvE Evasion",
             "nodeId": 550144,
-            "open": 0,
+            "open": 1,
             "row": 10,
             "type": "Stat"
           },
@@ -19662,7 +19662,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Rare_Sprite.png",
             "name": "PvE Accuracy, PvE Evasion",
             "nodeId": 550174,
-            "open": 0,
+            "open": 1,
             "row": 12,
             "type": "Stat"
           },
@@ -20567,7 +20567,7 @@
             "desc": "HP +100"
           },
           {
-            "desc": "PvE Evasion +10"
+            "desc": "PvE Evasion +20"
           },
           {
             "desc": "PvE Attack +15"
@@ -20588,13 +20588,13 @@
             "desc": "Boss Defense +60"
           },
           {
-            "desc": "PvE Accuracy +20"
+            "desc": "PvE Accuracy +25"
           },
           {
             "desc": "Boss Damage Boost +1%"
           },
           {
-            "desc": "PvE Defense +60"
+            "desc": "PvE Defense +90"
           }
         ]
       }
