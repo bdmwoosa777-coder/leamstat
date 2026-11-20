@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-20T12:03:39+00:00",
+    "captured_at": "2026-11-20T13:18:55+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 195568,
+      "combatPower": 195587,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2772
+          "value": 2783
         }
       ]
     },
@@ -315,8 +315,8 @@
           "id": 56,
           "name": "Azphel",
           "open": 1,
-          "openNodeCount": 36,
-          "openPercent": 24,
+          "openNodeCount": 43,
+          "openPercent": 28,
           "totalNodeCount": 152
         }
       ]
@@ -20606,8 +20606,8 @@
         "id": 56,
         "name": "Azphel",
         "open": 1,
-        "openNodeCount": 36,
-        "openPercent": 24,
+        "openNodeCount": 43,
+        "openPercent": 28,
         "totalNodeCount": 152
       },
       "data": {
@@ -22415,7 +22415,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvP Accuracy",
             "nodeId": 560030,
-            "open": 0,
+            "open": 1,
             "row": 2,
             "type": "Stat"
           },
@@ -22566,7 +22566,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Legend_Sprite.png",
             "name": "Status Effect Chance",
             "nodeId": 560040,
-            "open": 0,
+            "open": 1,
             "row": 3,
             "type": "Stat"
           },
@@ -22582,7 +22582,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvP Critical Hit",
             "nodeId": 560041,
-            "open": 0,
+            "open": 1,
             "row": 3,
             "type": "Stat"
           },
@@ -22598,7 +22598,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "Max HP",
             "nodeId": 560042,
-            "open": 0,
+            "open": 1,
             "row": 3,
             "type": "Stat"
           },
@@ -22617,7 +22617,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Rare_Sprite.png",
             "name": "PvP Accuracy, PvP Evasion",
             "nodeId": 560043,
-            "open": 0,
+            "open": 1,
             "row": 3,
             "type": "Stat"
           },
@@ -22633,7 +22633,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvP Critical Hit",
             "nodeId": 560044,
-            "open": 0,
+            "open": 1,
             "row": 3,
             "type": "Stat"
           },
@@ -22652,7 +22652,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Rare_Sprite.png",
             "name": "PvP Attack, PvP Defense",
             "nodeId": 560045,
-            "open": 0,
+            "open": 1,
             "row": 3,
             "type": "Stat"
           },
@@ -24000,19 +24000,19 @@
         "openSkillEffectList": [],
         "openStatEffectList": [
           {
-            "desc": "HP +200"
+            "desc": "HP +300"
           },
           {
             "desc": "PvP Damage Boost +1.5%"
           },
           {
-            "desc": "PvP Defense +180"
+            "desc": "PvP Defense +210"
           },
           {
             "desc": "PvP Critical Hit Resist +15"
           },
           {
-            "desc": "PvP Critical Hit +30"
+            "desc": "PvP Critical Hit +40"
           },
           {
             "desc": "MP +100"
@@ -24021,16 +24021,16 @@
             "desc": "PvP Damage Tolerance +4.5%"
           },
           {
-            "desc": "PvP Evasion +21"
+            "desc": "PvP Evasion +24"
           },
           {
-            "desc": "PvP Accuracy +35"
+            "desc": "PvP Accuracy +45"
           },
           {
-            "desc": "Status Effect Chance +1%"
+            "desc": "PvP Attack +15"
           },
           {
-            "desc": "PvP Attack +12"
+            "desc": "Status Effect Chance +2%"
           }
         ]
       }
