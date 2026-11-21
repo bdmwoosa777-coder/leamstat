@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-21T07:15:19+00:00",
+    "captured_at": "2026-11-21T08:19:45+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 196280,
+      "combatPower": 196290,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -69,11 +69,11 @@
         {
           "name": "Precision",
           "statSecondList": [
-            "Accuracy increase +4.3%",
-            "Critical Hit increase +4.3%"
+            "Accuracy increase +4.4%",
+            "Critical Hit increase +4.4%"
           ],
           "type": "AGI",
-          "value": 43
+          "value": 44
         },
         {
           "name": "Willpower",
