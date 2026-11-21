@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-21T05:59:36+00:00",
+    "captured_at": "2026-11-21T07:15:19+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 196290,
+      "combatPower": 196280,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -691,7 +691,7 @@
           "id": 16010000,
           "name": "Cold Shock",
           "needLevel": 1,
-          "skillLevel": 17
+          "skillLevel": 16
         },
         {
           "acquired": 1,
@@ -721,7 +721,7 @@
           "id": 16110000,
           "name": "Summon: Water Spirit",
           "needLevel": 3,
-          "skillLevel": 15
+          "skillLevel": 14
         },
         {
           "acquired": 1,
@@ -731,7 +731,7 @@
           "id": 16140000,
           "name": "Jointstrike: Curse",
           "needLevel": 4,
-          "skillLevel": 16
+          "skillLevel": 15
         },
         {
           "acquired": 1,
@@ -741,7 +741,7 @@
           "id": 16340000,
           "name": "Rapid Scattershot",
           "needLevel": 5,
-          "skillLevel": 16
+          "skillLevel": 17
         },
         {
           "acquired": 1,
@@ -751,7 +751,7 @@
           "id": 16130000,
           "name": "Summon: Earth Spirit",
           "needLevel": 7,
-          "skillLevel": 15
+          "skillLevel": 16
         },
         {
           "acquired": 1,
@@ -761,7 +761,7 @@
           "id": 16330000,
           "name": "Dimensional Control",
           "needLevel": 8,
-          "skillLevel": 14
+          "skillLevel": 15
         },
         {
           "acquired": 1,
@@ -841,7 +841,7 @@
           "id": 16740000,
           "name": "Corrode",
           "needLevel": 11,
-          "skillLevel": 17
+          "skillLevel": 18
         },
         {
           "acquired": 1,
@@ -851,7 +851,7 @@
           "id": 16750000,
           "name": "Spirit Revitalization",
           "needLevel": 13,
-          "skillLevel": 19
+          "skillLevel": 18
         },
         {
           "acquired": 1,
@@ -901,7 +901,7 @@
           "id": 16780000,
           "name": "Element Unification",
           "needLevel": 25,
-          "skillLevel": 17
+          "skillLevel": 18
         },
         {
           "acquired": 1,
@@ -1630,18 +1630,12 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "62.6",
+        "soulBindRate": "85.5",
         "subStats": [
           {
             "id": "AmplifyHpHealGet",
             "name": "Incoming Heal",
             "value": "16.8%",
-            "added": false
-          },
-          {
-            "id": "Critical",
-            "name": "Critical Hit",
-            "value": "28",
             "added": false
           }
         ],
@@ -1654,10 +1648,17 @@
             "added": false
           },
           {
-            "id": 16750000,
+            "id": 16780000,
             "level": 1,
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_011.png",
-            "name": "Spirit Revitalization",
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_008.png",
+            "name": "Element Unification",
+            "added": false
+          },
+          {
+            "id": 16740000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_Passive_012.png",
+            "name": "Corrode",
             "added": false
           }
         ],
@@ -2745,24 +2746,24 @@
         ],
         "subSkills": [
           {
-            "id": 16110000,
+            "id": 16130000,
             "level": 1,
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_011.png",
-            "name": "Summon: Water Spirit",
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_013.png",
+            "name": "Summon: Earth Spirit",
             "added": false
           },
           {
-            "id": 16140000,
+            "id": 16340000,
             "level": 1,
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_014.png",
-            "name": "Jointstrike: Curse",
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_034.png",
+            "name": "Rapid Scattershot",
             "added": false
           },
           {
-            "id": 16010000,
+            "id": 16330000,
             "level": 1,
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_001.png",
-            "name": "Cold Shock",
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_033.png",
+            "name": "Dimensional Control",
             "added": false
           }
         ],

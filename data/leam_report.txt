@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-21T05:59:36+00:00
+Время запроса: 2026-11-21T07:15:19+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 196290
+Боевая мощь: 196280
 Сервер: Quai
 ID сервера: 2317
 
@@ -104,13 +104,12 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Spirit's Descent 1
 
 [Helmet] Nuakum Helm +11 (Прорыв 0)
-  Привязка души: 62.6%
+  Привязка души: 85.5%
   Основные:
     Defense: 477 (+275 усиление)
     HP: 215 (+220 усиление)
   Случайные:
     Incoming Heal: 16.8%
-    Critical Hit: 28
   Манастоуны:
     Critical Hit +5
     Attack +1
@@ -118,7 +117,8 @@ Only one Theostone's effect applies when identical Theostones are engraved.
     MP +30
   Теостоны:
   Дополнительный навык: Mental Focus 1
-  Дополнительный навык: Spirit Revitalization 1
+  Дополнительный навык: Element Unification 1
+  Дополнительный навык: Corrode 1
 
 [Shoulder] Nuakum Pauldrons +11 (Прорыв 0)
   Привязка души: 82.3%
@@ -263,9 +263,9 @@ Only one Theostone's effect applies when identical Theostones are engraved.
     Attack +1
     Attack +3
   Теостоны:
-  Дополнительный навык: Summon: Water Spirit 1
-  Дополнительный навык: Jointstrike: Curse 1
-  Дополнительный навык: Cold Shock 1
+  Дополнительный навык: Summon: Earth Spirit 1
+  Дополнительный навык: Rapid Scattershot 1
+  Дополнительный навык: Dimensional Control 1
 
 [Ring2] Enraged Kromede Ring +13 (Прорыв 0)
   Привязка души: 89.5%
@@ -412,14 +412,14 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Revitalization Contract 1
 
 === НАВЫКИ И СТИГМЫ ===
-Active | Cold Shock | ур. 17 | установлен: да
+Active | Cold Shock | ур. 16 | установлен: да
 Active | Combustion | ур. 17 | установлен: да
 Active | Summon: Fire Spirit | ур. 17 | установлен: да
-Active | Summon: Water Spirit | ур. 15 | установлен: да
-Active | Jointstrike: Curse | ур. 16 | установлен: да
-Active | Rapid Scattershot | ур. 16 | установлен: да
-Active | Summon: Earth Spirit | ур. 15 | установлен: да
-Active | Dimensional Control | ур. 14 | установлен: да
+Active | Summon: Water Spirit | ур. 14 | установлен: да
+Active | Jointstrike: Curse | ур. 15 | установлен: да
+Active | Rapid Scattershot | ур. 17 | установлен: да
+Active | Summon: Earth Spirit | ур. 16 | установлен: да
+Active | Dimensional Control | ур. 15 | установлен: да
 Active | Summon: Wind Spirit | ур. 3 | установлен: да
 Active | Soul's Cry | ур. 1 | установлен: да
 Active | Elemental Fusion | ур. 17 | установлен: да
@@ -427,13 +427,13 @@ Active | Defiance | ур. 2 | установлен: нет
 Passive | Spirit Strike | ур. 19 | установлен: нет
 Passive | Spirit Protection | ур. 16 | установлен: нет
 Passive | Spirit's Descent | ур. 20 | установлен: нет
-Passive | Corrode | ур. 17 | установлен: нет
-Passive | Spirit Revitalization | ур. 19 | установлен: нет
+Passive | Corrode | ур. 18 | установлен: нет
+Passive | Spirit Revitalization | ур. 18 | установлен: нет
 Passive | Mental Focus | ур. 19 | установлен: нет
 Passive | Consecutive Countercurrent | ур. 15 | установлен: нет
 Passive | Spirit Communion | ур. 16 | установлен: нет
 Passive | Revitalization Contract | ур. 12 | установлен: нет
-Passive | Element Unification | ур. 17 | установлен: нет
+Passive | Element Unification | ур. 18 | установлен: нет
 Dp | Jointstrike: Destructive Attack | ур. 0 | установлен: нет
 Dp | Enhance: Spirit's Benediction | ур. 20 | установлен: да
 Dp | Flame Blessing | ур. 20 | установлен: да
