@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-21T14:56:05+00:00",
+    "captured_at": "2026-11-21T15:52:45+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 196415,
+      "combatPower": 196726,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2790
+          "value": 2795
         }
       ]
     },
@@ -306,8 +306,8 @@
           "id": 55,
           "name": "Ariel",
           "open": 1,
-          "openNodeCount": 28,
-          "openPercent": 18,
+          "openNodeCount": 30,
+          "openPercent": 20,
           "totalNodeCount": 152
         },
         {
@@ -17172,8 +17172,8 @@
         "id": 55,
         "name": "Ariel",
         "open": 1,
-        "openNodeCount": 28,
-        "openPercent": 18,
+        "openNodeCount": 30,
+        "openPercent": 20,
         "totalNodeCount": 152
       },
       "data": {
@@ -19680,7 +19680,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "Boss Defense",
             "nodeId": 550175,
-            "open": 0,
+            "open": 1,
             "row": 12,
             "type": "Stat"
           },
@@ -20328,7 +20328,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Unique_Sprite.png",
             "name": "PvE Damage Boost",
             "nodeId": 550218,
-            "open": 0,
+            "open": 1,
             "row": 15,
             "type": "Stat"
           },
@@ -20578,7 +20578,7 @@
             "desc": "MP +50"
           },
           {
-            "desc": "PvE Damage Boost +3%"
+            "desc": "PvE Damage Boost +4.5%"
           },
           {
             "desc": "Boss Attack +9"
@@ -20587,7 +20587,7 @@
             "desc": "Boss Damage Tolerance +1%"
           },
           {
-            "desc": "Boss Defense +60"
+            "desc": "Boss Defense +90"
           },
           {
             "desc": "PvE Accuracy +30"
