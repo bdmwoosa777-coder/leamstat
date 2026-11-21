@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-21T03:57:26+00:00",
+    "captured_at": "2026-11-21T05:00:15+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 195590,
+      "combatPower": 196290,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -691,7 +691,7 @@
           "id": 16010000,
           "name": "Cold Shock",
           "needLevel": 1,
-          "skillLevel": 15
+          "skillLevel": 17
         },
         {
           "acquired": 1,
@@ -891,7 +891,7 @@
           "id": 16790000,
           "name": "Revitalization Contract",
           "needLevel": 23,
-          "skillLevel": 13
+          "skillLevel": 12
         },
         {
           "acquired": 1,
@@ -1630,23 +1630,22 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "85.5",
+        "soulBindRate": "62.6",
         "subStats": [
           {
             "id": "AmplifyHpHealGet",
             "name": "Incoming Heal",
             "value": "16.8%",
             "added": false
+          },
+          {
+            "id": "Critical",
+            "name": "Critical Hit",
+            "value": "28",
+            "added": false
           }
         ],
         "subSkills": [
-          {
-            "id": 16790000,
-            "level": 1,
-            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_AS_SKILL_Passive_009.png",
-            "name": "Revitalization Contract",
-            "added": false
-          },
           {
             "id": 16760000,
             "level": 1,
@@ -2735,14 +2734,8 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "71.2",
+        "soulBindRate": "90.9",
         "subStats": [
-          {
-            "id": "WeaponAccuracy",
-            "name": "Accuracy",
-            "value": "39",
-            "added": false
-          },
           {
             "id": "WeaponFixingDamage",
             "name": "Attack",
@@ -2763,6 +2756,13 @@
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_014.png",
             "name": "Jointstrike: Curse",
+            "added": false
+          },
+          {
+            "id": 16010000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_001.png",
+            "name": "Cold Shock",
             "added": false
           }
         ],
@@ -2861,14 +2861,8 @@
             "exceed": false
           }
         ],
-        "soulBindRate": "68.1",
+        "soulBindRate": "89.5",
         "subStats": [
-          {
-            "id": "WeaponAccuracy",
-            "name": "Accuracy",
-            "value": "38",
-            "added": false
-          },
           {
             "id": "Critical",
             "name": "Critical Hit",
@@ -2889,6 +2883,13 @@
             "level": 1,
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_010.png",
             "name": "Summon: Fire Spirit",
+            "added": false
+          },
+          {
+            "id": 16010000,
+            "level": 1,
+            "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_001.png",
+            "name": "Cold Shock",
             "added": false
           }
         ],

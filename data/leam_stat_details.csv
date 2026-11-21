@@ -47,6 +47,7 @@
 Вещи: основные;Helmet;Nuakum Helm;HPMax;HP;215;ед.;
 Вещи: прибавка от усиления;Helmet;Nuakum Helm;HPMax [усиление];HP (усиление);220;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: случайные;Helmet;Nuakum Helm;AmplifyHpHealGet;Incoming Heal;16.8%;%;
+Вещи: случайные;Helmet;Nuakum Helm;Critical;Critical Hit;28;ед.;
 Манастоуны;Helmet;Nuakum Helm;Critical;Critical Hit;+5;ед.;
 Манастоуны;Helmet;Nuakum Helm;WeaponFixingDamage;Attack;+1;ед.;
 Манастоуны;Helmet;Nuakum Helm;WeaponFixingDamage;Attack;+3;ед.;
@@ -129,7 +130,6 @@
 Вещи: прибавка от усиления;Ring1;Enraged Kromede Ring;WeaponFixingDamage [усиление];Attack (усиление);62;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Ring1;Enraged Kromede Ring;ArmorDefense;Defense;212;ед.;
 Вещи: прибавка от усиления;Ring1;Enraged Kromede Ring;ArmorDefense [усиление];Defense (усиление);158;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: случайные;Ring1;Enraged Kromede Ring;WeaponAccuracy;Accuracy;39;ед.;
 Вещи: случайные;Ring1;Enraged Kromede Ring;WeaponFixingDamage;Attack;24;ед.;
 Манастоуны;Ring1;Enraged Kromede Ring;MPMax;MP;+30;ед.;
 Манастоуны;Ring1;Enraged Kromede Ring;Block;Block;+7;ед.;
@@ -139,7 +139,6 @@
 Вещи: прибавка от усиления;Ring2;Enraged Kromede Ring;WeaponFixingDamage [усиление];Attack (усиление);62;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
 Вещи: основные;Ring2;Enraged Kromede Ring;ArmorDefense;Defense;212;ед.;
 Вещи: прибавка от усиления;Ring2;Enraged Kromede Ring;ArmorDefense [усиление];Defense (усиление);158;ед.;"Отдельно от базового значения; не складывать с диапазоном оружия как с независимым статом"
-Вещи: случайные;Ring2;Enraged Kromede Ring;WeaponAccuracy;Accuracy;38;ед.;
 Вещи: случайные;Ring2;Enraged Kromede Ring;Critical;Critical Hit;34;ед.;
 Манастоуны;Ring2;Enraged Kromede Ring;Critical;Critical Hit;+7;ед.;
 Манастоуны;Ring2;Enraged Kromede Ring;CriticalResist;Critical Hit Resist;+7;ед.;

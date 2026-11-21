@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-21T03:57:26+00:00
+Время запроса: 2026-11-21T05:00:15+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 195590
+Боевая мощь: 196290
 Сервер: Quai
 ID сервера: 2317
 
@@ -104,19 +104,19 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Spirit's Descent 1
 
 [Helmet] Nuakum Helm +11 (Прорыв 0)
-  Привязка души: 85.5%
+  Привязка души: 62.6%
   Основные:
     Defense: 477 (+275 усиление)
     HP: 215 (+220 усиление)
   Случайные:
     Incoming Heal: 16.8%
+    Critical Hit: 28
   Манастоуны:
     Critical Hit +5
     Attack +1
     Attack +3
     MP +30
   Теостоны:
-  Дополнительный навык: Revitalization Contract 1
   Дополнительный навык: Mental Focus 1
   Дополнительный навык: Spirit Revitalization 1
 
@@ -251,12 +251,11 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Corrode 1
 
 [Ring1] Enraged Kromede Ring +13 (Прорыв 0)
-  Привязка души: 71.2%
+  Привязка души: 90.9%
   Основные:
     Attack: 88 (+62 усиление)
     Defense: 212 (+158 усиление)
   Случайные:
-    Accuracy: 39
     Attack: 24
   Манастоуны:
     MP +30
@@ -266,14 +265,14 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Теостоны:
   Дополнительный навык: Summon: Water Spirit 1
   Дополнительный навык: Jointstrike: Curse 1
+  Дополнительный навык: Cold Shock 1
 
 [Ring2] Enraged Kromede Ring +13 (Прорыв 0)
-  Привязка души: 68.1%
+  Привязка души: 89.5%
   Основные:
     Attack: 88 (+62 усиление)
     Defense: 212 (+158 усиление)
   Случайные:
-    Accuracy: 38
     Critical Hit: 34
   Манастоуны:
     Critical Hit +7
@@ -283,6 +282,7 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Теостоны:
   Дополнительный навык: Combustion 1
   Дополнительный навык: Summon: Fire Spirit 1
+  Дополнительный навык: Cold Shock 1
 
 [Bracelet1] Ascension Bracelet +11 (Прорыв 0)
   Привязка души: 100%
@@ -412,7 +412,7 @@ Only one Theostone's effect applies when identical Theostones are engraved.
   Дополнительный навык: Revitalization Contract 1
 
 === НАВЫКИ И СТИГМЫ ===
-Active | Cold Shock | ур. 15 | установлен: да
+Active | Cold Shock | ур. 17 | установлен: да
 Active | Combustion | ур. 17 | установлен: да
 Active | Summon: Fire Spirit | ур. 17 | установлен: да
 Active | Summon: Water Spirit | ур. 15 | установлен: да
@@ -432,7 +432,7 @@ Passive | Spirit Revitalization | ур. 19 | установлен: нет
 Passive | Mental Focus | ур. 19 | установлен: нет
 Passive | Consecutive Countercurrent | ур. 15 | установлен: нет
 Passive | Spirit Communion | ур. 16 | установлен: нет
-Passive | Revitalization Contract | ур. 13 | установлен: нет
+Passive | Revitalization Contract | ур. 12 | установлен: нет
 Passive | Element Unification | ур. 17 | установлен: нет
 Dp | Jointstrike: Destructive Attack | ур. 0 | установлен: нет
 Dp | Enhance: Spirit's Benediction | ур. 20 | установлен: да
