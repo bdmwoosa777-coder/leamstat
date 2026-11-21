@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-21T11:51:07+00:00
+Время запроса: 2026-11-21T13:00:22+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 196296
+Боевая мощь: 196298
 Сервер: Quai
 ID сервера: 2317
 
@@ -24,7 +24,7 @@ Death [Triniel]: 46 | Critical Hit increase +4.6%, Regeneration Penetration +4.6
 Wisdom [Lumiel]: 51 | MP Cost -5.1%, Double Chance +5.1%
 Destiny [Marchutan]: 53 | MP increase +5.3%, Endurance +5.3%
 Space [Israphel]: 28 | Move Speed +2.8%, Block increase +2.8%
-아이템레벨: 2783
+아이템레벨: 2787
 
 === ВЕЩИ: ПОЛНЫЕ СЛУЧАЙНЫЕ ХАРАКТЕРИСТИКИ И КАМНИ ===
 
@@ -1595,7 +1595,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   Все открытые бонусы характеристик: HP +100 | PvE Evasion +20 | PvE Attack +15 | MP +50 | PvE Damage Boost +3% | Boss Attack +6 | Boss Damage Tolerance +1% | Boss Defense +60 | PvE Accuracy +25 | Boss Damage Boost +1% | PvE Defense +90
   Все открытые бонусы навыков: 
 
-[Azphel] 43/152 (ID=56)
+[Azphel] 44/152 (ID=56)
   [закрыт] R1/C1 PvP Damage Tolerance (Stat) PvP Damage Tolerance +1.5%
   [закрыт] R1/C2 PvP Attack (Stat) PvP Attack +3
   [закрыт] R1/C3 PvP Defense (Stat) PvP Defense +30
@@ -1610,7 +1610,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R1/C12 Status Effect Resist (Stat) Status Effect Resist +1%
   [закрыт] R1/C13 PvP Critical Hit Resist (Stat) PvP Critical Hit Resist +5
   [закрыт] R1/C14 PvP Attack (Stat) PvP Attack +3
-  [закрыт] R1/C15 PvP Damage Boost (Stat) PvP Damage Boost +1.5%
+  [ОТКРЫТ] R1/C15 PvP Damage Boost (Stat) PvP Damage Boost +1.5%
   [закрыт] R2/C1 PvP Critical Hit (Stat) PvP Critical Hit +5
   [закрыт] R2/C2  (None) 
   [закрыт] R2/C3  (None) 
@@ -1821,7 +1821,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R15/C13 PvP Defense (Stat) PvP Defense +30
   [закрыт] R15/C14 PvP Attack (Stat) PvP Attack +3
   [ОТКРЫТ] R15/C15 PvP Damage Tolerance (Stat) PvP Damage Tolerance +1.5%
-  Все открытые бонусы характеристик: HP +300 | PvP Damage Boost +1.5% | PvP Defense +210 | PvP Critical Hit Resist +15 | PvP Critical Hit +40 | MP +100 | PvP Damage Tolerance +4.5% | PvP Evasion +24 | PvP Accuracy +45 | PvP Attack +15 | Status Effect Chance +2%
+  Все открытые бонусы характеристик: HP +300 | PvP Defense +210 | PvP Damage Boost +3% | PvP Critical Hit Resist +15 | PvP Critical Hit +40 | MP +100 | PvP Damage Tolerance +4.5% | PvP Evasion +24 | PvP Accuracy +45 | PvP Attack +15 | Status Effect Chance +2%
   Все открытые бонусы навыков: 
 
 === ОШИБКИ API / НЕПОЛНЫЕ ДАННЫЕ ===

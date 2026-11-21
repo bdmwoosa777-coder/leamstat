@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-21T11:51:07+00:00",
+    "captured_at": "2026-11-21T13:00:22+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 196296,
+      "combatPower": 196298,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2783
+          "value": 2787
         }
       ]
     },
@@ -315,8 +315,8 @@
           "id": 56,
           "name": "Azphel",
           "open": 1,
-          "openNodeCount": 43,
-          "openPercent": 28,
+          "openNodeCount": 44,
+          "openPercent": 29,
           "totalNodeCount": 152
         }
       ]
@@ -20608,8 +20608,8 @@
         "id": 56,
         "name": "Azphel",
         "open": 1,
-        "openNodeCount": 43,
-        "openPercent": 28,
+        "openNodeCount": 44,
+        "openPercent": 29,
         "totalNodeCount": 152
       },
       "data": {
@@ -22210,7 +22210,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Unique_Sprite.png",
             "name": "PvP Damage Boost",
             "nodeId": 560015,
-            "open": 0,
+            "open": 1,
             "row": 1,
             "type": "Stat"
           },
@@ -24005,10 +24005,10 @@
             "desc": "HP +300"
           },
           {
-            "desc": "PvP Damage Boost +1.5%"
+            "desc": "PvP Defense +210"
           },
           {
-            "desc": "PvP Defense +210"
+            "desc": "PvP Damage Boost +3%"
           },
           {
             "desc": "PvP Critical Hit Resist +15"
