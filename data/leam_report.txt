@@ -1,15 +1,15 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-22T05:03:34+00:00
+Время запроса: 2026-11-22T06:01:45+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 196726
+Боевая мощь: 196732
 Сервер: Quai
 ID сервера: 2317
 
 === ХАРАКТЕРИСТИКИ ПЕРСОНАЖА ===
 Might: 104 | Attack increase +10.4%
-Dexterity: 58 | Evasion increase +5.8%, Block increase +5.8%, Critical Hit Resist increase +5.8%
+Dexterity: 59 | Evasion increase +5.9%, Block increase +5.9%, Critical Hit Resist increase +5.9%
 Intelligence: 0
 Constitution: 44 | HP increase +4.4%
 Precision: 44 | Accuracy increase +4.4%, Critical Hit increase +4.4%
