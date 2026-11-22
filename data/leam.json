@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-22T14:54:42+00:00",
+    "captured_at": "2026-11-22T15:51:55+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 196864,
+      "combatPower": 196866,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -61,10 +61,10 @@
         {
           "name": "Constitution",
           "statSecondList": [
-            "HP increase +4.4%"
+            "HP increase +4.5%"
           ],
           "type": "CON",
-          "value": 44
+          "value": 45
         },
         {
           "name": "Precision",
