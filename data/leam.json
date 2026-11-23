@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-23T07:41:42+00:00",
+    "captured_at": "2026-11-23T09:30:23+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 196951,
+      "combatPower": 197007,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2795
+          "value": 2796
         }
       ]
     },
@@ -306,7 +306,7 @@
           "id": 55,
           "name": "Ariel",
           "open": 1,
-          "openNodeCount": 30,
+          "openNodeCount": 31,
           "openPercent": 20,
           "totalNodeCount": 152
         },
@@ -17172,7 +17172,7 @@
         "id": 55,
         "name": "Ariel",
         "open": 1,
-        "openNodeCount": 30,
+        "openNodeCount": 31,
         "openPercent": 20,
         "totalNodeCount": 152
       },
@@ -19935,7 +19935,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvE Attack",
             "nodeId": 550176,
-            "open": 0,
+            "open": 1,
             "row": 12,
             "type": "Stat"
           },
@@ -20572,7 +20572,7 @@
             "desc": "PvE Evasion +20"
           },
           {
-            "desc": "PvE Attack +18"
+            "desc": "PvE Attack +21"
           },
           {
             "desc": "MP +50"
