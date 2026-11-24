@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-24T12:04:08+00:00",
+    "captured_at": "2026-11-24T13:23:23+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 197175,
+      "combatPower": 197181,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -45,12 +45,12 @@
         {
           "name": "Dexterity",
           "statSecondList": [
-            "Evasion increase +6.1%",
-            "Block increase +6.1%",
-            "Critical Hit Resist increase +6.1%"
+            "Evasion increase +6.2%",
+            "Block increase +6.2%",
+            "Critical Hit Resist increase +6.2%"
           ],
           "type": "DEX",
-          "value": 61
+          "value": 62
         },
         {
           "name": "Intelligence",
