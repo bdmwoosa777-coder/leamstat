@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-24T05:14:13+00:00",
+    "captured_at": "2026-11-24T06:08:16+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 197098,
+      "combatPower": 197100,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2796
+          "value": 2800
         }
       ]
     },
@@ -315,8 +315,8 @@
           "id": 56,
           "name": "Azphel",
           "open": 1,
-          "openNodeCount": 44,
-          "openPercent": 29,
+          "openNodeCount": 48,
+          "openPercent": 32,
           "totalNodeCount": 152
         }
       ]
@@ -20608,8 +20608,8 @@
         "id": 56,
         "name": "Azphel",
         "open": 1,
-        "openNodeCount": 44,
-        "openPercent": 29,
+        "openNodeCount": 48,
+        "openPercent": 32,
         "totalNodeCount": 152
       },
       "data": {
@@ -22492,7 +22492,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvP Evasion",
             "nodeId": 560019,
-            "open": 0,
+            "open": 1,
             "row": 2,
             "type": "Stat"
           },
@@ -22508,7 +22508,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvP Attack",
             "nodeId": 560020,
-            "open": 0,
+            "open": 1,
             "row": 2,
             "type": "Stat"
           },
@@ -22524,7 +22524,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvP Defense",
             "nodeId": 560021,
-            "open": 0,
+            "open": 1,
             "row": 2,
             "type": "Stat"
           },
@@ -22757,7 +22757,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvP Critical Hit Resist",
             "nodeId": 560036,
-            "open": 0,
+            "open": 1,
             "row": 3,
             "type": "Stat"
           },
@@ -24005,13 +24005,13 @@
             "desc": "HP +300"
           },
           {
-            "desc": "PvP Defense +210"
+            "desc": "PvP Defense +240"
           },
           {
             "desc": "PvP Damage Boost +3%"
           },
           {
-            "desc": "PvP Critical Hit Resist +15"
+            "desc": "PvP Critical Hit Resist +20"
           },
           {
             "desc": "PvP Critical Hit +40"
@@ -24023,16 +24023,16 @@
             "desc": "PvP Damage Tolerance +4.5%"
           },
           {
-            "desc": "PvP Evasion +24"
+            "desc": "PvP Evasion +27"
           },
           {
             "desc": "PvP Accuracy +45"
           },
           {
-            "desc": "PvP Attack +15"
+            "desc": "Status Effect Chance +2%"
           },
           {
-            "desc": "Status Effect Chance +2%"
+            "desc": "PvP Attack +18"
           }
         ]
       }
