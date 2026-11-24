@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-24T15:08:44+00:00",
+    "captured_at": "2026-11-24T16:18:47+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -175,7 +175,7 @@
           "name": "아이템레벨",
           "statSecondList": null,
           "type": "ItemLevel",
-          "value": 2806
+          "value": 2814
         }
       ]
     },
@@ -315,8 +315,8 @@
           "id": 56,
           "name": "Azphel",
           "open": 1,
-          "openNodeCount": 49,
-          "openPercent": 32,
+          "openNodeCount": 54,
+          "openPercent": 36,
           "totalNodeCount": 152
         }
       ]
@@ -20608,8 +20608,8 @@
         "id": 56,
         "name": "Azphel",
         "open": 1,
-        "openNodeCount": 49,
-        "openPercent": 32,
+        "openNodeCount": 54,
+        "openPercent": 36,
         "totalNodeCount": 152
       },
       "data": {
@@ -21382,7 +21382,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvP Defense",
             "nodeId": 560187,
-            "open": 0,
+            "open": 1,
             "row": 13,
             "type": "Stat"
           },
@@ -22226,7 +22226,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Unique_Sprite.png",
             "name": "PvP Damage Tolerance",
             "nodeId": 560001,
-            "open": 0,
+            "open": 1,
             "row": 1,
             "type": "Stat"
           },
@@ -22242,7 +22242,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvP Attack",
             "nodeId": 560002,
-            "open": 0,
+            "open": 1,
             "row": 1,
             "type": "Stat"
           },
@@ -22258,7 +22258,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvP Defense",
             "nodeId": 560003,
-            "open": 0,
+            "open": 1,
             "row": 1,
             "type": "Stat"
           },
@@ -23882,7 +23882,7 @@
             "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/UT_FWindow_Daevanion_Node_Common_Sprite.png",
             "name": "PvP Attack",
             "nodeId": 560127,
-            "open": 0,
+            "open": 1,
             "row": 9,
             "type": "Stat"
           },
@@ -24005,10 +24005,10 @@
             "desc": "HP +300"
           },
           {
-            "desc": "PvP Defense +240"
+            "desc": "PvP Damage Boost +3%"
           },
           {
-            "desc": "PvP Damage Boost +3%"
+            "desc": "PvP Defense +300"
           },
           {
             "desc": "PvP Critical Hit Resist +20"
@@ -24020,7 +24020,7 @@
             "desc": "MP +100"
           },
           {
-            "desc": "PvP Damage Tolerance +4.5%"
+            "desc": "PvP Damage Tolerance +6%"
           },
           {
             "desc": "PvP Evasion +27"
@@ -24029,10 +24029,10 @@
             "desc": "PvP Accuracy +45"
           },
           {
-            "desc": "PvP Attack +18"
+            "desc": "Status Effect Chance +3%"
           },
           {
-            "desc": "Status Effect Chance +3%"
+            "desc": "PvP Attack +24"
           }
         ]
       }
