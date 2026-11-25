@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-25T12:09:31+00:00",
+    "captured_at": "2026-11-25T13:29:24+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 197314,
+      "combatPower": 200314,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -906,12 +906,12 @@
         {
           "acquired": 1,
           "category": "Dp",
-          "equip": 0,
+          "equip": 1,
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_024.png",
           "id": 16240000,
           "name": "Jointstrike: Destructive Attack",
           "needLevel": 22,
-          "skillLevel": 0
+          "skillLevel": 10
         },
         {
           "acquired": 1,
@@ -964,7 +964,7 @@
           "skillLevel": 0
         },
         {
-          "acquired": 0,
+          "acquired": 1,
           "category": "Dp",
           "equip": 0,
           "icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_EL_SKILL_006.png",
