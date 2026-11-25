@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "captured_at": "2026-11-25T13:29:24+00:00",
+    "captured_at": "2026-11-25T15:14:46+00:00",
     "character": "Darkleam",
     "region": "eu",
     "server_id": 2317,
@@ -18,7 +18,7 @@
       "characterLevel": 45,
       "characterName": "Darkleam",
       "className": "Spiritmaster",
-      "combatPower": 200314,
+      "combatPower": 201178,
       "gender": 2,
       "genderName": "Female",
       "pcId": 24,
@@ -37,20 +37,20 @@
         {
           "name": "Might",
           "statSecondList": [
-            "Attack increase +10.7%"
+            "Attack increase +10.8%"
           ],
           "type": "STR",
-          "value": 107
+          "value": 108
         },
         {
           "name": "Dexterity",
           "statSecondList": [
-            "Evasion increase +6.2%",
-            "Block increase +6.2%",
-            "Critical Hit Resist increase +6.2%"
+            "Evasion increase +6.3%",
+            "Block increase +6.3%",
+            "Critical Hit Resist increase +6.3%"
           ],
           "type": "DEX",
-          "value": 62
+          "value": 63
         },
         {
           "name": "Intelligence",
@@ -911,7 +911,7 @@
           "id": 16240000,
           "name": "Jointstrike: Destructive Attack",
           "needLevel": 22,
-          "skillLevel": 10
+          "skillLevel": 12
         },
         {
           "acquired": 1,
