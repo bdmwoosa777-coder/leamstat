@@ -1,9 +1,9 @@
 AION 2 — DARKLEAM / QUAI — ПОЛНЫЙ СНИМОК ПЕРСОНАЖА
-Время запроса: 2026-11-27T03:03:31+00:00
+Время запроса: 2026-11-27T04:12:15+00:00
 Источник: публичный API персонажей NCSOFT (не скриншоты, не игровая память)
 Проверка имени: Darkleam
 Уровень: 45
-Боевая мощь: 201385
+Боевая мощь: 201400
 Сервер: Quai
 ID сервера: 2317
 
@@ -24,7 +24,7 @@ Death [Triniel]: 46 | Critical Hit increase +4.6%, Regeneration Penetration +4.6
 Wisdom [Lumiel]: 51 | MP Cost -5.1%, Double Chance +5.1%
 Destiny [Marchutan]: 53 | MP increase +5.3%, Endurance +5.3%
 Space [Israphel]: 28 | Move Speed +2.8%, Block increase +2.8%
-아이템레벨: 2817
+아이템레벨: 2819
 
 === ВЕЩИ: ПОЛНЫЕ СЛУЧАЙНЫЕ ХАРАКТЕРИСТИКИ И КАМНИ ===
 
@@ -1366,7 +1366,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   Все открытые бонусы характеристик: HP +600 | MP +500 | Multi-hit Resist +4.5% | Critical Hit Resist +40 | Attack Bonus +27 | Critical Hit +40 | Multi-hit Chance +4.5% | Defense Bonus +210
   Все открытые бонусы навыков: Rapid Scattershot +1 | Spirit Revitalization +1 | Summon: Fire Spirit +1 | Spirit Communion +1 | Spirit's Descent +1 | Consecutive Countercurrent +1 | Summon: Earth Spirit +1 | Elemental Fusion +1 | Combustion +1 | Mental Focus +1 | Spirit Strike +1 | Jointstrike: Curse +1 | Dimensional Control +1 | Corrode +1 | Summon: Water Spirit +1 | Element Unification +1 | Spirit Protection +1 | Cold Shock +1
 
-[Ariel] 35/152 (ID=55)
+[Ariel] 37/152 (ID=55)
   [ОТКРЫТ] R1/C1 PvE Damage Boost (Stat) PvE Damage Boost +1.5%
   [закрыт] R1/C2 Boss Attack (Stat) Boss Attack +3
   [закрыт] R1/C3 PvE Attack, PvE Defense (Stat) PvE Attack +3, PvE Defense +30
@@ -1427,7 +1427,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R4/C13  (None) 
   [закрыт] R4/C14 PvE Evasion (Stat) PvE Evasion +5
   [закрыт] R4/C15  (None) 
-  [ОТКРЫТ] R5/C1 PvE Accuracy, PvE Evasion (Stat) PvE Accuracy +5, PvE Evasion +5
+  [закрыт] R5/C1 PvE Accuracy, PvE Evasion (Stat) PvE Accuracy +5, PvE Evasion +5
   [ОТКРЫТ] R5/C2 Boss Defense (Stat) Boss Defense +30
   [ОТКРЫТ] R5/C3 Boss Attack (Stat) Boss Attack +3
   [ОТКРЫТ] R5/C4 Boss Damage Tolerance (Stat) Boss Damage Tolerance +1%
@@ -1442,7 +1442,7 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R5/C13 Boss Defense (Stat) Boss Defense +30
   [закрыт] R5/C14 Boss Damage Boost (Stat) Boss Damage Boost +1%
   [закрыт] R5/C15  (None) 
-  [ОТКРЫТ] R6/C1 PvE Defense (Stat) PvE Defense +30
+  [закрыт] R6/C1 PvE Defense (Stat) PvE Defense +30
   [закрыт] R6/C2  (None) 
   [закрыт] R6/C3  (None) 
   [закрыт] R6/C4 PvE Evasion (Stat) PvE Evasion +5
@@ -1573,8 +1573,8 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [ОТКРЫТ] R14/C9 PvE Attack (Stat) PvE Attack +3
   [закрыт] R14/C10 Critical Hit Resist (Stat) Critical Hit Resist +10
   [закрыт] R14/C11 PvE Defense (Stat) PvE Defense +30
-  [закрыт] R14/C12 PvE Evasion (Stat) PvE Evasion +5
-  [закрыт] R14/C13 Boss Defense (Stat) Boss Defense +30
+  [ОТКРЫТ] R14/C12 PvE Evasion (Stat) PvE Evasion +5
+  [ОТКРЫТ] R14/C13 Boss Defense (Stat) Boss Defense +30
   [закрыт] R14/C14  (None) 
   [закрыт] R14/C15 PvE Accuracy (Stat) PvE Accuracy +5
   [закрыт] R15/C1 PvE Damage Tolerance (Stat) PvE Damage Tolerance +1.5%
@@ -1589,10 +1589,10 @@ Dp | Command: Proxy | ур. 0 | установлен: нет
   [закрыт] R15/C10  (None) 
   [закрыт] R15/C11  (None) 
   [закрыт] R15/C12  (None) 
-  [закрыт] R15/C13 Boss Attack, Boss Defense (Stat) Boss Attack +3, Boss Defense +30
-  [закрыт] R15/C14 Boss Attack (Stat) Boss Attack +3
+  [ОТКРЫТ] R15/C13 Boss Attack, Boss Defense (Stat) Boss Attack +3, Boss Defense +30
+  [ОТКРЫТ] R15/C14 Boss Attack (Stat) Boss Attack +3
   [закрыт] R15/C15 PvE Damage Boost (Stat) PvE Damage Boost +1.5%
-  Все открытые бонусы характеристик: HP +100 | PvE Evasion +25 | PvE Attack +24 | MP +50 | PvE Damage Boost +4.5% | Boss Attack +9 | Boss Damage Tolerance +1% | Boss Defense +90 | PvE Accuracy +40 | Boss Damage Boost +1% | PvE Defense +150
+  Все открытые бонусы характеристик: HP +100 | PvE Evasion +25 | PvE Attack +24 | MP +50 | PvE Damage Boost +4.5% | Boss Attack +15 | Boss Damage Tolerance +1% | Boss Defense +150 | PvE Accuracy +35 | Boss Damage Boost +1% | PvE Defense +120
   Все открытые бонусы навыков: 
 
 [Azphel] 54/152 (ID=56)
